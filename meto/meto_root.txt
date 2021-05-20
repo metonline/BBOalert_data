@@ -1,7 +1,6 @@
 BBOalert,<b><br>meto 210509<br></b>,
 
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/metoshortcut.txt
-
 Option,InterventinMajorFit,meto+camomille, meto+gurus, meto+gypsyqueen, meto+ozbay, meto+ratrut, meto+nilsun
 Option,NFB,meto+camomille, meto+gypsyqueen, meto+nilsun, meto+gurus, meto+ratrut, meto+ozbay
 Option, XYZ no instead NMF, meto+gypsyqueen
