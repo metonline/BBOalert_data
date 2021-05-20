@@ -1,3 +1,5 @@
+BBOalert
+
 Shortcut, Shortcuts for the CHAT box, , width=100% backgroundColor=palegreen fontSize=18px
 Shortcut,wdp, wdp !!! \n, width=50%  backgroundColor=pink
 Shortcut,wdo, Well done opponents ! \n, width=50% backgroundColor=violet
@@ -28,7 +30,7 @@ Shortcut, apr, 2/1 UDCA oynuyoruz...Romen defos…Ataklar  2. ve 4.den.…İyi o
  Option,Lang EN
 Shortcut,21s, We play 2/1 Standard carding. Leads from 1st/3rd/5th against suit and 2nd/4th against NT contracts…Good Luck. \n, width=50% backgroundColor= violet
  Option,Lang TR
-Shortcut,21s, 2/1 Standart Carding oynuyoruz. Ataklar koza karşı 1/3/5...NT'ye karşı 2/4...İyi oyunlar. \n, width=50% backgroundColor=violet
+ Shortcut,21s, 2/1 Standart Carding oynuyoruz. Ataklar koza karşı 1/3/5...NT'ye karşı 2/4...İyi oyunlar. \n, width=50% backgroundColor=violet
  Option,Lang EN
 Shortcut,ty, Thank you ! \n, width=50% backgroundColor=greenyellow
  Option,Lang TR
@@ -37,3 +39,4 @@ Shortcut,ty, Teşekkürler! \n, width=50% backgroundColor= greenyellow
 Shortcut,glp, good luck! \n, width=50% backgroundColor=navajowhite
 Option,Lang TR
 Shortcut,glp, İyi oyunlar! \n, width=50% backgroundColor=navajowhite
+Option
