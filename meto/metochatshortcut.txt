@@ -1,4 +1,8 @@
 bboalert,Common Aliases and Shortcuts
+
+
+//Script,onAnyMutation,stanmazLib.ALL_INPUT_BUTTONS();
+Script,CLOSE,setButtonPanel(false);
 Shortcut, For SLAM bidding to ALERT box, , width=100% backgroundColor=palegreen fontSize=18px
 Shortcut,KCA, Asking for Key cards, width=50% backgroundColor= lightsalmon
 Shortcut,Turbo even, Turbo (0/2/4) key cards, width=50% backgroundColor=lightblue
