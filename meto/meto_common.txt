@@ -145,6 +145,13 @@ Option,Lang TR
   Alias,Strong take-out for !H’s, !H dışında renk arayışı (güçlü)
   Alias,Strong take-out for !S’s, !s dışında renk arayışı (güçlü)
   Alias,void,şigan
+  Alias,request for redouble if invite +, eğer davet ve üzeri ise sürkontur talebi
+  Alias,weak hand (short !C) P/C, zayıf el (kısa !c) Pass/düzelt
+  Alias,as requested (invite+),talep edildiği üzere (davet ve üzeri)
+  Alias,4!H with no !C stopper,4!H; !C keseri yok
+  Alias,4!S with no !C stopper,4!S; !C keseri yok
+  Alias,2D,4!H with !C stopper,4!H; !C keseri var
+  Alias,2H,4!S with !C stopper,4!S; !C keseri var
 Option
 //BBOalert
 //Script,onAuctionBegin
