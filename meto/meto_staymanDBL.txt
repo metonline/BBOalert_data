@@ -2,9 +2,9 @@ bboalert,StaymanDBL
 
 1N--2CDb,2D,4!H with no !C stopper
 1N--2CDb,2H,4!S with no !C stopper
-1N--2CDb,--,request for redouble if invite +
+1N--2CDb,--,request for redouble if invite plus
 1N--2CDb----,2D,weak hand (short !C) P/C
-1N--2CDb----,Rd,as requested (invite+)
+1N--2CDb----,Rd,as requested (invite plus)
 1N--2CDb----Rd--,2D,4!H with !C stopper
 1N--2CDb----Rd--,2H,4!S with !C stopper
 1N--2CDb----Rd--,--,Penalty
