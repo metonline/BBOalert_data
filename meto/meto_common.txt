@@ -567,3 +567,22 @@ Option,Lang EN
 Shortcut,2/1S, We play 2/1 Standard carding. Leads from 1st/3rd/5th against suit and 2nd/4th against NT contracts…Good Luck. \n, width=50% backgroundColor= violet
 Option,Lang TR
 Shortcut,2/1S, 2/1 Standart Carding oynuyoruz. Ataklar koza karşı 1/3/5...NT'ye karşı 2/4...İyi oyunlar. \n, width=50% backgroundColor=violet
+
+//Script,onAnyOpponentChange
+if ((myDirection() == "S") || (myDirection() == "E")) {
+setTimeout(() => {
+setChatMessage(findShortcut("PREALERT"),true);
+}, 5000);
+}
+//Script
+
+Option,2/1S,meto+camomille,meto+gypsyqueen,meto+gurus,meto+ozbay
+Shortcut,PREALERT,2/1S\n
+Option,2/1U,meto+_kafkaf35
+Shortcut,PREALERT,2/1U\n
+Option,UDCA-R,meto+ratrut
+Shortcut,PREALERT,UDCA-R\n
+Option,UDCA-M,meto+342257,meto+nilsun
+Shortcut,PREALERT,UDCA-M\n
+Option
+
