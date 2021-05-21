@@ -23,3 +23,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Def2Mon1m.
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_RangeAskStayman.txt,meto+gurus,meto+camomille,meto+342257,meto+gypsyqueen,meto+nilsun,meto+ratrut
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_F_1.txt,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_xyz1h1s1n.txt
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_staymanDBL.txt
