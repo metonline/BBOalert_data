@@ -582,7 +582,9 @@ Option,2/1U,meto+_kafkaf35
 Shortcut,PREALERT,2/1U\n
 Option,UDCA-R,meto+ratrut
 Shortcut,PREALERT,UDCA-R\n
-Option,UDCA-M,meto+342257,meto+nilsun
+Option,UDCA-M,meto+nilsun
+Shortcut,PREALERT,UDCA-M\n
+Option,UDCA-M,meto+nilsun,meto+342257,meto+meto
 Shortcut,PREALERT,UDCA-M\n
 Option
 
