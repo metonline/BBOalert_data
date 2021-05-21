@@ -1,5 +1,8 @@
-BBOalert
-Option,StaymanDBL
+BBOalert,StaymanDBL
+
+When Stayman is doubled
+
+Option,StaymanDBL,meto+342257, meto+camomille
 Alias,1N--2CDb,staymanx
 staymanx,--,request for redouble if invite plus
 +,Rb,no 4-card major
