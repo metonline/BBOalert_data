@@ -1,6 +1,6 @@
 BBOalert
-Option,StaymanDBL,meto+342257
-Aliyas,1N--2CDb,staymanx
+Option,StaymanDBL
+Alias,1N--2CDb,staymanx
 staymanx,--,request for redouble if invite plus
 +,Rb,no 4-card major
 +,1D,4!H; no !C stopper
