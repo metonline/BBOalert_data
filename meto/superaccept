@@ -1,0 +1,7 @@
+bboalert
+option,superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,meto+gypsqueen
+Script,X,R = C.match(makeRegExp(CR))[2];
+Script,Y,R = C.match(makeRegExp(CR))[2];
+1N--2([HS])--,2N,4!%Y%; maximum
++,3[CD],4!%Y%; maximum & doubleton with no values
++
