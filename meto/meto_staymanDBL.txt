@@ -1,4 +1,4 @@
-BBOalert,StaymanDBL
+bboalert,StaymanDBL
 
 Option,StaymanDBL
 1N--2CDb,--,request for redouble if invite plus
