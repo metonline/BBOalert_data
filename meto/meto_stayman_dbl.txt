@@ -1,0 +1,13 @@
+BBOalert
+Option,StaymanDBL,meto+342257
+Aliyas,1N--2CDb,staymanx
+staymanx,--,request for redouble if invite plus
++,Rb,no 4-card major
++,1D,4!H; no !C stopper
++,1H,4!S; no !C stopper
+staymanx----,Rb; invite plus (as requested)
++,2D,P/C (weak hand & short!c)
+staymanx----Rb--,--,Penalty
++,2D,4!H with !C stopper
++,2H,4!s with !C stopper
+Option
