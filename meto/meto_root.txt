@@ -116,7 +116,7 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Gazilli.tx
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_xyz1h1s1n.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Splinter.txt,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_3x1GF.txt,meto+camomille,meto+gypsyqueen,meto+nilsun
-
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_stayman_dbl.txt
 
 
 
