@@ -534,6 +534,28 @@ window.KBDBIDHELPERINSTANCE.onBiddingBoxDisplayed();
 window.KBDBIDHELPERINSTANCE.onBiddingBoxHidden();
 //Script
 
+//Script,onAnyOpponentChange
+if ((myDirection() == "S") || (myDirection() == "E")) {
+setTimeout(() => {
+setChatMessage(findShortcut("PREALERT"),true);
+}, 5000);
+}
+//Script
+
+Option,2/1S,meto+camomille,meto+gypsyqueen,meto+gurus,meto+ozbay
+Shortcut,PREALERT,2/1S\n
+Option,2/1U,meto+_kafkaf35
+Shortcut,PREALERT,2/1U\n
+Option,UDCA-R,meto+ratrut
+Shortcut,PREALERT,UDCA-R\n
+Option,UDCA-M,meto+nilsun
+Shortcut,PREALERT,UDCA-M\n
+Option,UDCA-M,meto+nilsun
+Shortcut,PREALERT,UDCA-M\n
+Option,f1,meto+342257
+Shortcut,PREALERT,f1\n
+Option
+
 //Script,onAnyMutation,stanmazLib.ALL_INPUT_BUTTONS();
 Script,CLOSE,setButtonPanel(false);
 Button,Transfer, Transfer to,backgroundColor=yellow width=20% fontSize=20px borderRadius=100%
@@ -573,25 +595,4 @@ Shortcut,f1,We play 1-level suit openings 14+ (11+ with both majors) forcing for
   Option,Lang TR
 Shortcut,f1,1-renk açışlarımız 14+ (her-iki major varken 11+) ve 1-tur forcing…1NT açışımız 12-14 (5.li major ve 44MM(41)mm olabilir)..2’ler 10-13; 5+uzunluk ile…1!C: 2+!C (dengeli iken 5.li herhangi bir renk bulunabilir).. 1!D=4+!D genellikle dengesiz… 
 
-//Script,onAnyOpponentChange
-if ((myDirection() == "S") || (myDirection() == "E")) {
-setTimeout(() => {
-setChatMessage(findShortcut("PREALERT"),true);
-}, 5000);
-}
-//Script
-
-Option,2/1S,meto+camomille,meto+gypsyqueen,meto+gurus,meto+ozbay
-Shortcut,PREALERT,2/1S\n
-Option,2/1U,meto+_kafkaf35
-Shortcut,PREALERT,2/1U\n
-Option,UDCA-R,meto+ratrut
-Shortcut,PREALERT,UDCA-R\n
-Option,UDCA-M,meto+nilsun
-Shortcut,PREALERT,UDCA-M\n
-Option,UDCA-M,meto+nilsun
-Shortcut,PREALERT,UDCA-M\n
-Option,f1,meto+342257
-Shortcut,PREALERT,f1\n
-Option
 
