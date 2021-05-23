@@ -56,6 +56,11 @@ Option,Gazilli,meto+sansmelegi
 Option,xyz1h1s1n (all)
 Option,Splinter,meto+camomille
 Option,3/1GF,meto+camomille,meto+gypsyqueen, meto+nilsun
+Option,21STD,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay
+Option,21U,meto+_kafkaf35
+Option,APELRITA,meto+ratrut
+Option,APELMEHMET,meto+342257
+Option,APELNILO,meto+nilsun
 Option
 
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
@@ -95,6 +100,7 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_xyz1h1s1n.
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Splinter.txt,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_3x1GF.txt,meto+camomille,meto+gypsyqueen,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_staymanDBL.txt
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_PREALERT.txt
 
 
 
