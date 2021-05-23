@@ -598,17 +598,15 @@ setChatMessage(findShortcut("PREALERT"),true);
 }
 //Script
 
-Option,system1,meto+camomille,meto+gypsyqueen,meto+gurus,meto+ozbay
+Option,21STD,meto+camomille,meto+gypsyqueen,meto+gurus,meto+ozbay
 Shortcut,PREALERT,2/1S\n, width=50% backgroundColor=red
-Option,system2,meto+_kafkaf35
+Option,21U,meto+_kafkaf35
 Shortcut,PREALERT,2/1U\n, width=50% backgroundColor=red
-Option,system3,meto+ratrut
+Option,APELRITA,meto+ratrut
 Shortcut,PREALERT,UDCA-R\n, width=50% backgroundColor=red
-Option,system4,meto+nilsun
+Option,APELNILO,meto+nilsun
 Shortcut,PREALERT,UDCA-M\n, width=50% backgroundColor=red
-Option,system5,meto+nilsun
-Shortcut,PREALERT,UDCA-M\n, width=50% backgroundColor=red
-Option,system6,meto+342257
+Option,APELMEHMET,meto+342257
 Shortcut,PREALERT,f1\n, width=50% backgroundColor=red
 Option
 
