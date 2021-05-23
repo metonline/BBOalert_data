@@ -154,6 +154,7 @@ Option,Lang TR
   Alias,2H,4!S with !C stopper,4!S; !C keseri var
   Alias,invitation for game,zona davet
   Alias,doubleton with no values,doubleton; renkte puan yok
+  Aliyas,Transfer to 3NT,3NT'ye Transfer
 Option
 
 //BBOalert
