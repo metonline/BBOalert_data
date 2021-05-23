@@ -3,9 +3,14 @@ BBOalert,<b><br>meto 210509<br></b>,
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_common.txt
 
 Shortcut, Shortcuts for the CHAT box, , width=100% backgroundColor=palegreen fontSize=18px
-Shortcut,wlc Bosphorus, Welcome to Bosphorus Team Games…Good luck & Enjoy…., width=50% backgroundColor=blanchedalmond
-Shortcut,HG Bosphorus, Bosphorus Takım Maçına Hoşgeldiniz. Herkese bol şans ve iyi oyunlar!, width=50% peachpuff
-Shortcut,congrats, Congratulations for the winner team…Thanks for joining, width=50% backgroundColor=lightsalmon
+Option,Lang EN
+Shortcut,wlcBosfor, Welcome to Bosphorus Team Games…Good luck & Enjoy…., width=50% backgroundColor=blanchedalmond
+Option,Lang TR
+Shortcut,wlcBosfor, Bosphorus Takım Maçına Hoşgeldiniz! Herkese bol şans ve iyi oyunlar!, width=50% peachpuff
+Option,Lang EN
+Shortcut,congrat, Congratulations for the winner team…Thanks for joining, width=50% backgroundColor=lightsalmon
+Option,Lang TR
+Shortcut,congrat, Katıldığınız için teşekkürler...Kazanan takıma tebrikler, width=50% backgroundColor=lightsalmon
  Option,Lang EN
   Shortcut,hhh,Hello\n, width=50% backgroundColor= peachpuff
   Option,Lang TR
