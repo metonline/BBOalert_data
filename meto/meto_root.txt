@@ -66,6 +66,7 @@ Option,21U,meto+_kafkaf35
 Option,APELRITA,meto+ratrut,meto+auzun78
 Option,APELMEHMET,meto+342257
 Option,APELNILO,meto+nilsun
+Option,superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,meto+gypsqueen,meto+ratrut
 Option
 
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
@@ -106,6 +107,7 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Splinter.t
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_3x1GF.txt,meto+camomille,meto+gypsyqueen,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_staymanDBL.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_PREALERT.txt
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_superaccept
 
 
 
