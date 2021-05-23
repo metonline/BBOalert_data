@@ -1,7 +1,21 @@
 bboalert
-option,superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,meto+gypsqueen
-Script,X,R = C.match(makeRegExp(CR))[2];
-Script,Y,R = C.match(makeRegExp(CR))[2];
-1N--2([HS])--,2N,4!%Y%; maximum
-+,3[CD],4!%Y%; maximum & doubleton with no values
-+
+Option,superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,meto+gypsqueen
+1N--2D--2S;maximum & doubleton with no values
++,2N,4!H; maximum
++,3[CD],4!h;maximum & doubleton with no values
++,3H,4!H; minimum
+1N--2H--,2N,4!H; maximum
++,3[CDH],4!h;maximum & doubleton with no values
+2N--3D--,3H,2!H
++,3S;3!H-4!S
++,3N,3/4!H
++,4[CD],4!h;doubleton with no values
++,4H,4!H; Control in all suits
+2N--3H--,3S,2!S
++,3N,3/4!S
++,4[CDH],4!S;doubleton with no values
+2N--3D--3H--,3S,Transfer to 3NT
++,3N,5!H-4!S
+2N--,3N,5!S-4!H (non-forcing)
+2N--3H--3S--,4H,5!S-4!H (slam forcing)
+Option
