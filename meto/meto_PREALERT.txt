@@ -1,3 +1,4 @@
+BBOalert
 //Script,onAnyOpponentChange
 if ((myDirection() == "S") || (myDirection() == "E")) {
 setTimeout(() => {
