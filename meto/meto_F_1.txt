@@ -3690,14 +3690,14 @@ Option, F_1, meto+342257
 1H--2H--,4C,5!C's | have A/K
 1H--2H--,4D,5!d's | have A/K
 1H--2H--,4H,To Play
-1H--,2N,(3/4)!h's | 5-11 HCP
+1H--,2N,(3/4)!h's | 5-9 HCP
 1H--2N--,3C,game interest
 1H--2N--3C--,3D,3!h's | 7-9 HCP
 1H--2N--3C--,3H,4!h's | 5-6 HCP 
 1H--2N--3C--,3N,4!h's | 7-9 HCP
-1H--2N--3C--,3S,single !s | 4!s's | 8-11 HCP
-1H--2N--3C--,4C,single !c | 4!h's | 8-11 HCP
-1H--2N--3C--,4D,single !d | 4!h's | 8-11 HCP
+1H--2N--3C--,3S,single !s | 4!s's | 7-9 HCP
+1H--2N--3C--,4C,single !c | 4!h's | 7-9 HCP
+1H--2N--3C--,4D,single !d | 4!h's | 7-9 HCP
 1H--2N--,3D,14-16 HCP | invitation for game
 1H--2N--3D--,3H,To Play
 1H--2N--3D--,4H,To Play
@@ -4574,14 +4574,14 @@ Option, F_1, meto+342257
 1S--2H--3S--4C--,4S,11-14 HCP
 1S--2H--3S--,4N,asking about key-cards in !S
 1S--2H--,4H,To Play | 11-13 HCP
-1S--,2N,(3/4)!s's | 5-11 HCP
+1S--,2N,(3/4)!s's | 5-9 HCP
 1S--2N--,3C,game interest
-1S--2N--3C--,3D,3!s's | 7-9 HCP
-1S--2N--3C--,3H,single !H | 4!s's | 8-11 HCP
-1S--2N--3C--,3N,4!s's | 7-9 HCP
-1S--2N--3C--,3S,4!s's | 5-6 HCP
-1S--2N--3C--,4C,single !c | 4!s's | 8-11 HCP
-1S--2N--3C--,4D,single !d | 4!s's | 8-11 HCP
+1S--2N--3C--,3D,3!s | 7-9 HCP
+1S--2N--3C--,3H,single !H | 4!s's | 7-9 HCP
+1S--2N--3C--,3N,4!s | 7-9 HCP
+1S--2N--3C--,3S,4!s | 5-6 HCP
+1S--2N--3C--,4C,single !c | 4!s's | 7-9 HCP
+1S--2N--3C--,4D,single !d | 4!s's | 7-9 HCP
 1S--2N--,3D,14-16 HCP | invitation for game
 1S--2N--3D--,3S,To Play
 1S--2N--3D--,4S,To Play
