@@ -1,0 +1,19 @@
+//Script,onAnyOpponentChange
+if ((myDirection() == "S") || (myDirection() == "E")) {
+setTimeout(() => {
+setChatMessage(findShortcut("PREALERT"),true);
+}, 5000);
+}
+//Script
+
+Option,21STD,meto+camomille,meto+gypsyqueen,meto+gurus,meto+ozbay
+Shortcut,PREALERT,2/1S\n, width=50% backgroundColor=red
+Option,21U,meto+_kafkaf35
+Shortcut,PREALERT,2/1U\n, width=50% backgroundColor=red
+Option,APELRITA,meto+ratrut
+Shortcut,PREALERT,UDCA-R\n, width=50% backgroundColor=red
+Option,APELNILO,meto+nilsun
+Shortcut,PREALERT,UDCA-M\n, width=50% backgroundColor=red
+Option,APELMEHMET,meto+342257
+Shortcut,PREALERT,f1\n, width=50% backgroundColor=red
+Option
