@@ -9,7 +9,7 @@ Option, Major 2NT
 1H--2N--,3C, 17+
 +,3D, 14-16
 +,3H, 11-13
-1S--,2N, 3/4 card support invite
+1S--,2N, 3/4 card support 5-12
 1S--2N--,3C, 17+
 +,3D, 14-16
 +,3H, 11-13; 5!S-4!H
