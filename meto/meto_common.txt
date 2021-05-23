@@ -590,24 +590,4 @@ Shortcut,f1,We play 1-level suit openings 14+ (11+ with both majors) forcing for
 Shortcut,f1,1-renk açışlarımız 14+ (her-iki major varken 11+) ve 1-tur forcing…1NT açışımız 12-14 (5.li major ve 44MM(41)mm olabilir)..2’ler 10-13; 5+uzunluk ile…1!C: 2+!C (dengeli iken 5.li herhangi bir renk bulunabilir).. 1!D=4+!D genellikle dengesiz… \n, width=50% backgroundColor=violet
 Option
 
-//Script,onAnyOpponentChange
-if ((myDirection() == "S") || (myDirection() == "E")) {
-setTimeout(() => {
-setChatMessage(findShortcut("PREALERT"),true);
-}, 5000);
-}
-//Script
-
-Option,21STD,meto+camomille,meto+gypsyqueen,meto+gurus,meto+ozbay
-Shortcut,PREALERT,2/1S\n, width=50% backgroundColor=red
-Option,21U,meto+_kafkaf35
-Shortcut,PREALERT,2/1U\n, width=50% backgroundColor=red
-Option,APELRITA,meto+ratrut
-Shortcut,PREALERT,UDCA-R\n, width=50% backgroundColor=red
-Option,APELNILO,meto+nilsun
-Shortcut,PREALERT,UDCA-M\n, width=50% backgroundColor=red
-Option,APELMEHMET,meto+342257
-Shortcut,PREALERT,f1\n, width=50% backgroundColor=red
-Option
-
 
