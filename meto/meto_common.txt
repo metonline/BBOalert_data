@@ -153,6 +153,7 @@ Option,Lang TR
   Alias,2D,4!H with !C stopper,4!H; !C keseri var
   Alias,2H,4!S with !C stopper,4!S; !C keseri var
   Alias,invitation for game,zona davet
+  Alias,doubleton with no values,doubleton; renkte puan yok
 Option
 
 //BBOalert
