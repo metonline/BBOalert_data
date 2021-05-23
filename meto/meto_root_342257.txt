@@ -11,6 +11,7 @@ Option, when_competition_on_NT, meto+ratrut, meto+342257, meto+nilsun, meto+gyps
 Option, Def2Mon1m, meto+camomille, meto+gurus, meto+nilsun, meto+ozbay, meto+ratrut, meto+gypsyqueen, meto+342257
 Option,RangeAskStayman, meto+gurus, meto+camomille, meto+342257, meto+gypsyqueen, meto+nilsun, meto+ratrut
 Option,F_1, meto+342257
+Option,APELMEHMET,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_MichaelsSpec.txt,meto+nilsun,meto+camomille,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_FNTDefans.txt,meto+342257,meto+_kafkaf35,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Major2NTF1.txt,meto+nilsun,meto+342257
@@ -24,3 +25,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_RangeAskSt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_F_1.txt,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_xyz1h1s1n.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_staymanDBL.txt
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_PREALERT.txt
