@@ -63,7 +63,7 @@ Option,Splinter,meto+camomille
 Option,3/1GF,meto+camomille,meto+gypsyqueen, meto+nilsun
 Option,21STD,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay
 Option,21U,meto+_kafkaf35
-Option,APELRITA,meto+ratrut
+Option,APELRITA,meto+ratrut,meto+auzun78
 Option,APELMEHMET,meto+342257
 Option,APELNILO,meto+nilsun
 Option
