@@ -161,6 +161,7 @@ Option,Lang TR
   Alias,preemptive,blokatif
   Alias,P/C to 2!D, Pas geç ya da 2!D'ya düzelt
   Alias,fit to !H & !S,!H ve !S'e fit var
+  Alias,both majors,majörler (54 olabilir!)
 Option
 
 //BBOalert
