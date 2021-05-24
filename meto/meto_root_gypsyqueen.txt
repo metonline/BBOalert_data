@@ -14,7 +14,7 @@ Option, Def2Mon1m, meto+camomille, meto+gurus, meto+nilsun, meto+ozbay, meto+rat
 Option,RangeAskStayman, meto+gurus, meto+camomille, meto+342257, meto+gypsyqueen, meto+nilsun, meto+ratrut
 Option,Drury3way_@3@4,meto+camomille, meto+nilsun, meto+gurus, meto+gypsyqueen, meto+ratrut
 Option,3/1GF,meto+camomille,meto+gypsyqueen, meto+nilsun
-Option,21STD,meto+gypsyqueen
+Option
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NFB.txt,meto+camomille,meto+gypsyqueen,meto+nilsun,meto+gurus,meto+ratrut,meto+ozbay
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_XYZ_or_NMF.txt,meto+gypsyqueen
@@ -30,4 +30,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_RangeAskSt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Drury3way_.txt,meto+camomille,meto+nilsun,meto+gurus,meto+gypsyqueen,meto+ratrut
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_xyz1h1s1n.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_3x1GF.txt,meto+camomille,meto+gypsyqueen,meto+nilsun
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_PREALERT.txt
+
