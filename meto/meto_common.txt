@@ -157,6 +157,7 @@ Option,Lang TR
   Alias,Transfer to 3NT,3NT'ye Transfer
   Alias,transfer to 2!S; 4+!S,2!S'e transfer; 4+!S ile
   Alias,transfer to 2!H; 4+!S,2!H'e transfer; 4+!H ile
+  Alias,forced,mecburi deklere
 Option
 
 //BBOalert
