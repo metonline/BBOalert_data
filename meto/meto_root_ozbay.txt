@@ -11,6 +11,7 @@ Option, AgainstWeakNT no instead Meckwell, meto+342257, meto+nilsun, meto+ozbay,
 Option,DefenseNTBalance, meto+nilsun, meto+gurus, meto+ratrut, meto+gypsyqueen, meto+ozbay, meto+342257
 Option, Def2Mon1m, meto+camomille, meto+gurus, meto+nilsun, meto+ozbay, meto+ratrut, meto+gypsyqueen, meto+342257
 Option, Walsh, meto+camomille, meto+nilsun, meto+ozbay, meto+gurus, meto+_kafkaf35, meto+ratrut
+Optionimultylandy,meto+ozbay,meto+gypsyqueen
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NFB.txt,meto+camomille,meto+gypsyqueen,meto+nilsun,meto+gurus,meto+ratrut,meto+ozbay
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Interventionmajor.txt,meto+camomille,meto+nilsun,meto+gurus,meto+_kafkaf35,meto+ozbay
@@ -23,3 +24,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_DefenseNTB
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Def2Mon1m.txt,meto+camomille,meto+gurus,meto+nilsun,meto+ozbay,meto+ratrut,meto+gypsyqueen,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Walsh.txt,meto+camomille,meto+nilsun,meto+ozbay,meto+gurus,meto+_kafkaf35,meto+ratrut
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_xyz1h1s1n.txt
+https://github.com/metonline/BBOalert_data/blob/main/meto/meto_multylandy.txt
