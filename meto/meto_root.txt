@@ -23,6 +23,9 @@ Shortcut,ty, Teşekkürler! \n, width=50% backgroundColor= greenyellow
 Shortcut,glp, good luck! \n, width=50% backgroundColor=navajowhite
 Option,Lang TR
 Shortcut,glp, İyi oyunlar! \n, width=50% backgroundColor=navajowhite
+Shortcut,BTG, Bosphorus Games
+Shortcut,AAA, Asia
+Shortcut,EEE, Europe
 Option
 
 Option,InterventinMajorFit,meto+camomille, meto+gurus, meto+gypsyqueen, meto+ozbay, meto+ratrut, meto+nilsun
