@@ -159,6 +159,7 @@ Option,Lang TR
   Alias,transfer to 2!H; 4+!S,2!H'e transfer; 4+!H ile
   Alias,forced,mecburi deklere
   Alias,preemptive,blokatif
+  Alias,P/C to 2!D, Pas geç ya da 2!D'ya düzelt
 Option
 
 //BBOalert
