@@ -23,7 +23,6 @@ Option,Drury3way_@3@4,meto+camomille, meto+nilsun, meto+gurus, meto+gypsyqueen, 
 Option,Trial,meto+camomille
 Option,Splinter,meto+camomille
 Option,3/1GF,meto+camomille,meto+gypsyqueen, meto+nilsun
-Option,21STD,meto+camomille,meto+gypsyqueen,meto+gurus,meto+ozbay
 Option,superaccept,meto+camomille,meto+nilsun,meto+ratrut,meto+gurus,meto+_kafkaf35,meto+gypsyqueen,meto+ozbay
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NFB.txt,meto+camomille,meto+gypsyqueen,meto+nilsun,meto+gurus,meto+ratrut,meto+ozbay
@@ -50,5 +49,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_xyz1h1s1n.
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Splinter.txt,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_3x1GF.txt,meto+camomille,meto+gypsyqueen,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_staymanDBL.txt
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_PREALERT.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_superaccept.txt
