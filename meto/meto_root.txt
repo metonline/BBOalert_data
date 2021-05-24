@@ -62,6 +62,7 @@ Option,xyz1h1s1n (all)
 Option,Splinter,meto+camomille
 Option,3/1GF,meto+camomille,meto+gypsyqueen, meto+nilsun
 Option,superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,meto+gypsqueen,meto+ratrut
+Option,multylandy,meto+gypsyqueen,meto+ozbay
 Option
 
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
@@ -102,6 +103,7 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Splinter.t
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_3x1GF.txt,meto+camomille,meto+gypsyqueen,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_staymanDBL.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_superaccept
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_multylandy.txt
 
 
 
