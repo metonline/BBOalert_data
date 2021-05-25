@@ -589,14 +589,22 @@ Option,Lang EN
 Shortcut,CardN, Hello. We play 2/1. Upside down count & attitude. Leads 2nd/4th..We will alert when necessary…Good Luck. \n
 Option
 
-Option, carding Faile, meto+camomille,
-Script,onAnyOpponentChange
-if ((myDirection() == "S") || (myDirection() == "E")) setChatMessage(findShortcut("CardS"),true);
-Script
-Option,Lang TR
-Shortcut,CardS,We play 2/1 Standard carding. Leads from 1st/3rd/5th against suit and 2nd/4th against NT contracts…Good Luck. \n
+Option, carding Faile, meto+camomille
+//BBOalert
+//Script,onDataLoad,PREV_OPPS = "";
+//Script,onAuctionBegin
+if ((myDirection() == "S") || (myDirection() == "E")) {
+ACT_OPPS = myOpponent(true) + "+" + myOpponent(false);
+if (ACT_OPPS != PREV_OPPS) {
+setChatMessage(findShortcut("21S"), true);
+PREV_OPPS = ACT_OPPS;
+}
+}
+//Script
 Option,Lang EN
-Shortcut,CardS,2/1 Büyük apel düz sayı ve standart defos oynuyoruz. Ataklar koza karşı 1/3/5...NT'ye karşı 2/4...İyi oyunlar. \n
+Shortcut,21S, We play 2/1 Standard carding. Leads from 1st/3rd/5th against suit and 2nd/4th against NT contracts…Good Luck. \n
+Option,Lang TR
+Shortcut,21S,2/1 Büyük apel düz sayı ve standart defos oynuyoruz. Ataklar koza karşı 1/3/5...NT'ye karşı 2/4...İyi oyunlar. \n
 Option
 
 Option,RomenSTD,meto+gurus,meto+gypsyqueen,meto+ozbay
