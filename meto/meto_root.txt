@@ -3,9 +3,10 @@ BBOalert,<b><br>meto 210509<br></b>,
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_common.txt
 
 Shortcut, Shortcuts for the CHAT box, , width=100% backgroundColor=palegreen fontSize=18px
-Shortcut,BG, Bosphorus Games
-Shortcut,AAA, Asia
-Shortcut,EEE, Europe
+Shortcut,BG, Bosphorus Games, width=50% backgroundColor=blanchedalmond
+Shortcut,AAA, Asia, width=50% backgroundColor=lightsalmon
+Shortcut,EEE, Europe, width=50% peachpuff
+
 Option,Lang EN
 Shortcut,wlcBosfor, Welcome to Bosphorus Team Games…Good luck & Enjoy…., width=50% backgroundColor=blanchedalmond
 Option,Lang TR
