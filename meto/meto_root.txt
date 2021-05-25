@@ -65,7 +65,7 @@ Option,Gazilli,meto+sansmelegi
 Option,xyz1h1s1n (all)
 Option,Splinter,meto+camomille
 Option,3/1GF,meto+camomille,meto+gypsyqueen, meto+nilsun
-Option,superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,meto+gypsqueen,meto+ratrut
+Option,superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,meto+gypsyqueen,meto+ratrut
 Option,multylandy,meto+gypsyqueen,meto+ozbay
 Option
 
