@@ -579,7 +579,7 @@ Shortcut,K of bid suit, K of bid suit, width=50% backgroundC
 Shortcut, Splinter, Splinter, width=50% backgroundColor=whitesmoke
 Option
 
-Option, carding Nilo, meto+nilsun,
+Option,Nilo, meto+nilsun,
 //Script,onDataLoad,PREV_OPPS = "";
 //Script,onAuctionBegin
 if ((myDirection() == "S") || (myDirection() == "E")) {
@@ -597,7 +597,7 @@ Option,Lang TR
 Shortcut,CardN,2/1 UDCA oynuyoruz..Ataklar 2. ve 4.den… Gerekli hallerde alert edeceğiz…İyi oyunlar!..\n
 Option
 
-Option, carding Faile, meto+camomille
+Option,Faile, meto+camomille
 //Script,onDataLoad,PREV_OPPS = "";
 //Script,onAuctionBegin
 if ((myDirection() == "S") || (myDirection() == "E")) {
@@ -633,7 +633,7 @@ Option,Lang EN
 Shortcut,CardSOE,We play 2/1 Standard carding, O/E discards. Leads from 1st/3rd/5th against suit and 2nd/4th against NT contracts…Good Luck. \n
 Option
 
-Option,Carding Mehmet,meto+342257
+Option,Mehmet,meto+342257
 //Script,onDataLoad,PREV_OPPS = "";
 //Script,onAuctionBegin
 if ((myDirection() == "S") || (myDirection() == "E")) {
@@ -651,7 +651,7 @@ Option,Lang TR
 Shortcut,CardM,1-renk açışlarımız 14+ (her-iki major de varken 11+) ve 1-tur forcing…1NT açışımız 12-14 (5.li major ve 44MM(41)mm olabilir)..2’ler 10-13; 5+uzunluk ile dengesiz ve 1/2/3 renkli olabilir…1!C açışlarımız 2+!C (dengeli iken 5.li herhangi başka bir renk bulunabilir).. 1!D açışlarımız 4+!D genellikle dengesiz…Apeller UDCA, NT'ye karşı preferansiyel, ataklar da tüm kontratlara karşı 2 ve 4.den...Gereken hallerde alert edeceğiz...İyi oyunlar!..\n
 Option
 
-Option,Carding Rita,meto+ratrut
+Option,Rita,meto+ratrut
 //Script,onDataLoad,PREV_OPPS = "";
 //Script,onAuctionBegin
 if ((myDirection() == "S") || (myDirection() == "E")) {
