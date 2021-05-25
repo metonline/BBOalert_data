@@ -636,7 +636,7 @@ Option,Carding Mehmet,meto+342257
 if ((myDirection() == "S") || (myDirection() == "E")) {
 ACT_OPPS = myOpponent(true) + "+" + myOpponent(false);
 if (ACT_OPPS != PREV_OPPS) {
-setChatMessage(findShortcut("CARDM"), true);
+setChatMessage(findShortcut("CardM"), true);
 PREV_OPPS = ACT_OPPS;
 }
 }
@@ -653,7 +653,7 @@ Option,Carding Rita,meto+ratrut
 if ((myDirection() == "S") || (myDirection() == "E")) {
 ACT_OPPS = myOpponent(true) + "+" + myOpponent(false);
 if (ACT_OPPS != PREV_OPPS) {
-setChatMessage(findShortcut("CARDR"), true);
+setChatMessage(findShortcut("CardR"), true);
 PREV_OPPS = ACT_OPPS;
 }
 }
