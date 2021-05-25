@@ -617,16 +617,16 @@ Option,RomenSTD,meto+gurus,meto+gypsyqueen,meto+ozbay
 if ((myDirection() == "S") || (myDirection() == "E")) {
 ACT_OPPS = myOpponent(true) + "+" + myOpponent(false);
 if (ACT_OPPS != PREV_OPPS) {
-setChatMessage(findShortcut("CardSOE"), true);
+setChatMessage(findShortcut("CardSR"), true);
 PREV_OPPS = ACT_OPPS;
 }
 }
 //Script
 Option
-Option,Lang TR
-Shortcut,CardSOE,2/1 Büyük apel düz sayı ve Romen defos oynuyoruz. Ataklar koza karşı 1/3/5...NT'ye karşı 2/4...İyi oyunlar. \n
 Option,Lang EN
-Shortcut,CardSOE,We play 2/1 Standard carding.. O/E discards. Leads from 1st/3rd/5th against suit and 2nd/4th against NT contracts…Good Luck. \n
+Shortcut,CardSR,We play 2/1 Standard carding & O/E discards...Leads from 1st/3rd/5th against suit and 2nd/4th against NT contracts…Good Luck!.. \n
+Option,Lang TR
+Shortcut,CardSR,2/1 Büyük apel düz sayı ve Romen defos oynuyoruz... Ataklar koza karşı 1/3/5...NT'ye karşı 2/4...İyi oyunlar. \n
 Option,MehmetCard,meto+342257
 //Script,onDataLoad,PREV_OPPS = "";
 //Script,onAuctionBegin
@@ -655,10 +655,10 @@ PREV_OPPS = ACT_OPPS;
 }
 //Script
 Option
-Option,Lang TR
-Shortcut,CardR,2/1 UDCA oynuyoruz...Romen defos…1!C açışı 2+!C 1!D açışları 4+!D ile...Ataklar  2. ve 4.den.…İyi oyunlar! \n
 Option,Lang EN
-Shortcut,CardR,We play 2/1. Upside down count & attitude. Odd/Even discards. 1!C openings are 2+!C.. 1!D openings are 4+!D...Leads from 2nd/4th. Good Luck. \n
+Shortcut,CardR,We play 2/1. Upside down count & attitude. Odd/Even discards. 1!C openings are 2+!C & 1!D openings are 4+!D  Leads from 2nd/4th Good Luck. \n
+Option,Lang TR
+Shortcut,CardR,2/1 UDCA oynuyoruz...Romen defos 1!C açışı 2+!C 1!D açışları 4+!D ile...Ataklar  2. ve 4.den.…İyi oyunlar! \n
 Option
 
 
