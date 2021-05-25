@@ -631,13 +631,16 @@ Shortcut,CardM,We play 1-level suit openings 14+ (11+ with both majors) forcing 
 Option
 
 Option,Carding Rita,meto+ratrut
-Script,onAnyOpponentChange
+//Script,onDataLoad,PREV_OPPS = "";
+//Script,onAuctionBegin
 if ((myDirection() == "S") || (myDirection() == "E")) {
-setTimeout(() => {
-setChatMessage(findShortcut("CardR"),true);
-}, 5000);
+ACT_OPPS = myOpponent(true) + "+" + myOpponent(false);
+if (ACT_OPPS != PREV_OPPS) {
+setChatMessage(findShortcut("CARDR"), true);
+PREV_OPPS = ACT_OPPS;
 }
-Script
+}
+//Script
 Option,Lang TR
 Shortcut,CardR,2/1 UDCA oynuyoruz...Romen defos…Ataklar  2. ve 4.den.…İyi oyunlar! \n
 Option,Lang EN
