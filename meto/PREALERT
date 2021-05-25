@@ -1,6 +1,6 @@
-BBOalert
-Script,onDataLoad,PREV_OPPS = "";
-Script,onAuctionBegin
+//BBOalert
+//Script,onDataLoad,PREV_OPPS = "";
+//Script,onAuctionBegin
 if ((myDirection() == "S") || (myDirection() == "E")) {
 ACT_OPPS = myOpponent(true) + "+" + myOpponent(false);
 if (ACT_OPPS != PREV_OPPS) {
@@ -8,5 +8,5 @@ setChatMessage(findShortcut("PREALERT"), true);
 PREV_OPPS = ACT_OPPS;
 }
 }
-Script
+//Script
 Shortcut, PREALERT, abcdef\nxxxx\n123456\n
