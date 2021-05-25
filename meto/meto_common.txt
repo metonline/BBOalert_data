@@ -590,7 +590,6 @@ Shortcut,CardN, Hello. We play 2/1. Upside down count & attitude. Leads 2nd/4th.
 Option
 
 Option, carding Faile, meto+camomille
-//BBOalert
 //Script,onDataLoad,PREV_OPPS = "";
 //Script,onAuctionBegin
 if ((myDirection() == "S") || (myDirection() == "E")) {
