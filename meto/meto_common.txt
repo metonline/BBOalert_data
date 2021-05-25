@@ -590,8 +590,8 @@ Shortcut,CardN, Hello. We play 2/1. Upside down count & attitude. Leads 2nd/4th.
 Option
 
 Option, carding Faile, meto+camomille
-//Script,onDataLoad,PREV_OPPS = "";
-//Script,onAuctionBegin
+Script,onDataLoad,PREV_OPPS = "";
+Script,onAuctionBegin
 if ((myDirection() == "S") || (myDirection() == "E")) {
 ACT_OPPS = myOpponent(true) + "+" + myOpponent(false);
 if (ACT_OPPS != PREV_OPPS) {
@@ -599,7 +599,7 @@ setChatMessage(findShortcut("21S"), true);
 PREV_OPPS = ACT_OPPS;
 }
 }
-//Script
+Script
 Option,Lang EN
 Shortcut,21S, We play 2/1 Standard carding. Leads from 1st/3rd/5th against suit and 2nd/4th against NT contracts…Good Luck. \n
 Option,Lang TR
