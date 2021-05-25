@@ -590,6 +590,7 @@ PREV_OPPS = ACT_OPPS;
 }
 }
 //Script
+Option
 Option,Lang TR
 Shortcut,CardN,2/1 UDCA oynuyoruz..Ataklar 2. ve 4.den… Gerekli hallerde alert edeceğiz…İyi oyunlar!..\n
 Option,Lang EN
@@ -602,15 +603,16 @@ Option, carding Faile, meto+camomille
 if ((myDirection() == "S") || (myDirection() == "E")) {
 ACT_OPPS = myOpponent(true) + "+" + myOpponent(false);
 if (ACT_OPPS != PREV_OPPS) {
-setChatMessage(findShortcut("CARDS"), true);
+setChatMessage(findShortcut("CardS"), true);
 PREV_OPPS = ACT_OPPS;
 }
 }
 //Script
+Option
 Option,Lang EN
-Shortcut,CARDS, We play 2/1 Standard carding. Leads from 1st/3rd/5th against suit and 2nd/4th against NT contracts…Good Luck. \n
+Shortcut,CardS, We play 2/1 Standard carding. Leads from 1st/3rd/5th against suit and 2nd/4th against NT contracts…Good Luck. \n
 Option,Lang TR
-Shortcut,CARDS,2/1 Büyük apel düz sayı ve standart defos oynuyoruz. Ataklar koza karşı 1/3/5...NT'ye karşı 2/4...İyi oyunlar. \n
+Shortcut,CardS,2/1 Büyük apel düz sayı ve standart defos oynuyoruz. Ataklar koza karşı 1/3/5...NT'ye karşı 2/4...İyi oyunlar. \n
 Option
 
 Option,RomenSTD,meto+gurus,meto+gypsyqueen,meto+ozbay
@@ -624,6 +626,7 @@ PREV_OPPS = ACT_OPPS;
 }
 }
 //Script
+Option
 Option,Lang TR
 Shortcut,CardSOE,2/1 Büyük apel düz sayı ve Romen defos oynuyoruz. Ataklar koza karşı 1/3/5...NT'ye karşı 2/4...İyi oyunlar. \n
 Option,Lang EN
@@ -641,6 +644,7 @@ PREV_OPPS = ACT_OPPS;
 }
 }
 //Script
+Option
 Option,Lang TR
 Shortcut,CardM,1-renk açışlarımız 14+ (her-iki major de varken 11+) ve 1-tur forcing…1NT açışımız 12-14 (5.li major ve 44MM(41)mm olabilir)..\2’ler 10-13; 5+uzunluk ile dengesiz ve 1/2/3 renkli olabilir…\1!C açışlarımız 2+!C (dengeli iken 5.li herhangi başka bir renk bulunabilir).. 1!D açışlarımız 4+!D genellikle dengesiz…\ Apeller UDCA, NT'ye karşı preferansiyel, ataklar da tüm kontratlara karşı 2 ve 4.den...Gereken hallerde alert edeceğiz...İyi oyunlar!..\n
 Option,Lang EN
@@ -658,6 +662,7 @@ PREV_OPPS = ACT_OPPS;
 }
 }
 //Script
+Option
 Option,Lang TR
 Shortcut,CardR,2/1 UDCA oynuyoruz...Romen defos…1!C açışı 2+!C 1!D açışları 4+!D ile...Ataklar  2. ve 4.den.…İyi oyunlar! \n
 Option,Lang EN
