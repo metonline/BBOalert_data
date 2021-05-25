@@ -604,9 +604,9 @@ Script,onAnyOpponentChange
 if ((myDirection() == "S") || (myDirection() == "E")) setChatMessage(findShortcut("CardSOE"),true);
 Script
 Option,Lang TR
-Shortcut,CardSOE, 2/1 Büyük apel düz sayı ve Romen defos oynuyoruz. Ataklar koza karşı 1/3/5...NT'ye karşı 2/4...İyi oyunlar. \n
+Shortcut,CardSOE,2/1 Büyük apel düz sayı ve Romen defos oynuyoruz. Ataklar koza karşı 1/3/5...NT'ye karşı 2/4...İyi oyunlar. \n
 Option,Lang EN
-Shortcut,CardSOEWe play 2/1 Standard carding, O/E discards. Leads from 1st/3rd/5th against suit and 2nd/4th against NT contracts…Good Luck. \n
+Shortcut,CardSOE,We play 2/1 Standard carding, O/E discards. Leads from 1st/3rd/5th against suit and 2nd/4th against NT contracts…Good Luck. \n
 Script
 
 Option, carding Rita, meto+ratrut,
