@@ -1,0 +1,159 @@
+bboalert,twos
+
+Option,twos,meto+342257
+,2C,10-13 HCP | 5+!C's
+2C--,2D,invitational or better
+2C--2D--,2H,3/4!h
+2C--2D--2H--,2N,ask about shape
+2C--2D--2H--2N--,3C,6!C-(3/4)!H
+2C--2D--2H--2N--3C--,3D,ask further about shape
+2C--2D--2H--2N--3C--3D--,3H,6!C4!H
+2C--2D--2H--2N--3C--3D--,3N,(6/7)!C3!H | no 3-card !S's
+2C--2D--2H--2N--3C--3D--,3S,6!C3!H3!S1!D
+2C--2D--2H--2N--,3D,5!C4!D3!H1!S
+2C--2D--2H--2N--,3H,5!C4!H3!D1!S
+2C--2D--2H--2N--,3N,5!C4!h4!S0!D
+2C--2D--2H--2N--,3S,5!C4!H3!S1!D
+2C--2D--2H--,2S,5+!S's | GF
+2C--2D--2H--,3C,invitation for game
+2C--2D--2H--,3D,5+!D's | GF
+2C--2D--,2N,6/7!c | 12-13 HCP
+2C--2D--,2S,3/4!s
+2C--2D--2S--,2N,ask about shape
+2C--2D--2S--2N--,3C,6!C-(3/4)!s
+2C--2D--2S--2N--3C--,3D,ask further about shape
+2C--2D--2S--2N--3C--3D--,3H,6!C4!S3!H
+2C--2D--2S--2N--3C--3D--,3N,6!C3!S22
+2C--2D--2S--2N--3C--3D--,3S,6!C4!S
+2C--2D--2S--2N--,3D,5!C4!D3!s1!h
+2C--2D--2S--2N--,3H,5!C4!s3!h1!d
+2C--2D--2S--2N--,3N,5!C4!d4!S0!h
+2C--2D--2S--2N--,3S,5!C4!s3!d1!h
+2C--2D--2S--,3C,invitation for game
+2C--2D--2S--,3D,5+!D's | GF
+2C--2D--2S--,3H,5+!h's | GF
+2C--2D--,3C,6+!c | 10-11 HCP
+2C--2D--,3D,6!c-4!d | 12-13 HCP
+2C--2D--,3H,5!c4!d4!h | void !S
+2C--2D--,3S,5!c4!d4!S | void !h
+2C--,2H,7-11 HCP
+2C--2H--,3H,6!C4!H
+2C--,2N,5+!s-4+!h | 10-12 HCP
+2C--2N--,3C,10-13 HCP | 5+(!H/!s)-4+(!s/!h)
+2C--2N--3C--,3D,asking about longer major suit
+2C--2N--3C--3D--,3H,5+!H-4+!S
+2C--2N--3C--3D--,3N,5!H-5!S
+2C--2N--3C--3D--3N--,4C,slam interest in !H
+2C--2N--3C--3D--3N--,4D,slam interest in !s
+2C--2N--3C--3D--3N--,4H,To Play
+2C--2N--3C--3D--3N--,4S,To Play
+2C--2N--3C--3D--,3S,5+!s-4+!h
+2C--2N--3C--,3H,good !H fit | slam interest
+2C--2N--3C--,3N,To Play
+2C--2N--3C--,3S,good !s fit | slam interest
+2C--2N--3C--,4C,6+!C's | slam interest
+2C--2N--3C--,4D,6+!D's | slam interest
+2C--2N--3C--,4H,To Play
+2C--2N--3C--,4S,To Play
+2C--2N--,3D,10-13 HCP | 6+!C | may have 3-card major suit
+2C--2N--3D--,3H,open for cue-bidding in !H's
+2C--2N--3D--,3N,To Play
+2C--2N--3D--,3S,open for cue-bidding in !S's
+2C--2N--3D--,4C,open for cue-bidding in !C's
+2C--2N--3D--,4D,asking for longer major suit
+2C--2N--,3H,10-13 HCP | 6+!c-4!H
+2C--2N--,3N,10-13 HCP | 6+!c-4!d
+2C--2N--3N--,4C,!C fit | slam interest
+2C--2N--3N--,4D,!d fit | slam interest
+2C--2N--3N--,--,To Play
+2C--2N--,3S,10-13 HCP | 6+!c-4!s
+2C--,2S,7-11 HCP
+2C--2S--,3S,6!C4!s
+2C--,3C,To Play
+2C--,3D,6+!D | 10-12 HCP
+2C--,3H,6+!H | 10-12 HCP
+2C--,3S,6+!S | 10-12 HCP
+,2D,5+!D's | 10-13
+2D--,2H,ask about shape
+2D--2H--,2N,no short major | might be short in !C
+2D--2H--2N--,3C,ask further about shape | GF
+2D--2H--2N--3C--,3D,shorth !C | 5!D1!C43 or 6!D1!C3!h3!H
+2D--2H--2N--3C--3D--,3H,GF
+2D--2H--2N--3C--3D--,3S,GF
+2D--2H--2N--3C--,3H,shorth !C | 6!d4!H2!s1!C
+2D--2H--2N--3C--,3N,no shortage | 6!D322 or 7!D222
+2D--2H--2N--3C--,3S,shorth !C | 6!d4!S2!H1!C
+2D--2H--,2S,short !H
+2D--2H--2S--,2N,ask further about shape | GF
+2D--2H--2S--2N--,3C,short !h | 5!d4!C3!s1!h or 5!d5!C2!s1!h or 6!d4!C2!s1!h
+2D--2H--2S--2N--,3D,short !h | 5!d4!s3!D1!h
+2D--2H--2S--2N--,3H,short !h | 6!D3!s3!d1!h or 7!d3!s2!D1!h 
+2D--2H--2S--2N--,3S,short !h | 6!D4!s2!d1!h
+2D--2H--,3C,short !S | 5!d4!C3!h1!s or 5!d5!C2!H1!S or 6!d4!C2!H1!S
+2D--2H--,3D,short !S | 5!d4!H3!D1!S
+2D--2H--,3H,short !S | 6!D4!H2!d1!S
+2D--2H--,3S,short !S | 6!D3!h3!d1!S or 7!d3!H2!D1!S
+2D--,2N,Transfer to 3!C's
+2D--2N--,3C,Relay
+2D--2N--3C--,3D,5+!S's-5+!H's | GF
+2D--2N--3C--,3H,6+!H's | GF
+2D--2N--3C--3H--,3N,4!h-1!d
+2D--2N--3C--,3S,6+!s's | GF
+2D--2N--3C--3S--,3N,4!S-1!d
+2D--2N--3C--,4C,6+!c's | GF
+2D--,2S,5+(!H/!S)-4+(!h/!s) | 10-12 HCP
+2D--2S--,2N,interest in a major contract
+2D--2S--2N--,3C,5!h4!S
+2D--2S--2N--,3D,5!s4!H
+2D--2S--2N--,3H,5!h5!S
+2D--,3C,6+!C's | 10-12 HCP
+2D--,3D,To Play
+2D--,3H,6+!h's | 9-12 HCP
+2D--,3S,6+!S's | 9-12 HCP
+,2H,5+!H's | 10-13 HCP unbalanced hands or 6+!h's | maybe balanced
+2H--,2N,5+!S's | invitational or a stronger hand
+2H--2N--,3C,5!H-4+!C | minimum hand
+2H--2N--,3D,5!H-4+!d | minimum hand
+2H--2N--,3H,6+!H's | minimum hand
+2H--2N--,3N,(1/2)!S | maximum hand
+2H--2N--,3S,2+!S's | minimum hand
+2H--2N--,4C,5!h4!D3!S1!C or 6!H3!S3!D1!C
+2H--2N--,4D,5!h4!c3!S1!d or 6!H3!S3!c1!d
+2H--2N--,4H,6!h2!S32 | PASS/CORRECT to !S
+2H--,2S,Ask about hand | invitation or a stronger hand
+2H--2S--,2N,6+!H's | may have shortage
+2H--2S--2N--,3C,ask about shortage
+2H--2S--2N--3C--,3D,short !D
+2H--2S--2N--3C--,3H,no shortage
+2H--2S--2N--3C--,3N,short !c
+2H--2S--2N--3C--,3S,short !s
+2H--2S--2N--,3D,asking about cues on !H's
+2H--2S--2N--,3H,invitation for game
+2H--2S--,3C,5!h-4+!C's
+2H--2S--3C--,3D,further asking about distribution
+2H--2S--3C--3D--,3H,5!H-5!C
+2H--2S--3C--3D--,3N,5!H4!c3!d1!s
+2H--2S--3C--3D--,3S,5!H4!c3!S1!D
+2H--2S--,3D,5!H-4!D
+2H--2S--3D--,3H,further asking about distribution
+2H--2S--3D--3H--,3N,5!h4!d3!c1!s
+2H--2S--3D--3H--,3S,5!h4!d3!s1!C
+2H--2S--,3H,5!H-5!D
+2H--,3C,5+!C's | invitation or a stronger hand
+2H--3C--,3D,GF with 13-14  HCP
+2H--3C--,3H,no interest in game
+2H--3C--,3N,To Play
+2H--3C--,3S,ask for control in !S
+2H--3C--,4C,Accept invitation in !C's
+2H--,3D,5+!d's | invitation or a stronger hand
+2H--3D--,3H,no interest in game
+2H--3D--,3N,To Play
+2H--3D--,3S,ask for control in !S
+2H--3D--,4C,GF with 13-14  HCP
+2H--3D--,4D,Accept invitation in !d's
+2H--,3H,weak hand
+2H--,3S,4+!H's | short !S
+2H--,4C,4+!H's | short !c
+2H--,4D,4+!H's | short !d
+2H--,4H,To Play
+Option
