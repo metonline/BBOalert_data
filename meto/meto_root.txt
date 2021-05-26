@@ -70,7 +70,7 @@ Option,multylandy,meto+gypsyqueen,meto+ozbay
 Option,2CLB,meto+342257
 Option,2DIA,meto+342257
 Option,2HRT,meto+342257
-Option,2SPD.meto+342257
+Option,2SPD,meto+342257
 Option
 
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
