@@ -3,7 +3,7 @@ BBOalert,<b><br>meto 210509<br></b>,
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_common.txt
 
 Shortcut, Shortcuts for the CHAT box, , width=100% backgroundColor=palegreen fontSize=18px
-Shortcut,BG, Bosphorus Games, width=50% backgroundColor=blanchedalmond
+Shortcut,BTM, Bosphorus Team Games, width=50% backgroundColor=blanchedalmond
 Shortcut,AAA, Asia, width=50% backgroundColor=lightsalmon
 Shortcut,EEE, Europe, width=50% peachpuff
 
@@ -60,9 +60,9 @@ Option,RangeAskStayman, meto+gurus, meto+camomille, meto+342257, meto+gypsyqueen
 Option,Drury3way_@3@4,meto+camomille, meto+nilsun, meto+gurus, meto+gypsyqueen, meto+ratrut
 Option, Rita, meto+ratrut 
 Option,F_1, meto+342257
-Option,Trial,meto+camomille
+Option,Trial,meto+camomille,meto+342257
 Option,Gazilli,meto+sansmelegi
-Option,xyz1h1s1n (all)
+Option,xyz1h1s1n,sansmelegi
 Option,Splinter,meto+camomille
 Option,3/1GF,meto+camomille,meto+gypsyqueen, meto+nilsun
 Option,superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,meto+gypsyqueen,meto+ratrut
