@@ -1,0 +1,51 @@
+bboalert,2HRT
+
+Option,2HRT
+
+,2H,5+!H's | 10-13 HCP unbalanced hands or 6+!h's | maybe balanced
+2H--,2N,5+!S's | invitational or a stronger hand
+2H--2N--,3C,5!H-4+!C | minimum hand
+2H--2N--,3D,5!H-4+!d | minimum hand
+2H--2N--,3H,6+!H's | minimum hand
+2H--2N--,3N,(1/2)!S | maximum hand
+2H--2N--,3S,2+!S's | minimum hand
+2H--2N--,4C,5!h4!D3!S1!C or 6!H3!S3!D1!C
+2H--2N--,4D,5!h4!c3!S1!d or 6!H3!S3!c1!d
+2H--2N--,4H,6!h2!S32 | PASS/CORRECT to !S
+2H--,2S,Ask about hand | invitation or a stronger hand
+2H--2S--,2N,6+!H's | may have shortage
+2H--2S--2N--,3C,ask about shortage
+2H--2S--2N--3C--,3D,short !D
+2H--2S--2N--3C--,3H,no shortage
+2H--2S--2N--3C--,3N,short !c
+2H--2S--2N--3C--,3S,short !s
+2H--2S--2N--,3D,asking about cues on !H's
+2H--2S--2N--,3H,invitation for game
+2H--2S--,3C,5!h-4+!C's
+2H--2S--3C--,3D,further asking about distribution
+2H--2S--3C--3D--,3H,5!H-5!C
+2H--2S--3C--3D--,3N,5!H4!c3!d1!s
+2H--2S--3C--3D--,3S,5!H4!c3!S1!D
+2H--2S--,3D,5!H-4!D
+2H--2S--3D--,3H,further asking about distribution
+2H--2S--3D--3H--,3N,5!h4!d3!c1!s
+2H--2S--3D--3H--,3S,5!h4!d3!s1!C
+2H--2S--,3H,5!H-5!D
+2H--,3C,5+!C's | invitation or a stronger hand
+2H--3C--,3D,GF with 13-14  HCP
+2H--3C--,3H,no interest in game
+2H--3C--,3N,To Play
+2H--3C--,3S,ask for control in !S
+2H--3C--,4C,Accept invitation in !C's
+2H--,3D,5+!d's | invitation or a stronger hand
+2H--3D--,3H,no interest in game
+2H--3D--,3N,To Play
+2H--3D--,3S,ask for control in !S
+2H--3D--,4C,GF with 13-14  HCP
+2H--3D--,4D,Accept invitation in !d's
+2H--,3H,weak hand
+2H--,3S,4+!H's | short !S
+2H--,4C,4+!H's | short !c
+2H--,4D,4+!H's | short !d
+2H--,4H,To Play
+Option
