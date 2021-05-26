@@ -31,12 +31,10 @@ Option,RangeAskStayman, meto+gurus, meto+camomille, meto+342257, meto+gypsyqueen
 Option,Drury3way_@3@4,meto+camomille, meto+nilsun, meto+gurus, meto+gypsyqueen, meto+ratrut
 Option, Rita, meto+ratrut 
 Option, F_1, meto+342257
-Option,F_1, meto+342257
-Option, F_1, meto+342257
-Option,F_1, meto+342257
 Option,Trial,meto+camomille
 Option,Gazilli,meto+sansmelegi
 Option,Splinter,meto+camomille
 Option,3/1GF,meto+camomille,meto+gypsyqueen, meto+nilsun
 Option,superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,meto+gypsyqueen,meto+ratrut
 Option,multylandy,meto+gypsyqueen,meto+ozbay
+Option,twos,meto+342257
