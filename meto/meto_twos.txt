@@ -2,7 +2,7 @@ bboalert,twos
 
 Option,twos
 ,2C,10-13 HCP | 5+!C's
-2C--,2D,invitational or better
+2C--,2D,ask about hand | invitational or better
 2C--2D--,2H,3/4!h
 2C--2D--2H--,2N,ask about shape
 2C--2D--2H--2N--,3C,6!C-(3/4)!H
@@ -74,7 +74,7 @@ Option,twos
 2C--,3H,6+!H | 10-12 HCP
 2C--,3S,6+!S | 10-12 HCP
 ,2D,5+!D's | 10-13
-2D--,2H,invitational or better
+2D--,2H,ask about hand | invitational or better
 2D--2H--,2N,no short major | might be short in !C
 2D--2H--2N--,3C,ask further about shape | GF
 2D--2H--2N--3C--,3D,shorth !C | 5!D1!C43 or 6!D1!C3!h3!s
