@@ -3,6 +3,12 @@ bboalert,2DIA
 Option,2DIA
 ,2D,5+!D's | 10-13
 2D--,2H,ask about hand | invitational or better
++,2S,5+(!H/!S)-4+(!h/!s) | 10-12 HCP
++,2N,Transfer to 3!C's
++,3C,6+!C's | 10-12 HCP
++,3D,To Play
++,3H,6+!h's | 9-12 HCP
++,3S,6+!S's | 9-12 HCP
 2D--2H--,2N,no short major | might be short in !C
 2D--2H--2N--,3C,ask further about shape | GF
 2D--2H--2N--3C--,3D,shorth !C | 5!D1!C43 or 6!D1!C3!h3!s
@@ -21,7 +27,6 @@ Option,2DIA
 2D--2H--,3D,short !S | 5!d4!H3!D1!S
 2D--2H--,3H,short !S | 6!D4!H2!d1!S
 2D--2H--,3S,short !S | 6!D3!h3!d1!S or 7!d3!H2!D1!S
-2D--,2N,Transfer to 3!C's
 2D--2N--,3C,Relay
 2D--2N--3C--,3D,5+!S's-5+!H's | GF
 2D--2N--3C--,3H,6+!H's | GF
@@ -29,13 +34,8 @@ Option,2DIA
 2D--2N--3C--,3S,6+!s's | GF
 2D--2N--3C--3S--,3N,4!S-1!d
 2D--2N--3C--,4C,6+!c's | GF
-2D--,2S,5+(!H/!S)-4+(!h/!s) | 10-12 HCP
 2D--2S--,2N,interest in a major contract
 2D--2S--2N--,3C,5!h4!S
 2D--2S--2N--,3D,5!s4!H
 2D--2S--2N--,3H,5!h5!S
-2D--,3C,6+!C's | 10-12 HCP
-2D--,3D,To Play
-2D--,3H,6+!h's | 9-12 HCP
-2D--,3S,6+!S's | 9-12 HCP
 Option
