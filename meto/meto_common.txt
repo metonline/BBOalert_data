@@ -189,6 +189,7 @@ Option,Lang TR
   Alias,pass / correct to 4!S, Pass geç ya da 4!S'e düzelt
   Alias,top honors in !S are missing,!S'te tepe onörler eksik
   Alias,Transfer to 3!C as relay,3!C'e röle için transfer
+  Alias,invitational or better,davet ve üzeri
   
   
   
