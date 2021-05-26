@@ -199,6 +199,8 @@ Option,Lang TR
   Alias,asking stopper for game try in 3NT,3NT için keser sorusu; zon denemesi
   Alias,To Play with !S stopper,!S keseri ile oynamaya
   Alias,no 4-card !S | may have 4-card !H, 4.lü !S yok | 4.lü !H olabilir
+  Alias,no short major | might be short in !C, kısa majör yok | !C kısa olabilir
+  Alias,ask about hand | invitational or better, el tarif sorusu | davet veya üzeri
    
   
   
