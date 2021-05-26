@@ -201,6 +201,7 @@ Option,Lang TR
   Alias,no 4-card !S | may have 4-card !H, 4.lü !S yok | 4.lü !H olabilir
   Alias,no short major | might be short in !C, kısa majör yok | !C kısa olabilir
   Alias,ask about hand | invitational or better, el tarif sorusu | davet veya üzeri
+  Alias,ask about hand | invitational or better
   
 Option
 
@@ -679,9 +680,9 @@ PREV_OPPS = ACT_OPPS;
 //Script
 Option
 Option,Lang EN
-Shortcut,Mehmet,We play 1-level suit openings 14+ (11+ with both majors) forcing for 1-round …1NT: 12-14; may have 5-card major or 44MM(41)mm off-shape also…2-level openings: 10-13 & 5+card; unbalanced 1/2/3 suited hands…1!C: 2+!C (could have any 5-card suit if balanced) 1!D=4+!D   typically unbalanced..Upside down counting & attitude..Leads are 2nd/4th..Lavinthal discards against NT..RKC1430..We will alert when necessary…Good Luck!..\n
+Shortcut,Mehmet,We play 1-level suit openings 14+ (11+ with both majors) forcing for 1-round …1NT: 12-14; may have 5-card major or 44MM(41)mm off-shape also…2-level openings: 10-13 & 5+card; unbalanced 1/2/3 suited hands…1!C: 2+!C (could have any 5-card suit if balanced) 1!D=4+!D unbalanced..Upside down counting & attitude..Leads are 2nd/4th..Lavinthal discards against NT..RKC1430..We will alert when necessary…Good Luck!..\n
 Option,Lang TR
-Shortcut,Mehmet,1-renk açışlarımız 14+ (her-iki major de varken 11+) ve 1-tur forcing…1NT açışımız 12-14 (5.li major ve 44MM(41)mm olabilir)..2’ler 10-13; 5+uzunluk ile dengesiz ve 1/2/3 renkli olabilir…1!C açışlarımız 2+!C (dengeli iken 5.li herhangi başka bir renk bulunabilir).. 1!D açışlarımız 4+!D genellikle dengesiz…Apeller UDCA.. NT'ye karşı preferansiyel.. Ataklar tüm kontratlara karşı 2 ve 4.den...RKC1430..Gereken hallerde alert edeceğiz...İyi oyunlar!..\n
+Shortcut,Mehmet,1-renk açışlarımız 14+ (her-iki major de varken 11+) ve 1-tur forcing…1NT açışımız 12-14 (5.li major ve 44MM(41)mm olabilir)..2’ler 10-13; 5+uzunluk ile dengesiz ve 1/2/3 renkli olabilir…1!C açışlarımız 2+!C (dengeli iken 5.li herhangi başka bir renk bulunabilir).. 1!D açışlarımız 4+!D dengesiz…Apeller UDCA.. NT'ye karşı preferansiyel.. Ataklar tüm kontratlara karşı 2 ve 4.den...RKC1430..Gereken hallerde alert edeceğiz...İyi oyunlar!..\n
 Option,RitaCard,meto+ratrut
 //Script,onDataLoad,PREV_OPPS = "";
 //Script,onAuctionBegin
