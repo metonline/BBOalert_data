@@ -177,6 +177,20 @@ Option,Lang TR
   Alias,balanced hand including any 5-card major with 5332 shape, herhangi 5.li majörü ve 5332 dağılımı olan dengeli el
   Alias,asking 3-card !S support and/or !D stopper,3.lü !S desteği ve/veya !D keseri sorusu
   Alias,further asking about shape,dağılımla ilgili ileri sorgulama
+  Alias,invitation for 3NT with 7-9 HCP | weakness in !H's,3NT'ye 7-9 ile davet | !H'de zaaf
+  Alias,invitation for 3NT with 7-9 HCP | weakness in !S's,3NT'ye 7-9 ile davet | !S'te zaaf
+  Alias,18-20 HCP with long !C's and (0-2)!d's or 23+HCP balanced or 21+HCP long clubs with shortage, 18-20  uzun !C (0-2)!d | 21+ kısalığı olan uzun !C'ler ya da 23+ dengeli el
+  Alias,re-transfer to !S's with 6!S's-(3/4)!H's,6!S-(3/4)!H ile !S'e tekrar transfer
+  Alias,any strength,herhangi bir kuvvet
+  Alias,To Play with 2!h's,2.li !H ile oynamaya
+  Alias,Gerber with 5!H-3!S,5!H3!S ile Gerber
+  Alias,re-transfer to !H with 6!H-3!S, 6!H-3!S ile tekrar transfer
+  Alias,pick a slam,şilem seç
+  Alias,pass / correct to 4!S, Pass geç ya da 4!S'e düzelt
+  Alias,top honors in !S are missing,!S'te tepe onörler eksik
+  Alias,Transfer to 3!C as relay,3!C'e röle için transfer
+  
+  
   
   
   
