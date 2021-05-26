@@ -4650,8 +4650,6 @@ Option, F_1,meto+342257
 1S--4D--5C--,5H,singleton or !CKx
 1S--4D--5C--,5S,void or A!C
 1S--,4S,0-5 HCP
-
-Option,2D
 ,2C,10-13 HCP | 5+!C's unbalanced
 2C--,2D,invitational or better
 2C--2D--,2H,3/4!h
