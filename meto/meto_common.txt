@@ -190,10 +190,12 @@ Option,Lang TR
   Alias,top honors in !S are missing,!S'te tepe onörler eksik
   Alias,Transfer to 3!C as relay,3!C'e röle için transfer
   Alias,invitational or better,davet ve üzeri
-  
-  
-  
-  
+  Alias,4+!H | may also have 4-card !S's,4+!H | 4.lü !S de olabilir!
+  Alias,may also have 4-card !S,aynı zamanda 4.lü !S de olabilir
+  Alias,no 4-card !H,4.lü !h yok
+  Alias,Transfer to !S's with 6+!S's,6+!S ile !S'e transfer
+  Alias,maybe passed with void !C's & 3!S's,şigan !C ve 3.lü !S ile pass geçilebilir
+   
   
   
   
