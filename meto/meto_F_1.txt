@@ -1,6 +1,6 @@
 bboalert,F_1
 
-Option, F_1
+Option, F_1,meto+342257
 2D,2H,T/O for !H
 2D2H--,2N,Transfer to 3!C
 2D2H--2N--,3C,Automatic
@@ -13,8 +13,6 @@ Option, F_1
 3D,4C,5+!c-5+(!H/!S)
 3D,4D,5+!H-5+!S
 3D,Db,Take-out
-
-Option,F_1, meto+342257
 2D,2H,take-out for !h | 14+HCP
 2D,2N,16-18 HCP | stopper in both !S/!H
 2D,2S,5+!S's | 12+ HCP
@@ -96,7 +94,6 @@ Option,F_1, meto+342257
 2H,3S,2-suited hand of opposite color 15+hcp
 2H,4C,2-suited hand of same color 15+hcp
 
-Option, F_1, meto+342257
 |,2H,weak
 2H,Db,13+hcp T/O
 2S,2N,15-17 hcp stopper in !S
@@ -179,8 +176,6 @@ Option, F_1, meto+342257
 1C2SDb--2N--,3C,To Play
 1C2SDb--2N--,3D,5!D-4!S | 8-9 HCP
 1C2SDb--2N--,3S,5!s-4!d | 8-9 HCP
-
-OPtion,1C,meto+342257
 ,1C,14+ HCP unbalanced or 15+ HCP balanced (may have any 5-card suit if balanced)
 1CDb,1D,4+!H | 3-9 HCP
 1CDb,1H,4+!S | 3-9 HCP
@@ -297,7 +292,7 @@ OPtion,1C,meto+342257
 1C--1D--1S--,3C,invitation for game
 1C--1D--1S--,3H,invitation for game
 1C--1D--1S--,3S,invitation for game
-1C--1D--,2C,14-17 HCP | one-suited hand
+1C--1D--,2C,14-17 HCP; one-suited hand
 1C--1D--,2D,18+HCP | 5+!c-4!d or 6+!C's
 1C--1D--2D--,2N,ask about hand
 1C--1D--2D--2N--,3C,6+!C's | 18-20 HCP
@@ -306,7 +301,7 @@ OPtion,1C,meto+342257
 1C--1D--2D--2N--,3N,6+!c's | 21+HCP
 1C--1D--2D--2N--,3S,short !s | 5+!C-4!D | 21+HCP
 1C--1D--,2H,19-20 HCP | 3!h's
-1C--1D--2H--,2S,transfer to 2NT as relay
+1C--1D--2H--,2S,transfer to 2NT for relaying
 1C--1D--2H--2S--,2N,Automatic
 1C--1D--2H--2S--2N--,3C,5!C4!H for choice of games
 1C--1D--2H--2S--2N--,3D,5!d4!H for choice of games
@@ -799,7 +794,7 @@ OPtion,1C,meto+342257
 1C--2C--2D--2S--2N--3C--3D--,3S,13+HCP | !s control
 1C--2C--2D--2S--2N--3C--,3N,15-17 HCP
 1C--2C--2D--2S--2N--,3D,5+!D-4!s
-1C--2C--2D--2S--2N--3D--,3H,!d fit | asking about extras
+1C--2C--2D--2S--2N--3D--,3H,!d fit | ask about extras
 1C--2C--2D--2S--2N--3D--3H--,3N,10-12 HCP
 1C--2C--2D--2S--2N--3D--3H--,3S,!d fit | 13+HCP | !s control
 1C--2C--2D--2S--2N--3D--3H--,4C,!d fit | 13+HCP | !c control
@@ -4655,6 +4650,8 @@ OPtion,1C,meto+342257
 1S--4D--5C--,5H,singleton or !CKx
 1S--4D--5C--,5S,void or A!C
 1S--,4S,0-5 HCP
+
+Option,2D
 ,2C,10-13 HCP | 5+!C's unbalanced
 2C--,2D,invitational or better
 2C--2D--,2H,3/4!h
@@ -5056,10 +5053,7 @@ OPtion,1C,meto+342257
 3N--,4S,bid slam if short in the other major suit
 ,4C,8+!h's | 12-15 HCP
 ,4D,8+!S's | 12-15 HCP
-Option,F_1, meto+342257
 ,4H,Long Weak !H's
 ,4S,Long Weak !s's
-
-
 Option
 
