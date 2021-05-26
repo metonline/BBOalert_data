@@ -201,10 +201,6 @@ Option,Lang TR
   Alias,no 4-card !S | may have 4-card !H, 4.lü !S yok | 4.lü !H olabilir
   Alias,no short major | might be short in !C, kısa majör yok | !C kısa olabilir
   Alias,ask about hand | invitational or better, el tarif sorusu | davet veya üzeri
-   
-  
-  
-  
   
 Option
 
@@ -703,10 +699,4 @@ Shortcut,Rita,We play 2/1. Upside down count & attitude. Odd/Even discards. 1!C 
 Option,Lang TR
 Shortcut,Rita,2/1 UDCA oynuyoruz...Romen defos 1!C açışı 2+!C 1!D açışları 4+!D ile...Ataklar  2. ve 4.den.…RKC0314....İyi oyunlar! \n
 Option
-
-
-
-
-
-
 
