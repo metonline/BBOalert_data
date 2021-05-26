@@ -164,7 +164,11 @@ Option,Lang TR
   Alias,both majors,majörler (54 olabilir!)
   Alias,unbalanced or 15+ HCP balanced (may have any 5-card suit if balanced),dengesiz veya 15+ dengeli (eğer dengeliyse 5.li başka bir renk bulunabilir)
   Alias,no 4-card major,4.lü majör yok!
-  Aliyas,including 5(!C/!D)332 and 4!H4!S4!D1!C, 5(!C/!D)332 ve 4!H4!S4!D1!C dağılımları dahil
+  Alias,including 5(!C/!D)332 and 4!H4!S4!D1!C, 5(!C/!D)332 ve 4!H4!S4!D1!C dağılımları dahil
+  Alias,any balanced hand including 4!S4!H1!D4!C,4!S4!H1!D4!C dahil herhangi bir dengeli el
+  
+  
+  
 Option
 
 //BBOalert
