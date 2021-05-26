@@ -74,7 +74,7 @@ Option,twos,meto+342257
 2C--,3H,6+!H | 10-12 HCP
 2C--,3S,6+!S | 10-12 HCP
 ,2D,5+!D's | 10-13
-2D--,2H,ask about shape
+2D--,2H,invitational or better
 2D--2H--,2N,no short major | might be short in !C
 2D--2H--2N--,3C,ask further about shape | GF
 2D--2H--2N--3C--,3D,shorth !C | 5!D1!C43 or 6!D1!C3!h3!H
