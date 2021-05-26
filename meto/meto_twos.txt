@@ -77,7 +77,7 @@ Option,twos,meto+342257
 2D--,2H,invitational or better
 2D--2H--,2N,no short major | might be short in !C
 2D--2H--2N--,3C,ask further about shape | GF
-2D--2H--2N--3C--,3D,shorth !C | 5!D1!C43 or 6!D1!C3!h3!H
+2D--2H--2N--3C--,3D,shorth !C | 5!D1!C43 or 6!D1!C3!h3!s
 2D--2H--2N--3C--3D--,3H,GF
 2D--2H--2N--3C--3D--,3S,GF
 2D--2H--2N--3C--,3H,shorth !C | 6!d4!H2!s1!C
