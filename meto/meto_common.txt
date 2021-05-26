@@ -170,6 +170,16 @@ Option,Lang TR
   Alias,balanced hand | including 5(!h/!s)332, 5(!h/!s)332
   Alias,one-suited hand,tek-renkli el
   Alias,transfer to 2NT for relaying,Röle için 2NT'ye transfer
+  Alias,for choice of games, Zon seçenekleri arasından tercih için
+  Alias,with 2!H's | balanced hand, 2!H & dengeli el
+  Alias,PASS / CORRECT to 3!S, Pas geç ya da 3!S'e düzelt
+  Alias,transfer to 3NT with 5!H332 for choice of games, 5!H332 ile 3NT'ye transfer; zon tercihi için
+  Alias,balanced hand including any 5-card major with 5332 shape, herhangi 5.li majörü ve 5332 dağılımı olan dengeli el
+  Alias,asking 3-card !S support and/or !D stopper,3.lü !S desteği ve/veya !D keseri sorusu
+  Alias,further asking about shape,dağılımla ilgili ileri sorgulama
+  
+  
+  
   
   
   
