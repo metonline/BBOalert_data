@@ -1,6 +1,6 @@
 bboalert,twos
 
-Option,twos,meto+342257
+Option,twos
 ,2C,10-13 HCP | 5+!C's
 2C--,2D,invitational or better
 2C--2D--,2H,3/4!h
