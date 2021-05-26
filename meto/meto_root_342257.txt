@@ -13,6 +13,8 @@ Option,RangeAskStayman, meto+gurus, meto+camomille, meto+342257, meto+gypsyqueen
 Option,F_1, meto+342257
 Option,twos,meto+342257
 Option,superaccept,meto+camomille,meto+nilsun,meto+ratrut,meto+gurus,meto+_kafkaf35,meto+gypsyqueen,meto+ozbay
+Option,Trial,meto+camomille,meto+342257
+
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_MichaelsSpec.txt,meto+nilsun,meto+camomille,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_FNTDefans.txt,meto+342257,meto+_kafkaf35,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Major2NTF1.txt,meto+nilsun,meto+342257
@@ -28,3 +30,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_xyz1h1s1n.
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_staymanDBL.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_superaccept.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_twos.txt
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Trial.txt
