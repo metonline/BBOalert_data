@@ -4655,7 +4655,7 @@ OPtion,1C,meto+342257
 1S--4D--5C--,5H,singleton or !CKx
 1S--4D--5C--,5S,void or A!C
 1S--,4S,0-5 HCP
-,2C,10-13 HCP | 5+!C's
+,2C,10-13 HCP | 5+!C's unbalanced
 2C--,2D,invitational or better
 2C--2D--,2H,3/4!h
 2C--2D--2H--,2N,ask about shape
@@ -4727,8 +4727,8 @@ OPtion,1C,meto+342257
 2C--,3D,6+!D | 10-12 HCP
 2C--,3H,6+!H | 10-12 HCP
 2C--,3S,6+!S | 10-12 HCP
-,2D,5+!D's | 10-13
-2D--,2H,ask about shape
+,2D,5+!D's | 10-13 unbalanced
+2D--,2H,invitational or better
 2D--2H--,2N,no short major | might be short in !C
 2D--2H--2N--,3C,ask further about shape | GF
 2D--2H--2N--3C--,3D,shorth !C | 5!D1!C43 or 6!D1!C3!h3!H
@@ -4764,8 +4764,8 @@ OPtion,1C,meto+342257
 2D--,3D,To Play
 2D--,3H,6+!h's | 9-12 HCP
 2D--,3S,6+!S's | 9-12 HCP
-,2H,5+!H's | 10-13 HCP unbalanced hands or 6+!h's | maybe balanced
-2H--,2N,5+!S's | invitational or a stronger hand
+,2H,5+!H's | 10-13 HCP unbalanced
+2H--,2N,5+!S's | invitational or better
 2H--2N--,3C,5!H-4+!C | minimum hand
 2H--2N--,3D,5!H-4+!d | minimum hand
 2H--2N--,3H,6+!H's | minimum hand
@@ -4774,7 +4774,7 @@ OPtion,1C,meto+342257
 2H--2N--,4C,5!h4!D3!S1!C or 6!H3!S3!D1!C
 2H--2N--,4D,5!h4!c3!S1!d or 6!H3!S3!c1!d
 2H--2N--,4H,6!h2!S32 | PASS/CORRECT to !S
-2H--,2S,Ask about hand | invitation or a stronger hand
+2H--,2S,Ask about hand | invitational or better
 2H--2S--,2N,6+!H's | may have shortage
 2H--2S--2N--,3C,ask about shortage
 2H--2S--2N--3C--,3D,short !D
@@ -5019,8 +5019,8 @@ OPtion,1C,meto+342257
 2N--4S--,5C,!C fit
 2N--4S--,5D,!D fit
 2N--,5N,6!C's & 6!D's | pick a slam
-,2S,5+!S's | 10-13 HCP unbalanced hans or 6+!S's | maybe balanced
-2S--,2N,Ask about hand | invitation or a stronger hand
+,2S,5+!S's | 10-13 HCP unbalanced
+2S--,2N,invitational or better
 2S--2N--,3C,5!s-4+!C's
 2S--2N--3C--,3D,further asking about distribution
 2S--2N--3C--3D--,3H,5!s-5!C
@@ -5033,7 +5033,7 @@ OPtion,1C,meto+342257
 2S--2N--,3H,5!s-5!D
 2S--2N--,3N,6+!s's | maximum hand
 2S--2N--,3S,6+!s's | minimum hand
-2S--,3C,5+!h's | invitational or a stronger hand
+2S--,3C,5+!h's | invitational or better
 2S--3C--,3D,5!S431!H | minimum hand
 2S--3C--,3H,2+!h's | minimum hand
 2S--3C--,3N,(1/2)!H | maximum hand
@@ -5041,14 +5041,14 @@ OPtion,1C,meto+342257
 2S--3C--,4C,5!s4!D3!h1!C or 6!s3!h3!D1!C
 2S--3C--,4D,5!s4!c3!h1!d or 6!s3!h3!c1!d
 2S--3C--,4H,6!s2!h32 | PASS/CORRECT to !S
-2S--,3D,5+!d's | invitation or a stronger hand
+2S--,3D,5+!d's | invitation
 2S--3D--,3H,ask for control in !h
 2S--3D--,3N,To Play
 2S--3D--,3S,no interest in game
 2S--3D--,4C,5!S-4+!C | GF with 13-14  HCP
 2S--3D--,4D,Accept invitation in !d's
-2S--,3H,5+!C's | invitation or a stronger hand
-,3N,Solid Majˆr
+2S--,3H,5+!C's | invitation
+,3N,Solid Major
 3N--,4C,bid slam with !D control
 3N--,4D,bid slam with !C control
 3N--,4H,PASS / CORRECT TO 4!s
@@ -5060,27 +5060,6 @@ Option,F_1, meto+342257
 ,4H,Long Weak !H's
 ,4S,Long Weak !s's
 
-1D1N--,2C,stayman,20210429_23:51 Deal 10
-
-
-1S2D3D--3H--3N--4C--4S--5C--,5H, Asking about Q of trumps,20210501_14:25 Deal 8
-
-1H--,1S,0-9,20210501_17:54 Deal 5
-1H--1S--2C--,3H,7-9 HCP,20210501_17:56 Deal 5
-1S--2C--2H--,3D,natural,20210501_18:39 Deal 6
-,2D,zayıf,20210502_14:42 Deal 9
-2C--2D--2N--3C--,3D,4-major var,20210502_15:41 Deal 18
-
-
-1N,2C,majörler,20210502_20:29 Deal 1
-,2D,zayıf10-13,20210503_21:52 Deal 2
-,2D,10-13,20210503_21:52 Deal 2
-2D--2H--,3D,short !S | 5!d4!H3!c1!S,20210503_21:53 Deal 2
-2D,2H,köre takeout,20210503_23:37 Deal 2
-1S--,2C,drury,20210504_00:09 Deal 8
-,1C,12+ HCP,20210505_01:57 Deal 1
-2SDb--,2N,lebenshol,20210505_20:30 Deal 4
-1S--,2C,10+,20210506_14:49 Deal 7
 
 Option
 
