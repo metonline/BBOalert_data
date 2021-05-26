@@ -1,6 +1,6 @@
-bboalert,2SP
+bboalert,2SPD
 
-Option,2SP
+Option,2SPD
 ,2S,5+!S's | 10-13 HCP unbalanced hans or 6+!S's | maybe balanced
 2S--,2N,Ask about hand | invitation or a stronger hand
 2S--2N--,3C,5!s-4+!C's
