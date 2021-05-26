@@ -195,6 +195,10 @@ Option,Lang TR
   Alias,no 4-card !H,4.lü !h yok
   Alias,Transfer to !S's with 6+!S's,6+!S ile !S'e transfer
   Alias,maybe passed with void !C's & 3!S's,şigan !C ve 3.lü !S ile pass geçilebilir
+  Alias,8 playing tricks,8 alıcı löve
+  Alias,asking stopper for game try in 3NT,3NT için keser sorusu; zon denemesi
+  Alias,To Play with !S stopper,!S keseri ile oynamaya
+  Alias,no 4-card !S | may have 4-card !H, 4.lü !S yok | 4.lü !H olabilir
    
   
   
