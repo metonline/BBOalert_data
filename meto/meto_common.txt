@@ -162,6 +162,9 @@ Option,Lang TR
   Alias,P/C to 2!D, Pas geç ya da 2!D'ya düzelt
   Alias,fit to !H & !S,!H ve !S'e fit var
   Alias,both majors,majörler (54 olabilir!)
+  Alias,unbalanced or 15+ HCP balanced (may have any 5-card suit if balanced),dengesiz veya 15+ dengeli (eğer dengeliyse 5.li başka bir renk bulunabilir)
+  Alias,no 4-card major,4.lü majör yok!
+  Aliyas,including 5(!C/!D)332 and 4!H4!S4!D1!C, 5(!C/!D)332 ve 4!H4!S4!D1!C dağılımları dahil
 Option
 
 //BBOalert
