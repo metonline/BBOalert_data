@@ -169,6 +169,7 @@ Option,Lang TR
   Alias,open for cue-bidding,cue-bid'e açış
   Alias,balanced hand | including 5(!h/!s)332, 5(!h/!s)332
   Alias,one-suited hand,tek-renkli el
+  Alias,transfer to 2NT for relaying,Röle için 2NT'ye transfer
   
   
   
