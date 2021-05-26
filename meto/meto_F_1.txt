@@ -288,7 +288,7 @@ OPtion,1C,meto+342257
 1C--1D--1N--3D--3H--,4D,short !S; 1!s4!H6!d2!c
 1C--1D--1N--,3H,4!H4!S | game values
 1C--1D--1N--,3N,To Play
-1C--1D--,1S,4!s's | 15+HCP
+1C--1D--,1S,14+HCP; 5+!C-4!S
 1C--1D--1S--,1N,6-7 HCP
 1C--1D--1S--,2C,0-5 HCP
 1C--1D--1S--,2D,4th suit
