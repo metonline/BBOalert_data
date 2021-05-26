@@ -618,7 +618,7 @@ Shortcut, Systems & Carding, , width=100% backgroundColor=palegreen fontSize=18p
 Option,NiloCard, meto+nilsun,
 //Script,onDataLoad,PREV_OPPS = "";
 //Script,onAuctionBegin
-if ((myDirection() == "S") || (myDirection() == "E")) {
+if ((myDirection() == "G") || (myDirection() == "D")) {
 ACT_OPPS = myOpponent(true) + "+" + myOpponent(false);
 if (ACT_OPPS != PREV_OPPS) {
 setChatMessage(findShortcut("Nilo"), true);
@@ -634,7 +634,7 @@ Shortcut,Nilo,2/1 UDCA oynuyoruz..Ataklar 2. ve 4.den… Gerekli hallerde alert 
 Option,FaileCard, meto+camomille
 //Script,onDataLoad,PREV_OPPS = "";
 //Script,onAuctionBegin
-if ((myDirection() == "S") || (myDirection() == "E")) {
+if ((myDirection() == "G") || (myDirection() == "D")) {
 ACT_OPPS = myOpponent(true) + "+" + myOpponent(false);
 if (ACT_OPPS != PREV_OPPS) {
 setChatMessage(findShortcut("Standard"), true);
@@ -650,7 +650,7 @@ Shortcut,Standard,2/1 Büyük apel düz sayı ve standart defos oynuyoruz. Atakl
 Option,RomenSTD,meto+gurus,meto+gypsyqueen,meto+ozbay
 //Script,onDataLoad,PREV_OPPS = "";
 //Script,onAuctionBegin
-if ((myDirection() == "S") || (myDirection() == "E")) {
+if ((myDirection() == "G") || (myDirection() == "D")) {
 ACT_OPPS = myOpponent(true) + "+" + myOpponent(false);
 if (ACT_OPPS != PREV_OPPS) {
 setChatMessage(findShortcut("StdRomen"), true);
@@ -665,7 +665,7 @@ Shortcut,StdRomen,2/1 Büyük apel düz sayı ve Romen defos oynuyoruz... Atakla
 Option,MehmetCard,meto+342257
 //Script,onDataLoad,PREV_OPPS = "";
 //Script,onAuctionBegin
-if ((myDirection() == "S") || (myDirection() == "E")) {
+if ((myDirection() == "G") || (myDirection() == "D")) {
 ACT_OPPS = myOpponent(true) + "+" + myOpponent(false);
 if (ACT_OPPS != PREV_OPPS) {
 setChatMessage(findShortcut("Mehmet"), true);
@@ -681,7 +681,7 @@ Shortcut,Mehmet,1-renk açışlarımız 14+ (her-iki major de varken 11+) ve 1-t
 Option,RitaCard,meto+ratrut
 //Script,onDataLoad,PREV_OPPS = "";
 //Script,onAuctionBegin
-if ((myDirection() == "S") || (myDirection() == "E")) {
+if ((myDirection() == "G") || (myDirection() == "D")) {
 ACT_OPPS = myOpponent(true) + "+" + myOpponent(false);
 if (ACT_OPPS != PREV_OPPS) {
 setChatMessage(findShortcut("Rita"), true);
