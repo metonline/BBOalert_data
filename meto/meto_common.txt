@@ -201,7 +201,8 @@ Option,Lang TR
   Alias,no 4-card !S | may have 4-card !H, 4.lü !S yok | 4.lü !H olabilir
   Alias,no short major | might be short in !C, kısa majör yok | !C kısa olabilir
   Alias,ask about hand | invitational or better, el tarif sorusu | davet veya üzeri
-  Alias,ask about hand | invitational or better
+  Alias,ask;(invite plus),soru (davet ve üzeri el)
+  Alias,Transfer to 3!C,3!C'e transfer
   
 Option
 
