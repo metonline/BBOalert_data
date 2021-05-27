@@ -102,7 +102,7 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_RangeAskSt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Drury3way_.txt,meto+camomille,meto+nilsun,meto+gurus,meto+gypsyqueen,meto+ratrut
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Rita.txt,meto+ratrut 
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_F_1.txt,meto+342257
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Trial.txt,meto+camomille
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Trial.txt,meto+camomille,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Gazilli.txt,meto+sansmelegi
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_xyz1h1s1n.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Splinter.txt,meto+camomille
