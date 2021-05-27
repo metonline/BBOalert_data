@@ -68,9 +68,7 @@ Option,3/1GF,meto+camomille,meto+gypsyqueen, meto+nilsun
 Option,superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,meto+gypsyqueen,meto+ratrut
 Option,multylandy,meto+gypsyqueen,meto+ozbay
 Option,2CLB,meto+342257
-Option,2DIA,meto+342257
-Option,2HRT,meto+342257
-Option,2SPD,meto+342257
+Option,2ler,meto+342257
 Option,2NT,meto+342257
 Option
 
@@ -118,4 +116,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2CLB.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2DIA.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2HRT.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2SPD.txt
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2NT.txt
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2ler.txt
