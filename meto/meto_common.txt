@@ -135,7 +135,6 @@ Option,Lang TR
   Alias,bad quality, kötü kaliteli
   Alias,further asking about the shape,dağılım hakkında ileri sorgulama
   Alias,Transfer to 3!C for long (!c/!d) or for invitation with non-touching suits, Uzun !C/!D icin transfer ya da yapışık olmayan renklerden davet
-  Alias,or, ya da
   Alias,touching suits invitational or GF in 5-5 minors,yapışık renklerden davet veya 5-5 minörlerle zon-forsing
   Alias,asking key cards,key-card sorusu
   Alias,No interest in proceeding further, daha fazla irdeleme ilgisi yok
@@ -201,7 +200,7 @@ Option,Lang TR
   Alias,no 4-card !S | may have 4-card !H, 4.lü !S yok | 4.lü !H olabilir
   Alias,no short major | might be short in !C, kısa majör yok | !C kısa olabilir
   Alias,ask about hand | invitational or better, el tarif sorusu | davet veya üzeri
-  Alias,ask;(invite plus),soru (davet ve üzeri el)
+  Alias,ask about hand (invite plus),soru (davet ve üzeri el)
   Alias,Transfer to 3!C,3!C'e transfer
   
 Option
