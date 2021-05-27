@@ -9,7 +9,7 @@ Option,Lang TR
   Alias,no 4!H's but may have 4!S’s, 4.lü !H yok ancak 4.lü !S olabilir
   Alias,may have 4-card major, 4.lü major sahip olabilir
   Alias,maybe balanced,dengeli olabilir
-  Alias,maybe 1!s444 hand, 1!S444 Eli olabilir  
+  Alias,maybe 1!s444 hand, 1!S444 Eli olabilir
   Alias,maybe passed with void !C's & 3!S’s, şigan !C ve 3.lü !S ile pas geçilmiş olabilir
   Alias,maybe 3!s, 3.lü !s olabilir
   Alias,maybe 3!H, 3.lü !H olabilir
@@ -89,7 +89,19 @@ Option,Lang TR
   Alias,odd key cards and a void, tek sayıda key-card ve bir şigan
   Alias,support, destek
   Alias,strong, güçlü
-  Alias,take-out, kontrat arayışı
+  Alias,5-9 HCP or take-out for !D's, 5-9 HCP veya !D harici kontrat arayışı
+  Alias,take-out for !h's,!h harici kontrat arayışı
+  Alias,Transfer to 2NT with 8-9 HCP,8-9 HCP ile 2NT'ye transfer
+  Alias,Transfer to 3NT with 10-12 HCP,10-12 HCP ile 3NT'ye transfer
+  Alias,Strong take-out for !s's,güçlü elle !s harici kontrat arayışı
+  Alias,jump-switch,sıçramalı renk-değiştirme
+  Alias,strong take-out,güçlü elle kontrat arayışı
+  Alias,RKC 1403 on !H's, !H üzerinden key-kart sorusu RKC 1403
+  Alias,RKC 1403 on !S's, !S üzerinden key-kart sorusu RKC 1403
+  Alias,no good !C fit, !C'e iyi fit yok
+  Alias,good !C fit,iyi !C fiti
+  Alias,no good !D fit,iyi !D fiti yok
+  Alias,good !D fit,iyi !D fiti  
   Alias,light, güçlü olmayan
   Alias,may not have 4-card major, 4.lü major olmayabilir
   Alias,accept invitation with !C fit, !C fiti & daveti kabul
