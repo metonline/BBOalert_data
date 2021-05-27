@@ -40,4 +40,9 @@ Option,superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,
 Option,multylandy,meto+gypsyqueen,meto+ozbay
 Option,2NT,meto+342257
 Option,2ler,meto+342257
+Option,MehmetCard,meto+342257
+Option,Nilo,meto+nilsun
+Option,RitaCard,meto+ratrut
+Option,RomenSTD,meto+gurus,meto+ozbay,meto-gypsyqueen
+Option,FaileCard,meto+camomille
 Option
