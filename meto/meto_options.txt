@@ -38,9 +38,6 @@ Option,Splinter,meto+camomille
 Option,3/1GF,meto+camomille,meto+gypsyqueen, meto+nilsun
 Option,superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,meto+gypsyqueen,meto+ratrut
 Option,multylandy,meto+gypsyqueen,meto+ozbay
-Option,2CLB,meto+342257
-Option,2DIA,meto+342257
-Option,2HRT,meto+342257
-Option,2SPD,meto+342257
 Option,2NT,meto+342257
+Option,2ler,meto+342257
 Option
