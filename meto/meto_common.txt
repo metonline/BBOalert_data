@@ -149,8 +149,8 @@ Option,Lang TR
   Alias,as requested (invite plus),talep edildiği üzere (davet ve üzeri)
   Alias,4!H with no !C stopper,4!H; !C keseri yok
   Alias,4!S with no !C stopper,4!S; !C keseri yok
-  Alias,2D,4!H with !C stopper,4!H; !C keseri var
-  Alias,2H,4!S with !C stopper,4!S; !C keseri var
+  Alias,4!H with !C stopper,4!H; !C keseri var
+  Alias,4!S with !C stopper,4!S; !C keseri var
   Alias,invitation for game,zona davet
   Alias,doubleton with no values,doubleton; renkte puan yok
   Alias,Transfer to 3NT,3NT'ye Transfer
