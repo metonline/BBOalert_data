@@ -1,4 +1,4 @@
-bboalert,2,ler
+bboalert,2ler
 
 Option,2ler
 1C,1D,5+!H's | 6-16 HCP
