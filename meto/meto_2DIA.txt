@@ -2,7 +2,7 @@ bboalert,2DIA
 
 Option,2DIA
 ,2D,5+!D; 10-13
-2D--,2H,ask;(invite plus)
+2D--,2H,ask about hand (invite plus)
 +,2S,5+(!H/!S)-4+(!h/!s);10-12 HCP
 +,2N,Transfer to 3!C
 +,3C,6+!C;10-12 HCP
