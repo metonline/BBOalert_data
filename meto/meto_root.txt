@@ -71,6 +71,7 @@ Option,2CLB,meto+342257
 Option,2DIA,meto+342257
 Option,2HRT,meto+342257
 Option,2SPD,meto+342257
+Option,2NT,meto+342257
 Option
 
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
@@ -117,3 +118,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2CLB.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2DIA.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2HRT.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2SPD.txt
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2NT.txt
