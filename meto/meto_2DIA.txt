@@ -1,11 +1,11 @@
 bboalert,2DIA
 
 Option,2DIA
-,2D,5+!D's | 10-13
-2D--,2H,ask about hand | invitational or better
-+,2S,5+(!H/!S)-4+(!h/!s) | 10-12 HCP
+,2D,5+!D; 10-13
+2D--,2H,ask;(invite plus)
++,2S,5+(!H/!S)-4+(!h/!s);10-12 HCP
 +,2N,Transfer to 3!C's
-+,3C,6+!C's | 10-12 HCP
++,3C,6+!C's;10-12 HCP
 +,3D,To Play
 +,3H,6+!h's | 9-12 HCP
 +,3S,6+!S's | 9-12 HCP
