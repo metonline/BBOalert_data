@@ -1,7 +1,7 @@
 bboalert,2CLB
 
 Option,2CLB
-,2C,10-13 HCP | 5+!C's
+,2C,10-13 HCP | 5+!C's | unbalanced
 2C--,2D,ask about hand | invitational or better
 2C--2D--,2H,3/4!h
 2C--2D--2H--,2N,ask about shape
