@@ -215,7 +215,10 @@ Option,Lang TR
   Alias,ask about hand (invite plus),soru (davet ve üzeri el)
   Alias,Transfer to 3!C,3!C'e transfer
   Alias,Relay,röle
-  
+  Alias,no good help in the asked suit,sorulan renkte yardım yok
+  Alias,good help in the asked suit,sorulan renkte iyi yardım
+  Alias,jump-cuebid,sıçramalı cue-bid
+ 
 Option
 
 //BBOalert
