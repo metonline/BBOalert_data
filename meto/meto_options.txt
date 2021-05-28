@@ -45,5 +45,5 @@ Option,Nilo,meto+nilsun
 Option,RitaCard,meto+ratrut
 Option,RomenSTD,meto+gurus,meto+ozbay,meto-gypsyqueen
 Option,FaileCard,meto+camomille
-Option,Puppet,meto+camomille,meto+gurus,meto+gypsyqueen,meto+nilsun
+Option,Puppet,meto+camomille,meto+gurus,meto+gypsyqueen
 Option
