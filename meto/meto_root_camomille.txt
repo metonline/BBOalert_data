@@ -52,4 +52,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Splinter.t
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_3x1GF.txt,meto+camomille,meto+gypsyqueen,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_staymanDBL.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_superaccept.txt
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_puppet
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_puppet.txt
