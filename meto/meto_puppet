@@ -1,0 +1,44 @@
+bboalert,Puppet
+
+Option,Puppet
+,2N,19-21; may have 5-card major
+2N--,3C,ask about major
++,3D,transfer to 3!H
++,3H,transfer to 3!S
++,3S,transfer to 3NT
++,3N,5!S-4!H;non-forcing
++,4C,Gerber
++,4D,5!h-5!s
++,4H,5!C-5!D; short !H & slam interest
++,4S,5!C-5!D; short !S & slam interest
++,4N,pick a minor
+2N--3C--,3D,no 5-card but any 4-card major
++,3H,5!H
++,3S,3!S
++,3N,neither 5 nor 4-card major
+2N--3D--,3H,2!H
++,3S,3!h-4!s
++,3N,3/4!h
++,4C,4!h-doubleton with no values in !C
++,4D,4!h-doubleton with no values in !D
++,4H,4!h,all controls
+2N--3D--3H--,3S,transfer to 3NT
++,3N,5!H-4!S;non-forcing
+2N--3H--,3S,2!S
++,3N,3/4!S
++,4C,4!S-doubleton with no values in !C
++,4D,4!S-doubleton with no values in !D
++,4H,4!S,all controls
+2N--3H--3S--,4H,5!s-4!h slam interest
+2N--3D--3H--3S--3N--,4C,5!H-4!S; slam interest & !C control
++,4D,5!H-4!S; slam interest & !D control
++,4H,5!H-4!S; slam interest & no !C/!D control
+2N--3C--3[DHS]--,3N,To play
++,4C,6+!c; slam interest
++,4D,6+!D; slam interest
+2N--3D--3H--3S--3NT--,4C,6+!D; slam interest
++,4D,6+!C; slam interest
++,4H,6!C-5!D; slam interest
++,4S,6!D-5!C; slam interest
++,4N,22(54)minors; slam interest
+Option
