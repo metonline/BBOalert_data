@@ -33,5 +33,5 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Drury3way_
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_xyz1h1s1n.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_3x1GF.txt,meto+camomille,meto+gypsyqueen,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_multylandy.txt
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_puppet
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_puppet.txt
 
