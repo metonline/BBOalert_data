@@ -32,7 +32,7 @@ Option
 Option,InterventinMajorFit,meto+camomille, meto+gurus, meto+gypsyqueen, meto+ozbay, meto+ratrut, meto+nilsun
 Option,NFB,meto+camomille, meto+gypsyqueen, meto+nilsun, meto+gurus, meto+ratrut, meto+ozbay
 Option, XYZ no instead NMF, meto+gypsyqueen
-Option, XYZ, meto+nilsun, meto+ratrut, meto+gurus 
+Option, XYZ, meto+nilsun, meto+ratrut, meto+gurus
 Option,NTstandart no instead Kacis, meto+camomille
 Option,NTstandart, meto+camomille
 Option,FaileNT, meto+camomille
