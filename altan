@@ -1,1 +1,868 @@
 
+bboalert,Common Aliases and Shortcuts
+
+Option,Lang EN
+Option,Lang TR
+  Alias,3!H's may have 4!S's also,3.lü !H’ü var; 4.lü !S’i de olabilir
+  Alias,may have 4!H333 hand,4!H333 dağılımına sahip olabilir
+  Alias,may have any 5-card suit if balanced,dengeli iken 5.li herhangi bir rengi olabilir 
+  Alias,may have 4!S,4!S’i olabilir
+  Alias,no 4!H's but may have 4!S’s, 4.lü !H yok ancak 4.lü !S olabilir
+  Alias,may have 4-card major, 4.lü major sahip olabilir
+  Alias,maybe balanced,dengeli olabilir
+  Alias,maybe 1!s444 hand, 1!S444 Eli olabilir
+  Alias,maybe passed with void !C's & 3!S’s, şigan !C ve 3.lü !S ile pas geçilmiş olabilir
+  Alias,maybe 3!s, 3.lü !s olabilir
+  Alias,maybe 3!H, 3.lü !H olabilir
+  Alias,maybe short with 4-card major suit, 4.lü major renkle birlikte kısalık olabilir
+  Alias,maybe<12, <12 olabilir
+  Alias,maybe 54, 54 olabilir
+  Alias,No 5-card major maybe 4-card major or at least 3-card !S, 5.li major yok, 4.lü major olabilir ya da en kötü 3.lü !S var
+  Alias,invitation and plus, davet ve üzeri
+  Alias,transfer to 2!D for sign-off,2!D’ya transfer; pas emri için 
+  Alias,transfer to 2!H for sign-off,2!H’e transfer; pas emri için 
+  Alias,transfer to 2!S for sign-off,2!S’e transfer; pas emri için 
+  Alias,transfer to 3!C for sign-off,3!c’e transfer; pas emri için 
+  Alias,solid-suit 8-tricks no !S control, kapalı renk 8-löve; !S kontrolü yok
+  Alias,solid-suit 8-tricks with !S control, kapalı renk 8-löve; !S kontrolü var
+  Alias,invitation or a stronger hand, davet ya da daha güçlü el
+  Alias,further asking about distribution, dağılım hakkında ileri sorgulama
+  Alias,asking stopper,keser sorusu
+  Alias,weakness in !S, !S’te zaaf
+  Alias,weakness in !H, !H’tDe zaaf
+  Alias,weakness in !D, !D’da zaaf
+  Alias,weakness in !C, !C’te zaaf
+  Alias,shortage in !S, !s’te kısalık
+  Alias,shortage in !H, !h’de kısalık
+  Alias,shortage in !D, !d’da kısalık
+  Alias,shortage in !C, !s’te kısalık
+  Alias,all controls complete, bütün kontroller tamam
+  Alias,good help in the asked suit, sorulan renkte yardım var
+  Alias,no good help in the asked suit,sorulan renkte yardım yok
+  Alias,balanced hand | no 5-card !H’s, dengeli el, 5.li !H yok
+  Alias,may have 5 !S,5.li !S olabilir
+  Alias,balanced hand | including 5(!C/!D)332 and 4!H4!S4!D1!C, 5(!C/!D)332 and 4!H4!S4!D1!C dağılımı dahil dengeli el
+  Alias,balanced hand | 5!c332 or 4333 / 4432 hand,5!c332 or 4333 / 4432 dağılımlarındaki dengeli el
+  Alias,balanced,dengeli
+  Alias,off-shape,şablon dışı
+  Alias,game forcing,zon-forsing
+  Alias,slam interest,şilem ilgisi
+  Alias,game interest,zon ilgisi
+  Alias,game values,zon puanı
+  Alias,invite,davet
+  Alias,GF,zon-forsing
+  Alias,P/C to,PASS/düzelt
+  Alias,slam forcing,şilem forsing
+  Alias,minors,minörler
+  Alias,majors,majörler
+  Alias,sign-off,PASS emri
+  Alias,relay,röle
+  Alias,solid,kapalı
+  Alias,decline,daveti ret
+  Alias,both minors, her iki-minör de
+  Alias,both majors, her iki-majör de
+  Alias,ask,soru
+  Alias,To Play,Oynamaya
+  Alias ,2-suited,2-renkli
+  Alias ,2 suited,2 renkli
+  Alias ,hand, el
+  Alias ,unbalanced,dengesiz
+  Alias ,any,herhangi
+  Alias ,weak,zayıf
+  Alias ,long,uzun
+  Alias ,suit,renk
+  Alias ,with no stopper in !D, !D’da keser yok
+  Alias ,with no stopper in !h, !h’de keser yok
+  Alias ,with no stopper in !h, !s’te keser yok
+  Alias ,denies stopper, keser inkarı
+  Alias ,automatic, otomatik
+  Alias ,as requested, mecburi deklere
+  Alias ,accept invitation with !C fit, !C fiti ile davetin kabulü
+  Alias ,accept invitation with !d fit, !d fiti ile davetin kabulü
+  Alias ,accept invitation with !h fit, !h fiti ile davetin kabulü
+  Alias ,accept invitation with !s fit, !s fiti ile davetin kabulü
+  Alias ,forces to bid 2!D, 2!D’ya forsing
+  Alias ,forces to bid 3!c, 3!c’e forsing
+  Alias, with !H stopper, !H keseriyle
+  Alias, with !s stopper, !s keseriyle
+  Alias,Second good suit, 2. iyi renk
+  Alias,even key cards and a void, çift sayıda key-card ve bir şigan
+  Alias,odd key cards and a void, tek sayıda key-card ve bir şigan
+  Alias,support, destek
+  Alias,strong, güçlü
+  Alias,5-9 HCP or take-out for !D's, 5-9 HCP veya !D harici kontrat arayışı
+  Alias,take-out for !h's,!h harici kontrat arayışı
+  Alias,Transfer to 2NT with 8-9 HCP,8-9 HCP ile 2NT'ye transfer
+  Alias,Transfer to 3NT with 10-12 HCP,10-12 HCP ile 3NT'ye transfer
+  Alias,Strong take-out for !s's,güçlü elle !s harici kontrat arayışı
+  Alias,jump-switch,sıçramalı renk-değiştirme
+  Alias,strong take-out,güçlü elle kontrat arayışı
+  Alias,RKC 1403 on !H's, !H üzerinden key-kart sorusu RKC 1403
+  Alias,RKC 1403 on !S's, !S üzerinden key-kart sorusu RKC 1403
+  Alias,no good !C fit, !C'e iyi fit yok
+  Alias,good !C fit,iyi !C fiti
+  Alias,no good !D fit,iyi !D fiti yok
+  Alias,good !D fit,iyi !D fiti  
+  Alias,light, güçlü olmayan
+  Alias,may not have 4-card major, 4.lü major olmayabilir
+  Alias,accept invitation with !C fit, !C fiti & daveti kabul
+  Alias,accept invitation with !d fit, !D fiti & daveti kabul
+  Alias,card support,kart desteği
+  Alias,card,kart
+  Alias,maybe short,kısa olabilir
+  Alias,asking stopper for game try in 3NT, 3NT için keser sorusu
+  Alias,game try, son denemesi
+  Alias,try,denemesi
+  Alias,game,zon
+  Alias,slam,şilem
+  Alias,ask about longer major,uzun major sorusu
+  Alias,with A/K, A/R ile
+  Alias, with !C stopper, !C keseriyle
+  Alias, with !D stopper, !D keseriyle
+  Alias, with !H stopper, !H keseriyle
+  Alias, with !S stopper, !S keseriyle
+  Alias,asking singleton, singleton sorusu
+  Alias,no !s stopper,!s keseri yok
+  Alias,no !hstopper,!h keseri yok
+  Alias,no !d stopper,!d keseri yok
+  Alias,no !c stopper,!c keseri yok
+  Alias,slam try in !c, !c’ten şilem denemesi
+  Alias,slam try in !d, !d’dan şilem denemesi
+  Alias,slam try in !h, !h’den şilem denemesi
+  Alias,slam try in !s, !s’ten şilem denemesi
+  Alias, open for cue-bidding in !H’s, !H’den cue-bid’e açma
+  Alias, open for cue-bidding in !s’s, !s’ten cue-bid’e açma
+  Alias,ask about side-suit,yan-renk sorusu
+  Alias,asking key cards in !C,!c’ten key-card sorusu
+  Alias,asking key cards in !d,!D’dan key-card sorusu
+  Alias,forcing for 1-round,1-tur için forsing
+  Alias,semi-forcing,yarı-forsing
+  Alias,asking about shortness,kısalık sorusu
+  Alias,have A/K,A/R var
+  Alias,ask about shape,dağılım sorusu
+  Alias,ask for side-suit,yan-renk sorusu
+  Alias,asking for cues, kontrol sorusu
+  Alias,choice of games,zon kontratı seçimi
+  Alias,semi-solid,yarı-kapalı
+  Alias,no good suit quality, kötü renk kalitesi
+  Alias,bad quality, kötü kaliteli
+  Alias,further asking about the shape,dağılım hakkında ileri sorgulama
+  Alias,Transfer to 3!C for long (!c/!d) or for invitation with non-touching suits, Uzun !C/!D'lar icin 3!C'e transfer ya da yapışık olmayan renklerden davet
+  Alias,touching suits invitational or GF in 5-5 minors,yapışık renklerden davet veya 5-5 minörlerle zon-forsing
+  Alias,asking key cards,key-card sorusu
+  Alias,No interest in proceeding further, daha fazla irdeleme ilgisi yok
+  Alias,second good suit, 2. iyi renk
+  Alias,asking feature & strength, puan güçü ve niteliği sorusu
+  Alias,open for cue-bidding,cue-bide açış
+  Alias,Strong take-out for !H’s, !H dışında renk arayışı (güçlü)
+  Alias,Strong take-out for !S’s, !s dışında renk arayışı (güçlü)
+  Alias,void,şigan
+  Alias,request for redouble if invite plus, eğer davet ve üzeri ise sürkontur talebi
+  Alias,weak hand (short !C) P/C, zayıf el (kısa !c) Pass/düzelt
+  Alias,as requested (invite plus),talep edildiği üzere (davet ve üzeri)
+  Alias,4!H with no !C stopper,4!H; !C keseri yok
+  Alias,4!S with no !C stopper,4!S; !C keseri yok
+  Alias,4!H with !C stopper,4!H; !C keseri var
+  Alias,4!S with !C stopper,4!S; !C keseri var
+  Alias,invitation for game,zona davet
+  Alias,doubleton with no values,doubleton; renkte puan yok
+  Alias,Transfer to 3NT,3NT'ye Transfer
+  Alias,transfer to 2!S; 4+!S,2!S'e transfer; 4+!S ile
+  Alias,transfer to 2!H; 4+!S,2!H'e transfer; 4+!H ile
+  Alias,forced,mecburi deklere
+  Alias,preemptive,blokatif
+  Alias,P/C to 2!D, Pas geç ya da 2!D'ya düzelt
+  Alias,fit to !H & !S,!H ve !S'e fit var
+  Alias,both majors,majörler (54 olabilir!)
+  Alias,unbalanced or 15+ HCP balanced (may have any 5-card suit if balanced),dengesiz veya 15+ dengeli (eğer dengeliyse 5.li başka bir renk bulunabilir)
+  Alias,no 4-card major,4.lü majör yok!
+  Alias,including 5(!C/!D)332 and 4!H4!S4!D1!C, 5(!C/!D)332 ve 4!H4!S1!D4!C dağılımları dahil
+  Alias,any balanced hand including 4!S4!H1!D4!C,4!S4!H4!D1!C dahil dengeli el
+  Alias,open for cue-bidding,cue-bid'e açış
+  Alias,balanced hand | including 5(!h/!s)332, 5(!h/!s)332
+  Alias,one-suited hand,tek-renkli el
+  Alias,transfer to 2NT for relaying,Röle için 2NT'ye transfer
+  Alias,for choice of games, Zon seçenekleri arasından tercih için
+  Alias,with 2!H's | balanced hand, 2!H & dengeli el
+  Alias,PASS / CORRECT to 3!S, Pas geç ya da 3!S'e düzelt
+  Alias,transfer to 3NT with 5!H332 for choice of games, 5!H332 ile 3NT'ye transfer; zon tercihi için
+  Alias,balanced hand including any 5-card major with 5332 shape, herhangi 5.li majörü ve 5332 dağılımı olan dengeli el
+  Alias,asking 3-card !S support and/or !D stopper,3.lü !S desteği ve/veya !D keseri sorusu
+  Alias,further asking about shape,dağılımla ilgili ileri sorgulama
+  Alias,invitation for 3NT with 7-9 HCP | weakness in !H's,3NT'ye 7-9 ile davet | !H'de zaaf
+  Alias,invitation for 3NT with 7-9 HCP | weakness in !S's,3NT'ye 7-9 ile davet | !S'te zaaf
+  Alias,18-20 HCP with long !C's and (0-2)!d's or 23+HCP balanced or 21+HCP long clubs with shortage, 18-20  uzun !C (0-2)!d | 21+ kısalığı olan uzun !C'ler ya da 23+ dengeli el
+  Alias,re-transfer to !S's with 6!S's-(3/4)!H's,6!S-(3/4)!H ile !S'e tekrar transfer
+  Alias,any strength,herhangi bir kuvvet
+  Alias,To Play with 2!h's,2.li !H ile oynamaya
+  Alias,Gerber with 5!H-3!S,5!H3!S ile Gerber
+  Alias,re-transfer to !H with 6!H-3!S, 6!H-3!S ile tekrar transfer
+  Alias,pick a slam,şilem seç
+  Alias,pass / correct to 4!S, Pass geç ya da 4!S'e düzelt
+  Alias,top honors in !S are missing,!S'te tepe onörler eksik
+  Alias,Transfer to 3!C as relay,3!C'e röle için transfer
+  Alias,invitational or better,davet ve üzeri
+  Alias,4+!H | may also have 4-card !S's,4+!H | 4.lü !S de olabilir!
+  Alias,may also have 4-card !S,aynı zamanda 4.lü !S de olabilir
+  Alias,no 4-card !H,4.lü !h yok
+  Alias,Transfer to !S's with 6+!S's,6+!S ile !S'e transfer
+  Alias,maybe passed with void !C's & 3!S's,şigan !C ve 3.lü !S ile pass geçilebilir
+  Alias,8 playing tricks,8 alıcı löve
+  Alias,asking stopper for game try in 3NT,3NT için keser sorusu; zon denemesi
+  Alias,To Play with !S stopper,!S keseri ile oynamaya
+  Alias,no 4-card !S | may have 4-card !H, 4.lü !S yok | 4.lü !H olabilir
+  Alias,no short major | might be short in !C, kısa majör yok | !C kısa olabilir
+  Alias,ask about hand | invitational or better, el tarif sorusu | davet veya üzeri
+  Alias,ask about hand (invite plus),soru (davet ve üzeri el)
+  Alias,Transfer to 3!C,3!C'e transfer
+  Alias,Relay,röle
+  Alias,no good help in the asked suit,sorulan renkte yardım yok
+  Alias,good help in the asked suit,sorulan renkte iyi yardım
+  Alias,jump-cuebid,sıçramalı cue-bid
+ 
+Option
+
+//BBOalert
+//Script,onAuctionBegin
+var MH = getMyHand();
+var HCP = (MH.match(/A/g) || []).length*4 + (MH.match(/K/g) || []).length*3 + (MH.match(/Q/g) || []).length*2 + (MH.match(/J/g) || []).length;
+bboalertLog("HCP = " + HCP); 
+//Script
+
+
+//Javascript,https://raw.githubusercontent.com/stanmaz/BBOalert/master/Scripts/stanmazLib.js
+//BBOalert
+//Script,onDataLoad
+HOVER_BBOALERT_TAB = function () {
+    var t = document.getElementById('bboalert-tab');
+    if (t.onmouseover == null) t.onmouseover = function () {
+        setOptions(true);
+    };
+    var rd = document.getElementById('rightDiv');
+    var vt = rd.querySelector('.verticalTabBarClass');
+    tabs = vt.querySelectorAll('.verticalClass');
+    for (var i = 0; i < tabs.length; i++) {
+        if (tabs[i].textContent.search('BBOalert') == -1) {
+            if (tabs[i].onmouseover == null) tabs[i].onmouseover = setOptionsOff;
+        }
+    }
+};
+//Script,onAnyMutation
+HOVER_BBOALERT_TAB();
+//Script
+
+//Script,onDataLoad
+//# sourceURL=kbdBidOnDataLoad.js
+// Version 1.1
+
+class KBDBIDHELPER {
+    constructor() {
+        // if there is any old instance around, attempt to
+        // remove its listener if any (ignore errors)
+        try {window.KBDBIDHELPERINSTANCE.removeKeyDownListenerIfAny();}    
+        catch (e) {}
+
+        this.boundListenFunc = null;
+        this.initButtonIndexMap();
+        this.elBiddingButtons = null;
+        this.keyBuffer = '';
+        this.verbose = false;   // set true for debugging info
+        
+        // in case we update class during bidding
+        if (window.biddingBoxDisplayed) {
+            this.onBiddingBoxDisplayed();
+        }
+    }
+
+    logIfVerbose(txt) {
+        if (this.verbose) console.log(txt);
+    }
+    
+    onBiddingBoxDisplayed() {
+        this.saveBiddingButtonElements();
+        this.addKeyDownListener();
+    }
+    
+    onBiddingBoxHidden() {
+        this.removeKeyDownListenerIfAny();
+    }
+    
+    saveBiddingButtonElements() {
+        // grab bidding button elements
+        let elBiddingBox = document.querySelector(".biddingBoxClass");
+        if (elBiddingBox == null) {
+            console.log('Error: elBiddingBox missing');
+            return;
+        }
+        this.elBiddingButtons = elBiddingBox.querySelectorAll(".biddingBoxButtonClass");
+        if (this.elBiddingButtons == null) {
+            console.log('Error: elBiddingButtons missing');
+            return;
+        }
+        if (this.elBiddingButtons.length < 17) {
+            console.log(`Error: elBiddingButtons length is only ${this.elBiddingButtons.length}`);
+            return;
+        }
+    }
+
+    // set up button index map
+    initButtonIndexMap() {
+        let map = new Map();
+        // buttons 0-6 for bidding levels 1-7
+        for (let n=0; n<=6; n++) {
+            let key = `${n+1}`;
+            map.set(key, n);
+        }
+        // buttons 7-11 for suits CDHSN
+        for (let n=7; n<=11; n++) {
+            let key = 'CDHSN'[n-7];
+            map.set(key, n);
+        }
+        // pass, double, redouble and OK buttons
+        map.set('--', 12);
+        map.set('Db', 13);
+        map.set('Rd', 14);
+        map.set('OK', 16);
+        this.buttonIndexMap = map;          
+    }
+
+    // call the mousedown listener for a given button name
+    callButtonMouseDownListener(name) {
+        let idx = this.buttonIndexMap.get(name);
+        if (idx == undefined) {
+            console.log(`Error: no button idx for "${name}"`);
+            return;
+        }
+        let mouseDownFunc = this.elBiddingButtons[idx].onmousedown;
+        if (mouseDownFunc == null) {
+            console.log(`Error: null mousedown for "${name}"`);
+        }
+        mouseDownFunc();
+    }
+    
+    isSettingSet(settingIndex) {
+        let rd = document.getElementById('rightDiv');
+        if (rd == null) return '';
+        let sc = rd.querySelectorAll('.settingClass');
+        if (sc.length < settingIndex+1) {
+            if (sc.length == 0) return '';
+        }
+        if (document.querySelectorAll('.settingClass')[settingIndex].querySelector('mat-slide-toggle').classList[2] == "mat-checked") return 'Y';
+        else return 'N';
+    }
+
+    isKeyboardEntrySet() {
+        return this.isSettingSet(7);
+    }
+
+
+    // functions for testing the legality of a bid, used by handleKeyboardBid
+    isBidLevelChar(ch) {
+        return ('1234567'.includes(ch));
+    }
+
+    isLevSuitBid(bid) {
+        if (bid == null) return false;
+        else return(this.isBidLevelChar(bid[0]));
+    }
+
+    bidAtPos(ctx, pos) {
+        return ctx.slice(pos, pos+2);
+    }
+
+    findLastLevSuitPos(s) {
+        let pos = s.length-2;
+        while ((pos >= 0) && (!this.isLevSuitBid(this.bidAtPos(s, pos)))) {
+            pos -= 2;
+        }
+        return pos;
+    }
+
+    isBidByOpp(s, pos) {
+        let bidsFromEnd = (s.length - pos)/2;
+        return ((bidsFromEnd % 2) == 1);
+    }
+
+    findLastLevSuitBid(s) {
+        let pos = this.findLastLevSuitPos(s);
+        let bid = null;
+        let byOpp = null;
+        if (pos >= 0) {
+            bid = this.bidAtPos(s, pos);
+            byOpp = this.isBidByOpp(s, pos);
+        }
+        return {bid, byOpp};
+    }
+
+    findLastNonPassPos(s) {
+        let pos = s.length-2;
+        while ((pos >= 0) && (this.bidAtPos(s, pos) == '--')) {
+            pos -= 2;
+        }
+        return pos;
+    }
+    
+    findLastNonPassBid(s) {
+        let pos = this.findLastNonPassPos(s);
+        let bid = null;
+        let byOpp = null;
+        if (pos >= 0) {
+            bid = this.bidAtPos(s, pos);
+            byOpp = this.isBidByOpp(s, pos);
+        }
+        return {bid, byOpp};
+    }
+
+    isHigherThan(bid, prevBid) {
+        if (bid[0] > prevBid[0]) return true;
+        else if (bid[0] < prevBid[0]) return false;
+        else {
+            // levels are the same, check suit
+            let idx = 'CDHSN'.indexOf(bid[1]);
+            let previdx = 'CDHSN'.indexOf(prevBid[1]);
+            return (idx > previdx);
+        }
+    }
+
+    isLegalBid(bid, ctx) {
+        // pass is always legal
+        if (bid == '--') return true;
+        if (this.isLevSuitBid(bid[0])) {
+            let lastBidObj = this.findLastLevSuitBid(ctx);
+            if (lastBidObj.bid == null) return true;
+            return(this.isHigherThan(bid, lastBidObj.bid));
+        }
+        if (bid == 'Db') {
+            let lastNonPassObj = this.findLastNonPassBid(ctx);
+            if (lastNonPassObj.bid == null) return false;
+            return (this.isLevSuitBid(lastNonPassObj.bid) && lastNonPassObj.byOpp);
+        }
+        if (bid == 'Rd') {
+            let lastNonPassObj = this.findLastNonPassBid(ctx);
+            if (lastNonPassObj.bid == null) return false;
+            return ((lastNonPassObj.bid == 'Db') && lastNonPassObj.byOpp);
+        }
+
+        // should not get this far, but if we do it is not legal
+        return false;
+    }
+
+    handleKeyboardBid(e) {
+        // Check for early exit
+        // this listener will ignore anything if the bidding box is not visible
+        // will also ignore anything caught from an INPUT element
+        // and the target must be under elDealViewerDivClass
+        if (!window.biddingBoxDisplayed || (e.target.nodeName == 'INPUT')) {
+            return;
+        }
+        if (!this.inKbdEntryFocus(e.target)) {
+            return;
+        }
+    
+        let ukey = e.key.toUpperCase();
+        this.logIfVerbose(`ukey=${ukey}`);
+
+        // here we check for Enter to record the callText 
+        if (ukey === 'ENTER') {
+            // Enter goes to OK button
+            // we would like to ignore it if OK button not visible
+            // but the button goes away before this listener is called
+            if (this.keyBuffer.length == 2) { 
+                this.logIfVerbose(`confirming bid of ${this.keyBuffer}`);
+                // call the appropriate mouseDown function code
+                this.callButtonMouseDownListener('OK');
+            }
+            // restart bid gathering
+            this.keyBuffer = '';
+            return;
+        }
+        // level bids just add to keybuffer and return
+        // the appropriate mouseDown function will be called later
+        else if (this.isBidLevelChar(ukey)) {
+            window.addLog(`key:[${ukey}]`);
+            this.keyBuffer = ukey;
+            return;
+        }
+        // the following keystrokes "finish" a bid
+        else if (ukey == 'P') {
+            window.addLog(`key:[${ukey}]`);
+            this.keyBuffer = '--';
+            // pass is always legal
+        }
+        else if ('CDHSN'.includes(ukey) && (this.keyBuffer.length != 0) && this.isBidLevelChar(this.keyBuffer[0])) {
+            window.addLog(`key:[${ukey}]`);
+            this.keyBuffer += ukey;  // add suit to bid
+            let ctx = window.getContext();
+            if (!this.isLegalBid(this.keyBuffer, ctx)) {
+                this.keyBuffer = '';
+                // special case if bid was insufficient but suit was diamonds
+                // BBO interprets that as a "double"
+                if ((ukey == 'D') && this.isLegalBid('Db', ctx)) {
+                    this.keyBuffer = 'Db';
+                }
+            }
+        }
+        else if (this.keyBuffer == '' && ukey == 'D') {
+            window.addLog(`key:[${ukey}]`);
+            this.keyBuffer = 'Db';
+            let ctx = window.getContext();
+            if (!this.isLegalBid(this.keyBuffer, ctx)) {
+                this.keyBuffer = '';
+            }
+        }
+        else if (ukey == 'R') {
+            window.addLog(`key:[${ukey}]`);
+            this.keyBuffer = 'Rd';
+            let ctx = window.getContext();
+            if (!this.isLegalBid(this.keyBuffer, ctx)) {
+                this.keyBuffer = '';
+            }
+        }
+        else {
+            // any other ukey value is just ignored
+            return;
+        }
+
+        if (this.keyBuffer == '') {
+            this.logIfVerbose('no bid pattern found in keyboard listener');
+        }
+
+        // if we got this far we have a non-empty (legal) this.keyBuffer, call appropriate mousedown functions
+        if (this.isBidLevelChar(this.keyBuffer[0])) {
+            window.addLog(`keyCall:[${this.keyBuffer}]`);
+            this.logIfVerbose(`keyCall:[${this.keyBuffer}]`);
+            // call mousedown for each of the two parts
+            let levelchar = this.keyBuffer[0];
+            let suitchar = this.keyBuffer[1];
+            this.callButtonMouseDownListener(levelchar);
+            this.callButtonMouseDownListener(suitchar);
+        }
+        else {
+            // pass, double, redouble
+            this.callButtonMouseDownListener(this.keyBuffer);
+        }
+        // clear keyBuffer if we're not confirming
+        if ((this.keyBuffer.length == 2) && (window.confirmBidsSet() == 'N')) {
+            this.logIfVerbose(`recorded bid of ${this.keyBuffer}, no confirm`);
+            this.keyBuffer = '';
+        }
+    }
+
+    // main activity when bidding box created
+    // if keyboard bidding is set, hook in necessary listeners
+    addKeyDownListener() {
+        // before we install new keydown listener, remove any existing listener that we had put in
+        // for now we will listen at document level 
+        // and then ignore the kbd input from INPUT elements, etc.
+        this.removeKeyDownListenerIfAny();
+        this.elDealViewerDiv = document.querySelector('.dealViewerDivClass');
+        if (this.isKeyboardEntrySet() == 'Y') {
+            this.boundListenFunc = this.handleKeyboardBid.bind(this);
+            document.addEventListener('keydown', this.boundListenFunc, true);
+            this.logIfVerbose('Keyboard bidding listener set up');
+        }
+    }
+
+    removeKeyDownListenerIfAny() {
+        if (this.boundListenFunc != null) {
+            document.removeEventListener('keydown', this.boundListenFunc, true);
+            this.logIfVerbose('Keyboard bidding listener removed');
+        }
+    }
+
+    inKbdEntryFocus(elem) {
+        return ((this.elDealViewerDiv != null) && this.elDealViewerDiv.contains(elem));
+    }
+
+
+    moveFocusTo(elDest) {
+        if (elDest != null) {
+            if ((elDest.tabIndex === undefined) || (elDest.tabIndex < 0)) {
+                elDest.tabIndex = 0;
+            }
+            setTimeout(function () {
+                elDest.focus();
+                // console.log(`focus is now on ${document.activeElement}`); 
+            }, 200);
+        }
+    }
+    
+} // end of class declaration
+
+window.KBDBIDHELPERINSTANCE = new KBDBIDHELPER();
+//Script
+
+//Script,onBiddingBoxDisplayed
+//# sourceURL=kbdBidOnBoxDisplayed.js
+window.KBDBIDHELPERINSTANCE.onBiddingBoxDisplayed();
+//Script
+
+//Script,onBiddingBoxHidden
+//# sourceURL=kbdBidOnBoxHidden.js
+window.KBDBIDHELPERINSTANCE.onBiddingBoxHidden();
+//Script
+
+//Script,onAnyMutation,stanmazLib.ALL_INPUT_BUTTONS();
+Script,CLOSE,setButtonPanel(false);
+Button,Transfer, Transfer to,backgroundColor=yellow width=20% fontSize=20px borderRadius=100%
+Button,♣, !C,width=16% fontSize=24px borderRadius=100%
+Button,♦, !D,width=16% fontSize=24px borderRadius=100% color=red
+Button,♥, !H,width=16% fontSize=24px borderRadius=100% color=red
+Button,♠, !S,width=16% fontSize=24px borderRadius=100%
+Button,NT, NT,borderRadius=100% width=16% fontSize=24px
+Button,Emotions,,width=100% backgroundColor=palegreen fontSize=16px
+Button,😀, 😀\n,width= borderRadius=100% fontSize=28px
+Button,😞, 😞\n,width= borderRadius=100% fontSize=28px
+Button,😢, 😢\n,width= borderRadius=100% fontSize=28px
+Button,👍, 👍\n,width= borderRadius=100% fontSize=28px
+Button,👎, 👎\n,width= borderRadius=100% fontSize=28px
+Button, 😊, 😊\n,width= borderRadius=100% fontSize=28px
+Button,👏 ,👏\n, width= borderRadius=100% fontSize=28px
+Button,🤪 ,🤪\n, width= borderRadius=100% fontSize=32p28
+Option
+Shortcut, For SLAM bidding to ALERT box, , width=100% backgroundColor=palegreen fontSize=18px
+Shortcut,KCA, Asking for Key cards, width=50% backgroundColor= lightsalmon
+Shortcut,Turbo even, Turbo (0/2/4) key cards, width=50% backgroundColor=lightblue
+Shortcut,Turbo odd, Turbo (1/3) key cards, width=50% backgroundColor=yellow
+Shortcut,K ask,Asking about Ks, width=50% backgroundColor=white
+Shortcut,0/3 KCs, 0/3 Key cards, width=50% backgroundColor= peachpuff
+Shortcut,1/4 KCs, 1/4 Key cards, width=50% backgroundColor=thistle
+Shortcut,2/5 KCs no Q, 2/5 Key cards without Q, width=50% backgroundColor=burlywood
+Shortcut,2/5 KCs with Q, 2/5 Key cards with Q, width=50% backgroundColor=peachpuff
+Shortcut,Q ask, Asking about Q of trumps, width=50% backgroundColor=lightblue
+Shortcut,no Q, denying Q of trumps, width=50% backgroundColor=lightgreen
+Shortcut,Q no K, Have Q but no Ks, width=50% backgroundColor=khaki
+Shortcut,Q with K of bid suit, Have Q and K of bid suit, width=50% backgroundColor=lightblue
+Shortcut,K of bid suit, K of bid suit, width=50% backgroundC
+Shortcut, Splinter, Splinter, width=50% backgroundColor=whitesmoke
+Option
+Shortcut, Systems & Carding, , width=100% backgroundColor=palegreen fontSize=18px
+Option,OguzCard, altane+,
+//Script,onDataLoad,PREV_OPPS = "";
+//Script,onAuctionBegin
+if ((myDirection() == "G") || (myDirection() == "D")) {
+ACT_OPPS = myOpponent(true) + "+" + myOpponent(false);
+if (ACT_OPPS != PREV_OPPS) {
+setChatMessage(findShortcut("Oguz"), true);
+PREV_OPPS = ACT_OPPS;
+}
+}
+//Script
+Option
+Option,Lang EN
+Shortcut,Oguz, hi all....  PRE - ALERT !!!
+1!c= 15+hcp, +0 C. / 1nt= 8-12; maybe unbal any / 1!d= 11-15.. +1C. / 1!h 1!s and 2!c= 11-15.. +5C / 2!d= 6-19hcp (3 Way) / Std c. / Lavinthal dis. (7-9 none) / Att.lead \n
+Option,Lang TR
+Shortcut,Oguz,1!c= 15+p. +0 K. / 1nt= 8-12 p. dngsiz olbr!!.. / 1!d= 11-15.. +1 K. / 1!h.. 1!s ve 2!c= 11-15 +5 K./ 2!d= 6-19p. (3 yollu) / Std kart / defoe rengi red (7-9 hariç) / Att.lead\n
+
+
+Option,OğuzKK,altane+benozi
+1N,2C,1 suit any
+1N,2D,5+5 or 5+4 majors
+1N,2H,+5 card !hs + 4 card any minor
+1N,2N,5+5 or 5+4 minors
+1N,2S,+5 card !ss + 4 card any minor
+1N,3C,
+1N,3D,
+1N,3H,
+1N,3S,
+1N,Db,1) Storng NT 
+Error *00{M_Prec}=NYYYYYYFan_Mod
+|,--,Fan_Mod
+,1C,Please read chat#+15 p. herhangi bir el                (a) 15-17 puan; dengeli eller\\(b) 15-20 puan; dengesiz eller\\(c) +18 puan; dengeli veya dengesiz g¸Ál¸ \\(d) 15-20 puan 5+5+ eller\\
+1C--,1D,0-9  hcp (4+!hs)
+1C--1D--,1H,3-4 !hs (15-17 hcp)
+1C--1D--,1N,15-17 p. 3 kart !h yok
+1C--1D--,1S,5 card !ss (15-17 p.)
+1C--1D--,2C,art storng
+1C--1D--2C--,2D,waiting 
+1C--1D--2C--,2H,0-5 hcp (no K or A)
+1C--1D--2C--,2N,2 or 3 top honor +5 !hs
+1C--1D--2C--,2S,2 or 3 top honor +5 !ss
+1C--1D--2C--,3C,
+1C--1D--2C--,3D,
+1C--1D--,2D,15-17 p.
+1C--1D--,2H,18-20 hcp
+1C--1D--,2N,6+ !cs
+1C--1D--,2S,18-20 hcp
+1C--1D--,3C,+5+5 (!c ve !h)
+1C--1D--,3D,+5+5 (!d ve !h)
+1C--1D--,3H,
+1C--1D--,3N,+5+5 (!c ve !d)
+1C--1D--,3S,+5+5 (!h ve !s)
+1C--1D--,4C,+5+5 (!c ve !s)
+1C--1D--,4D,+5+5 (!d ve !s)
+1C--,1H,0-9 hcp (4+!ss)
+1C--1H--,1N,15-17 p. 3 kart !s yok
+1C--1H--,1S,15-17 hcp
+1C--1H--,2C,Art storng
+1C--1H--2C--,2D,waiting 
+1C--1H--2C--,2H,0-5 hcp (no K or A)
+1C--1H--2C--,2N,2 or 3 top honor +5 !hs
+1C--1H--2C--,2S,2 or 3 top honor +5 !ss
+1C--1H--,2D,18-20 hcp reverse
+1C--1H--,2H,15-17 hcp
+1C--1H--,2N,+6!cs
+1C--1H--,2S,
+1C--,1N,+10 any balance
+1C--1N--,2C,4l¸ major sorusu
+1C--,1S,0-9 hcp (no 4-5 card major)
+1C--1S--2C--,2D,waiting 
+1C--1S--2C--,2H,0-5 hcp (no K or A)
+1C--1S--2C--,2N,2 or 3 top honor +5 !hs
+1C--1S--2C--,2S,2 or 3 top honor +5 !ss
+1C--,2C,+10 hcp !ds
+1C--,2D,+10 hcp !hs
+1C--,2H,+10 hcp !ss
+1C--,2N,0-5 hcp +5 card !cs  (no K or A)
+1C--,2S,+10 hcp !cs
+1C--,3C,0-5 hcp +6 card !ds (no K or A)
+1C--,3D,0-5 hcp +6 card !hs  (no K or A)
+1C--,3H,0-5 hcp +6 card !ss  (no K or A)
+,1D,Please read chat#11-15 p. Dengeli veya dengesiz 5+ kart major olamaz\\5 kart trefl olabilir\\
+1D--,1H,
+1D--1H--2C--,2D,waiting 
+1D--1H--2C--,2H,0-5 hcp (no K or A)
+1D--1H--2C--,2N,2 or 3 top honor +5 !hs
+1D--1H--2C--,2S,2 or 3 top honor +5 !ss
+1D--,1N,
+1D--1N--2C--,2D,waiting 
+1D--1N--2C--,2H,0-5 hcp (no K or A)
+1D--1N--2C--,2N,2 or 3 top honor +5 !hs
+1D--1N--2C--,2S,2 or 3 top honor +5 !ss
+1D--,1S,
+1D--1S--,2C,
+1D--1S--2C--,2S,
+,1H,11-15 hcp
+1H--,1S,
+1H--,2C,
+1H--,2D,
+1H--,2H,
+1H--,2N,10-12 dengeli davet
+1H--,2S,+4 !hs ( 6-9 p.)
+1H--,3C,+4 !hs (10-12 p.)
+1H--,3D,+4 !hs (10-12 p.) k˝sal˝k var
+1H--,3H,
+1H--,3S,
+,1N,8-11 hcp Semibal (pos. 4441; 6332)
+1NDb,2C,+5 card !d ... any hcp
+1NDb,2D,+5 card !h ... any hcp
+1NDb,2H,+5 card !s ... any hcp
+1N,Db,penalty or any
+1NDb,--,any hand 
+1NDb,Rd,+5 card !c ... any hcp
+1N--,2C,Puppet (Ask 5 Major)
+1N--2C--,2D,no 5 major
+1N--2C--,2H,5-6 card !h
+1N--2C--,2N,maxsimum no 5 major
+1N--2C--,2S,5-6 card !s
+1N--2C--,3C,5-6 card !c
+1N--2C--,3D,5-6 card !ds
+1N--,2H,0-11 hcp
+1N--,2N,5 + 5 card minor or major
+1N--,2S,0-11 hcp
+1N--,3C,0-11 hcp
+1N--,3D,0-11 hcp
+1N--,3H,0-11 hcp
+1N--,3N,
+1N--,3S,0-11 hcp
+1N--,4C,
+1N--,4D,!hs
+1N--,4H,!ss
+,1S,11-15 hcp
+1S--,1N,
+1S--,2C,
+1S--,2D,
+1S--,2H,
+1S--,2N,
+1S--,2S,
+1S--,3C,+4!s  6-9p.
+1S--,3D,+4!s  10-12p. dengeli
+1S--,3H,+4!s 10-12  9p. kisa var
+1S--,3S,
+,2C,11-15 hcp unbal.
+2CDb,2D,
+2CDb,2H,
+2CDb,2N,Lebensohl for 3!c to play any hand
+2CDb,2S,
+2CDb,3C,
+2CDb,3D,
+2CDb,3H,
+2CDb,3S,
+2CDb,Rd,11+ hcp any
+2C--,2D,relay any 
+2C--,2H,
+2C--,2N,any FG
+2C--,2S,
+2C--,3C,
+2C--,3D,
+2C--,3H,
+2C--,3S,
+,2D,Please read chat#(a) 6-10 puan ; 6 kart 1 major\\(b) 18-19 puan dengeli el (5 kart m / M olabilir)\\(c) Tek renkli g¸Ál¸ el (Kaliteli koz)\\
+2D--,2H,pas veya d¸zelt
+2D--,2N,
+2D--,2S,+4 kart kˆr pas veya d¸zelt
+2D--,3C,
+2D--,3D,
+2D--,3H,
+2D--,3S,
+,2H,6-10 p. 2 renkli (pikte olabilir)
+2H--,2N,
+2H--,2S,
+2H--,3C,
+2H--,3D,
+2H--,3H,
+2H--,3N,
+2H--,3S,
+2H--,4C,
+2H--,4D,
+2H--,4H,
+2H--,4S,
+,2N,20-22 bal
+2N--,3C,
+2N--,3D,!hs
+2N--3D--,3N,3-4 card !hs
+2N--3D--,4C,with !hs support max opener
+2N--3D--,4D,with !hs support max opener
+2N--3D--,4H,max balance
+2N--,3H,!ss
+2N--,3N,
+2N--,3S,xfer !cs
+2N--,4C,xfer !ds
+2N--,4D,
+2N--,4H,
+2N--,4N,
+2N--,4S,5+5 minors
+2N--,5C,
+,2S,6-10 p. 2 renkli
+2S--,2N,
+2S--,3C,
+2S--,3D,
+2S--,3H,
+2S--,3N,
+2S--,3S,
+,3C,
+,3D,
+,3H,
+,3N,solid minor gambling
+,3S,
+,4C,
+,4D,
+,4H,
+,4N,5+6 minors
+4N--,5C,1 or 4 keycards
+4N--5C--,5D,Please read chat#Asks for the trump Q. Cheapest return to the trump suit denies the Q. Other suit responses show the trump Q and the King of the suit bid. 5NT response shows the trump Q and no side K.
+4N--5C--,5N,Please read chat#Grand slam try that asks for specific Kings. All 5 keycards and the trump Q must be accounted for in order to use this ask.
+4N--,5D,0 or 3 keycards
+4N--5D--,5H,Please read chat#Asks for the trump Q. Cheapest return to the trump suit denies the Q. Other suit responses show the trump Q and the King of the suit bid. 5NT response shows the trump Q and no side K.
+4N--5D--,5N,Please read chat#Grand slam try that asks for specific Kings. All 5 keycards and the trump Q must be accounted for in order to use this ask.
+4N--,5H,2 keycards without trump Q
+4N--5H--,5N,Please read chat#Grand slam try that asks for specific Kings. All 5 keycards and the trump Q must be accounted for in order to use this ask.
+4N--,5S,2 keycards with trump Q
+4N--5S--,5N,Please read chat#Grand slam try that asks for specific Kings. All 5 keycards and the trump Q must be accounted for in order to use this ask.
+,4S,
+,5C,
+,5D,
+Option
+
+
