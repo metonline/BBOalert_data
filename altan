@@ -650,10 +650,9 @@ PREV_OPPS = ACT_OPPS;
 //Script
 Option
 Option,Lang EN
-Shortcut,Oguz, hi all....  PRE - ALERT !!!
-1!c= 15+hcp, +0 C. / 1nt= 8-12; maybe unbal any / 1!d= 11-15.. +1C. / 1!h 1!s and 2!c= 11-15.. +5C / 2!d= 6-19hcp (3 Way) / Std c. / Lavinthal dis. (7-9 none) / Att.lead \n
+Shortcut,Oguz, hi all..1!c= 15+hcp, +0 C. | 1nt= 8-12; maybe unbal any | 1!d= 11-15.. +1C. | 1!h 1!s and 2!c= 11-15.. +5C | 2!d= 6-19hcp (3 Way) | Std c. | Lavinthal dis. (7-9 none) | Att.lead \n
 Option,Lang TR
-Shortcut,Oguz,1!c= 15+p. +0 K. / 1nt= 8-12 p. dngsiz olbr!!.. / 1!d= 11-15.. +1 K. / 1!h.. 1!s ve 2!c= 11-15 +5 K./ 2!d= 6-19p. (3 yollu) / Std kart / defoe rengi red (7-9 hariç) / Att.lead\n
+Shortcut,Oguz,Selamlar...1!c= 15+p. +0 K. | 1nt= 8-12 p. dngsiz olbr!!.. | 1!d= 11-15.. +1 K. | 1!h.. 1!s ve 2!c= 11-15 +5 K.| 2!d= 6-19p. (3 yollu) | Std kart | defoe rengi red (7-9 hariç) | Att.lead\n
 
 
 Option,OğuzKK,altane+benozi
