@@ -654,6 +654,9 @@ Shortcut,Oguz,hi all..1!c= 15+hcp +0 C. | 1nt= 8-12; maybe unbal any | 1!d= 11-1
 Option,Lang TR
 Shortcut,Oguz,Selamlar...1!c= 15+hcp +0 K. | 1nt= 8-12 p. dengesiz olabilir!!.. | 1!d= 11-15.. +1 K. | 1!h.. 1!s ve 2!c= 11-15 +5 K.| 2!d= 6-19p. (3 yollu) | Std kart | defos rengi red (7-9 hariç) | Att.lead\n
 
+Script,onNewAuction,setChatDestination("Opponents");
+
+Script,onDealEnd,setChatDestination("Table");
 
 Option,OğuzKK,altane+benozi
 1N,2C,1 suit any
