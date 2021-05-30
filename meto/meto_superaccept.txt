@@ -10,7 +10,7 @@ Option,superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,
 +,3[CDH],4!S;maximum & doubleton with no values
 +,3S,4!S; minimum
 2N--3D--,3H,2!H
-+,3S;3!H-4!S
++,3S,3!H-4!S
 +,3N,3/4!H
 +,4[CD],4!h;doubleton with no values
 +,4H,4!H; Control in all suits
