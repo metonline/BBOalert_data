@@ -717,3 +717,6 @@ Option,Lang TR
 Shortcut,Rita,2/1 UDCA oynuyoruz...Romen defos 1!C açışı 2+!C 1!D açışları 4+!D ile...Ataklar  2. ve 4.den.…RKC0314....İyi oyunlar! \n
 Option
 
+Script,onNewAuction,setChatDestination("Opponents");
+
+Script,onDealEnd,setChatDestination("Table");
