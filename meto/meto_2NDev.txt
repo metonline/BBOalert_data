@@ -1,5 +1,13 @@
 bboalert,2NDev
 
+Alias,Transfer to 3NT,3NT'ye transfer
+Alias,Automatic,Otomatik
+Alias,slam interest,şilem ilgisi
+Alias,all controls,tüm kontroller tamam
+Alias,slam interest in !D,!d'dav şilem ilgisi
+Alias,slam interest in !C,!C'ten şilem ilgisi
+Alias,pick a minor,ninör seç
+Alias,short,kısa
 
 2NT Gelişmeleri
 
