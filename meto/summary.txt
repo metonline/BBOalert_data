@@ -1,0 +1,61 @@
+bboalert
+CC,summary,\
+2/1GF,3/1GF,1-level bids forcing, weak N\n\
+2-level bids are unbalanced 5+card 10-13\n\
+1!C:2+card (any 5-card if balanced)
+CC,ntopen,\
+12-14; may have 5-card major suit \n\
+may have offshape 44M(4(1)m with 11-13 \n\
+stayman does not promise 4-card Major
+CC,majoropen,\
+5+card and 11+ with both majors\n\
+Line_1__________________________________\n\
+Line_3
+CC,minoropen,\
+1!c:2+!C if balanced 15-20 or 23+ \n\
+if balanced any 5-card suit\n\
+1!D:4+!D 14+ & unbalanced
+CC,level2open,\
+10-13 with 5+card; unbalanced\n\
+2M opening can have max 3-card in the OM\n\
+
+CC,other,\
+Line_1__________________________________\n\
+Line_1__________________________________\n\
+Line_3
+CC,doubles,\
+Line_1__________________________________\n\
+Line_1__________________________________\n\
+Line_3
+CC,ntocalls,\
+Line_1__________________________________\n\
+Line_1__________________________________\n\
+Line_3
+CC,socalls,\
+Line_1__________________________________\n\
+Line_1__________________________________\n\
+Line_3
+CC,over1nt,\
+Line_1__________________________________\n\
+Line_1__________________________________\n\
+Line_3
+CC,jocalls,\
+Line_1__________________________________\n\
+Line_1__________________________________\n\
+Line_3
+CC,overtox,\
+Line_1__________________________________\n\
+Line_1__________________________________\n\
+Line_3
+CC,directq,\
+Line_1__________________________________\n\
+Line_1__________________________________\n\
+Line_3
+CC,slam,\
+Line_1__________________________________\n\
+Line_1__________________________________\n\
+Line_3
+CC,carding,\
+Line_1__________________________________\n\
+Line_1__________________________________\n\
+Line_3
