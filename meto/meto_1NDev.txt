@@ -56,7 +56,7 @@ Alias,5!C-5!D; slam interest & short !S,5!C-5!D; şilem isteği kısa !S
 Alias,5!C-5!D | NF | choice of games,5!C-5!D; non-forsing; kontrat tercihi sorusu
 Alias,further ask about shape,detay dağılım sorusu
 Alias,5!C's,5.li !C
-Alias,5!D's,5.li !D
+Alias,5!d's,5.li !D
 Option
 
 Option,1NDev
