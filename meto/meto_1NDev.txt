@@ -49,6 +49,7 @@ Alias,no 5m+4M,5m4M22 dağılımı yok
 Alias,ask for 5!H's with 3!h's,3.lü !H ile 5.lü !H sorusu
 Alias,ask for 5!s's with 3!s's,3.lü !S ile 5.li !S sorusu
 Alias,no 5-card major,5.li majör yok
+Alias,5!S's,5.li !S
 Option
 
 Option,1NDev
