@@ -46,4 +46,5 @@ Option,RitaCard,meto+ratrut
 Option,RomenSTD,meto+gurus,meto+ozbay,meto-gypsyqueen
 Option,FaileCard,meto+camomille
 Option,Puppet,meto+camomille,meto+gurus,meto+gypsyqueen
+Option,1NDev,meto+342257
 Option
