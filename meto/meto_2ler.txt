@@ -1,5 +1,36 @@
 bboalert,2ler
 
+Option,Lang EN
+Option,Lang TR
+
+Alias,ask about hand,el tarif sorusu
+Alias,invitational or better,davet veya davetüstü
+Alias,ask further about shape,detay dağılım sorusu
+Alias,invitation for game,zona davet
+Alias,asking about longer major suit,uzun majör sorusu
+Alias,slam interest in !H,!H'de şilem ilgisi
+Alias,slam interest in !s,!S'te şilem ilgisi
+Alias,good !H fit,iyi !H fiti
+Alias,good !s fit,iyi !S fiti
+Alias,To Play,Oynamaya
+Alias,may have 3-card major suit, 3.lü majör olabilir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Option,2ler
 ,2C,5+!C's | 10-13 HCP | unbalanced
 2C--,2D,ask about hand | invitational or better
