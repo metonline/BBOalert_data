@@ -719,9 +719,9 @@ Shortcut,Rita,2/1 UDCA oynuyoruz...Romen defos 1!C açışı 2+!C 1!D açışlar
 
 Option
 Option,Lang EN
-Shortcut,UDCARom,We play 2/1 UDCA & O/E discards...Leads from 1st/3rd/5th against suit and 2nd/4th against NT contracts…RKC1430..Good Luck!..\n
+Shortcut,UDRom,We play 2/1 UDCA & O/E discards...Leads from 1st/3rd/5th against suit and 2nd/4th against NT contracts…RKC1430..Good Luck!..\n
 Option,Lang TR
-Shortcut,UDCARom,Selamlar,2/1 UDCA Romen defos oynuyoruz. Ataklar koza karşı 1/3/5...NT'ye karşı 2/4...RKC1430..İyi oyunlar. \n
+Shortcut,UDRom,Selamlar,2/1 UDCA Romen defos oynuyoruz. Ataklar koza karşı 1/3/5...NT'ye karşı 2/4...RKC1430..İyi oyunlar. \n
 Option
 
 Script,onNewAuction,setChatDestination("Opponents");
