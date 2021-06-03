@@ -28,12 +28,12 @@ Alias,no !C fit possibility,!C fiti bulunmuyor
 Alias,no fit,fit yok
 Alias,!S fit | !C control,!S fiti & !C kontrolü
 Alias,!S fit | !d control,!S fiti & !D kontrolü
-Alias,transfer to 3!C for long (!c/!d) or for invitation with non-touching suits, 3!C'e transfer; uzun !C/!D ya da yapışık olmayan renklerden davet için
+Alias,transfer to 3!C with either long (!c/!d) or invitational with non-touching suits or slam interest with 5-5 minors, 3!C'e transfer; uzun !C/!D veya yapışık olmayan renklerden davet veya 5-5 minörlerle şilem ilgisi
 Alias,slam interest in !S or ask for side-suit, !S'ten şilem ilgisi veya yan-renk sorusu
 Alias,transfer to 2NT,2NT'ye transfer
 Alias,5!H's invite,5.lü !H ile davet
 Alias,relay | no 3-card !H's,röle; 3.lü !H yok
-Alias,transfer to 2NT; 5-5 touching suits invitational or GF in 5-5 minors,2NT'ye transfer; 5-5 yapışık renklerden davet veya 5-5 minörler zon-forsing
+Alias,transfer to 2NT; 5-5 touching suits invitational or slam interest with 5-5 minors,2NT'ye transfer; 5-5 yapışık renklerden davet veya 5-5 minörlerle şilem ilgisi
 Alias,6+!h's invite,6+!H ile davet
 Alias,choice of games,zon kontrat tercihi
 Alias,ask for 5-card !S or interest in !C slam,5.li !S sorusu veya !C'ten şilem isteği
@@ -184,13 +184,13 @@ Option,1NDev
 1N--2H--,3D,(4/5)!s's | maximum hand | doubleton
 1N--2H--,3H,(4/5)!s's | maximum hand | doubleton
 1N--2H--,3S,(4/5)!s's | minimum hand
-1N--,2N,Please read chat#transfer to 3!C for long (!c/!d) or for invitation with non-touching suits
+1N--,2N,Please read chat#transfer to 3!C with either long (!c/!d) or invitational with non-touching suits or slam interest with 5-5 minors
 1N--2N--,3C,Relay
 1N--2N--3C--,3D,To Play
 1N--2N--3C--,3H,5!H-5!C invite
 1N--2N--3C--,3S,5!S-5!D invite
 1N--2N--3C--,3N,5!C-5!D; slam interest & short !S
-1N--,2S,Please read chat#transfer to 2NT; 5-5 touching suits invitational or GF in 5-5 minors
+1N--,2S,Please read chat#transfer to 2NT; 5-5 touching suits invitational or slam interest with 5-5 minors
 1N--2S--,2N,Relay
 1N--2S--2N--,3C,5!C-5!D invite
 1N--2S--2N--,3D,5!D-5!h invite
