@@ -59,6 +59,8 @@ Alias,5!C's,5!C
 Alias,5!d's,5!D
 Alias,5+!H or 4!H-5(!c/!D) invitation,5+!H veya 4!H-5(!c/!D) davet
 Alias,5+!s or 4!s-5(!c/!D/!H) invitation,5+!s veya 4!s-5(!c/!D/!H) davet
+Alias,minimum hand,minimum el
+Alias,maximum hand,maksimum el
 Option
 
 Option,1NDev
