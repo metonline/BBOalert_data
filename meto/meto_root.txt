@@ -20,13 +20,13 @@ Shortcut,congrat, Katıldığınız için teşekkürler...Kazanan takıma tebrik
   Option,Lang TR
   Shortcut,hhh,Selamlar\n, width=50% backgroundColor= peachpuff
  Option,Lang EN
-Shortcut,ty, Thank you ! \n, width=50% backgroundColor=greenyellow
+Shortcut,ttt, Thank you ! \n, width=50% backgroundColor=greenyellow
  Option,Lang TR
-Shortcut,ty, Teşekkürler! \n, width=50% backgroundColor= greenyellow
+Shortcut,ttt, Teşekkürler! \n, width=50% backgroundColor= greenyellow
   Option,Lang EN
-Shortcut,glp, good luck! \n, width=50% backgroundColor=navajowhite
+Shortcut,gl, good luck! \n, width=50% backgroundColor=navajowhite
 Option,Lang TR
-Shortcut,glp, İyi oyunlar! \n, width=50% backgroundColor=navajowhite
+Shortcut,gl, İyi oyunlar! \n, width=50% backgroundColor=navajowhite
 Option
 
 Option,InterventinMajorFit,meto+camomille, meto+gurus, meto+gypsyqueen, meto+ozbay, meto+ratrut, meto+nilsun
