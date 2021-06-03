@@ -57,6 +57,8 @@ Alias,5!C-5!D | NF | choice of games,5!C-5!D; non-forsing; kontrat tercihi sorus
 Alias,further ask about shape,detay dağılım sorusu
 Alias,5!C's,5!C
 Alias,5!d's,5!D
+Alias,5+!H or 4!H-5(!c/!D) invitation,5+!H veya 4!H-5(!c/!D) davet
+Alias,5+!s or 4!s-5(!c/!D/!H) invitation,5+!s veya 4!s-5(!c/!D/!H) davet
 Option
 
 Option,1NDev
