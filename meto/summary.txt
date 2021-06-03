@@ -3,59 +3,58 @@ CC,summary,\
 2/1GF,3/1GF,1-level bids forcing, weak N\n\
 2-level bids are unbalanced 5+card 10-13\n\
 1!C:2+card (any 5-card if balanced)
+
 CC,ntopen,\
 12-14; may have 5-card major suit \n\
 may have offshape 44M(4(1)m with 11-13 \n\
 stayman does not promise 4-card Major
+
 CC,majoropen,\
-5+card and 11+ with both majors\n\
-Line_1__________________________________\n\
-Line_3
+14+& 5+card 1-round forcing\n\
+11+ if both majors\n\
+
 CC,minoropen,\
 1!c:2+!C if balanced 15-20 or 23+ \n\
 if balanced any 5-card suit\n\
 1!D:4+!D 14+ & unbalanced
+
 CC,level2open,\
 10-13 with 5+card; unbalanced\n\
 2M opening can have max 3-card in the OM\n\
 
 CC,other,\
-Line_1__________________________________\n\
-Line_1__________________________________\n\
-Line_3
+Muppet, Transfer responses to 1-minor   \n\
+1N&2N responsesto 1-minor GF & balanced \n\
+Gazilli
+
 CC,doubles,\
-Line_1__________________________________\n\
-Line_1__________________________________\n\
-Line_3
+negative up to 4!H\n\
+
 CC,ntocalls,\
-Line_1__________________________________\n\
-Line_1__________________________________\n\
-Line_3
+16-18, could be off-shape\n\
+
 CC,socalls,\
-Line_1__________________________________\n\
-Line_1__________________________________\n\
-Line_3
+1-level; 8-16, 2-level:11-16\n\
+Specified Michaels\n\
+
 CC,over1nt,\
-Line_1__________________________________\n\
-Line_1__________________________________\n\
-Line_3
+Meckwell\n\
+
 CC,jocalls,\
-Line_1__________________________________\n\
-Line_1__________________________________\n\
-Line_3
+Pre-emptive\n\
+
 CC,overtox,\
-Line_1__________________________________\n\
-Line_1__________________________________\n\
+Transfer,2N is 4-card fit inv in major  \n\
+XX:7+, \n\
 Line_3
 CC,directq,\
-Line_1__________________________________\n\
-Line_1__________________________________\n\
-Line_3
+Other Major & !C\n\
+
 CC,slam,\
-Line_1__________________________________\n\
-Line_1__________________________________\n\
-Line_3
+RKC 1430, ROPI/DOPI, REPO/DEPO          \n\
+4S:Turbo in minor 4NT:Turbo in Major    \n\
+
 CC,carding,\
-Line_1__________________________________\n\
-Line_1__________________________________\n\
-Line_3
+UDCA, lavinthal against NT\n\
+Leads are 2nd/4th against all contracts\n\
+
