@@ -70,6 +70,7 @@ Option,multylandy,meto+gypsyqueen,meto+ozbay
 Option,2ler,meto+342257
 Option,2NT,meto+342257
 Option,Puppet,meto+camomille,meto+gurus,meto+gypsyqueen,meto+nilsun
+Option,1NDev,meto+342257
 Option
 
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
@@ -113,3 +114,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_superaccep
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_multylandy.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2ler.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_puppet.txt
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_1NDev.txt
