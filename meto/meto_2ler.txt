@@ -2,34 +2,44 @@ bboalert,2ler
 
 Option,Lang EN
 Option,Lang TR
-
 Alias,ask about hand,el tarif sorusu
-Alias,invitational or better,davet veya davetüstü
-Alias,ask further about shape,detay dağılım sorusu
+Alias,ask about hand | invitational or better,el tarif sorusu | davet veya davetüstü
+Alias,ask further about shape | GF,detay dağılım sorusu; zon-forsing
 Alias,invitation for game,zona davet
 Alias,asking about longer major suit,uzun majör sorusu
 Alias,slam interest in !H,!H'de şilem ilgisi
 Alias,slam interest in !s,!S'te şilem ilgisi
-Alias,good !H fit,iyi !H fiti
-Alias,good !s fit,iyi !S fiti
+Alias,good !H fit | slam interest,iyi !H fiti ve şilem ilgisi
+Alias,good !s fit | slam interest,iyi !S fiti ve şilem ilgisi
 Alias,To Play,Oynamaya
 Alias,may have 3-card major suit, 3.lü majör olabilir
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Alias,open for cue-bidding in !H's,!H fiti üzerinden cue-bid'e açma
+Alias,open for cue-bidding in !S's,!S fiti üzerinden cue-bid'e açma
+Alias,open for cue-bidding in !C's,!C fiti üzerinden cue-bid'e açma
+Alias,open for cue-bidding in !D's,!D fiti üzerinden cue-bid'e açma
+Alias,interest in a major contract,majör kontrat ilgisi
+Alias,ask about hand | invitation or a stronger hand, el sorusu | davet veya daha güçlü el
+Alias,Transfer to 3!C,3!C'e transfer
+Alias,no short major | might be short in !C,kısa majör yok | !C kısa olabilir
+Alias,short,kısa
+Alias,unbalanced; max 3!S, dengesiz; maks. 3.lü !S
+Alias,may have shortage,kısalık olabilir
+Alias,ask about shortage,kısalık sorusu
+Alias,no interest in game,zon ilgisi yok
+Alias,further asking about distribution,ileri dağılım sorusu
+Alias,Relay,röle
+Alias,PASS/CORRECT to !S, Pass ya da 3!S'e düzelt
+Alias,GF with 13-14  HCP,13-14 ile zon-forsing
+Alias,Solid Major,kapalı majör
+Alias,ask for control in !h,!H kontrol sorusu
+Alias,ask for control in !S,!S kontrol sorusu
+Alias,bid slam with 8 pieces,8-parça ise şilem ilan et
+Alias,accept invitation in !C's,!C'ten davet kabulü
+Alias,accept invitation in !d's,!D'dan davet kabulü
+Alias,bid slam if short in the other major suit,diğer majör kısa ise şilem ilan et
+Alias,bid slam with !D control,!D kontrolü varsa şilem ilan et
+Alias,bid slam with !c control,!C kontrolü varsa şilem ilan et
+Option
 
 Option,2ler
 ,2C,5+!C's | 10-13 HCP | unbalanced
@@ -151,7 +161,7 @@ Option,2ler
 2H--2N--,4C,5!h4!D3!S1!C or 6!H3!S3!D1!C
 2H--2N--,4D,5!h4!c3!S1!d or 6!H3!S3!c1!d
 2H--2N--,4H,6!h2!S32 | PASS/CORRECT to !S
-2H--,2S,Ask about hand | invitation or a stronger hand
+2H--,2S,ask about hand | invitation or a stronger hand
 2H--2S--,2N,6+!H's | may have shortage
 2H--2S--2N--,3C,ask about shortage
 2H--2S--2N--3C--,3D,short !D
@@ -175,20 +185,20 @@ Option,2ler
 2H--3C--,3H,no interest in game
 2H--3C--,3N,To Play
 2H--3C--,3S,ask for control in !S
-2H--3C--,4C,Accept invitation in !C's
+2H--3C--,4C,accept invitation in !C's
 2H--,3D,5+!d's | invitation or a stronger hand
 2H--3D--,3H,no interest in game
 2H--3D--,3N,To Play
 2H--3D--,3S,ask for control in !S
 2H--3D--,4C,GF with 13-14  HCP
-2H--3D--,4D,Accept invitation in !d's
+2H--3D--,4D,accept invitation in !d's
 2H--,3H,weak hand
 2H--,3S,4+!H's | short !S
 2H--,4C,4+!H's | short !c
 2H--,4D,4+!H's | short !d
 2H--,4H,To Play
 ,2S,5+!S's | 10-13 HCP unbalanced; max 3!H
-2S--,2N,Ask about hand | invitation or a stronger hand
+2S--,2N,ask about hand | invitation or a stronger hand
 2S--2N--,3C,5!s-4+!C's
 2S--2N--3C--,3D,further asking about distribution
 2S--2N--3C--3D--,3H,5!s-5!C
@@ -214,12 +224,12 @@ Option,2ler
 2S--3D--,3N,To Play
 2S--3D--,3S,no interest in game
 2S--3D--,4C,5!S-4+!C | GF with 13-14  HCP
-2S--3D--,4D,Accept invitation in !d's
+2S--3D--,4D,accept invitation in !d's
 2S--,3H,5+!C's | invitation or a stronger hand
-,3N,Solid Majör
+,3N,Solid Major
 3N--,4C,bid slam with !D control
 3N--,4D,bid slam with !C control
-3N--,4H,PASS / CORRECT TO 4!s
+3N--,4H,PASS/CORRECT to !S
 3N--,4N,bid slam with 8 pieces
 3N--,4S,bid slam if short in the other major suit
 ,4C,8+!h's | 12-15 HCP
