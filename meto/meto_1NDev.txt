@@ -10,6 +10,7 @@ Alias,no slam interest,şilem ilgisi yok
 Alias,invitation for 3NT with balanced hand,dengeli elle 3NT'ye davet
 Alias,invitation for 3NT,3NT'ye davet
 Alias,ask for 5-card minor,5.li minör sorusu
+Alias,no 5-card minor,5.li minör yok
 Alias,GF,zon-forsing
 Alias,slam interest,şilem ilgisi
 Alias,forsing relay; ask about limit & shape or slam interest in !h, forsing röle; limit & dağılım sorusu veya !H fiti üzerinden şilem ilgisi
