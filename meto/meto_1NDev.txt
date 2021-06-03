@@ -50,7 +50,9 @@ Alias,ask for 5!H's with 3!h's,3.lü !H ile 5.lü !H sorusu
 Alias,ask for 5!s's with 3!s's,3.lü !S ile 5.li !S sorusu
 Alias,no 5-card major,5.li majör yok
 Alias,5!S's,5.li !S
-Alias,5!C-5!D | NF with game values, 5!C-5!D | zon puanı ile NF
+Alias,5!C-5!D; slam interest & short !H,5!C-5!D; şilem isteği kısa !H
+Alias,5!C-5!D; slam interest & short !S,5!C-5!D; şilem isteği kısa !S
+Alias,5!C-5!D | NF | choice of games,5!C-5!D; non-forsing; kontrat tercihi sorusu
 Option
 
 Option,1NDev
@@ -187,15 +189,14 @@ Option,1NDev
 1N--2N--3C--,3D,To Play
 1N--2N--3C--,3H,5!H-5!C invite
 1N--2N--3C--,3S,5!S-5!D invite
-1N--2N--3C--,3N,5!C-5!D | NF with game values | short !S
+1N--2N--3C--,3N,5!C-5!D; slam interest & short !S
 1N--,2S,Please read chat#transfer to 2NT; 5-5 touching suits invitational or GF in 5-5 minors
 1N--2S--,2N,Relay
 1N--2S--2N--,3C,5!C-5!D invite
 1N--2S--2N--,3D,5!D-5!h invite
 1N--2S--2N--,3H,5!h-5!s invite
-1N--2S--2N--,3N,5!C-5!D | NF with game values | short !H
+1N--2S--2N--,3N,5!C-5!D; slam interest & short !H
 1N--2S--2N--,3S,5!s-5!c
-1N--2S--2N--,4C,5!C-5!D | slam interest
 1N--2S--2N--4C--,4D,!d fit
 1N--2S--2N--4C--,4H,!C fit | !H control
 1N--2S--2N--4C--,4S,!C fit | !s control
@@ -239,3 +240,4 @@ Option,1NDev
 1N--,3H,1!s3!h(54)
 1N--,3N,To Play
 1N--,3S,1!h3!s(54)
+1N--,3N,5!C-5!D | NF | choice of games
