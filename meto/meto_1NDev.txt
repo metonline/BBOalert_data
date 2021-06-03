@@ -44,6 +44,11 @@ Alias,!d fit | !h control,!d fiti & !h kontrolü
 Alias,!C fit | !S control,!C fiti & !S kontrolü
 Alias,!C fit | !d control,!C fiti & !d kontrolü
 Alias,!C fit | !h control,!C fiti & !h kontrolü
+Alias,ask for 5m+4M,5m4M22 dağılımı sorusu
+Alias,no 5m+4M,5m4M22 dağılımı yok
+Alias,ask for 5!H's with 3!h's,3.lü !H ile 5.lü !H sorusu
+Alias,ask for 5!s's with 3!s's,3.lü !S ile 5.li !S sorusu
+Alias,no 5-card major,5.li majör yok
 Option
 
 Option,1NDev
@@ -192,13 +197,13 @@ Option,1NDev
 1N--2S--2N--4C--,4H,!C fit | !H control
 1N--2S--2N--4C--,4S,!C fit | !s control
 1N--2S--2N--,4D,short !s | 5!C-5!D | slam interest
-1N--,3C,ask for 5m+4M / 5M
+1N--,3C,ask for 5m+4M
 1N--3C--,3D,no 5m+4M
-1N--3C--3D--,3H,3!h's
+1N--3C--3D--,3H,ask for 5!H's with 3!h's
 1N--3C--3D--3H--,3N,no 5!H's
 1N--3C--3D--3H--,3S,5!S's
 1N--3C--3D--,3N,no 5-card major
-1N--3C--3D--,3S,3!s's
+1N--3C--3D--,3S,ask for 5!s's with 3!s's
 1N--3C--,3H,5!C-4(!h/!S)
 1N--3C--3H--,3N,To Play
 1N--3C--3H--,3S,ask for 5-card !S or interest in !C slam
