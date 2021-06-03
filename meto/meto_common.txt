@@ -218,6 +218,7 @@ Option,Lang TR
   Alias,no good help in the asked suit,sorulan renkte yardım yok
   Alias,good help in the asked suit,sorulan renkte iyi yardım
   Alias,jump-cuebid,sıçramalı cue-bid
+  Alias,Please read chat,Lütfen özel mesajı okuyunuz
  
 Option
 
