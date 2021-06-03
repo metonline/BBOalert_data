@@ -1,5 +1,10 @@
 bboalert,AgainstWeakNT no instead Meckwell
 
+Lang EN
+Lang TR
+Alias,weak/strong, zayıf ya da güçlü
+Alias,Forcing to 2!C bid (long !C/!D | 5!H-5!S<15  | strong !H/!S or any 2-suited 15+),2!c'e transfer (uzun !C/!D | 5!h-5!S<15 | 16+ uzun !H/!S | 15+ 2-renkli el)
+Alias,2-suited strong hand; 15+,2-renkli güçlü el; 15+
 
 Meckwell or AgainstWeakNT
 
@@ -12,11 +17,11 @@ Option, AgainstWeakNT no instead Meckwell
 1N,3C,7+!C preemptive
 1N,3D,7+!d preemptive
 1N,3H,7+!H preemptive
-1N,Db,Forcing to 2!C bid (long !C/!D or 5!H-5!S or strong !H/!S)
+1N,Db,Please read chat#Forcing to 2!C bid (long !C/!D | 5!H-5!S<15  | long !H/!S>15 or any 2-suited 15+)
 1NDb--,2C,relay
 1NDb--2C--,2D,6+!D
-1NDb--2C--,2H,5!H-5!S
-1NDb--2C--,2N,2-suited hand; 17+
+1NDb--2C--,2H,5!H-5!S<15
+1NDb--2C--,2N,2-suited strong hand; 15+
 1NDb--2C--2N--,3C,ask
 1NDb--2C--2N--3C--,3D,5!D-5M
 1NDb--2C--2N--3C--,3H,5!H-5!C or 5!H-5!S
