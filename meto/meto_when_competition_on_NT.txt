@@ -1,5 +1,39 @@
 bboalert,when_competition_on_NT
 
+Option,Lang EN
+Option,Lang TR
+Alias,Please read chat,Lütfen özel mesajı okuyunuz
+Alias,invite,davet
+Alias,weak or GF,zayıf ya da zon-forsing
+Alias,Penalty to at least one major,en azından majörlerden bir tanesine ceza
+Alias,both minors weak,zayıf minörler
+Alias,both minors invite,minörler davet
+Alias,to Play with !H stopper,!H stoperi ile oynamaya
+Alias,!H'e take-out; davet ve fazlası
+Alias,invite or more,davet veya fazlası
+Alias,minors,minörler
+Alias,ask about minor,minör sorusu
+Alias,invite + with 5+!s,5.li !S ile davet ve üzeri
+Alias,invite + with 5+!h,5.li !h ile davet ve üzeri
+Alias,pass/correct,pas geç veya düzelt
+Alias,4!h with !s stopper,4.lü !H ve !s keseri
+Alias,4!h with no !s stopper,4.lü !h; !S keseri yok
+Alias,game force in !C or !D (no !H stopper or slam interest),!C veya !D'dan zon-forsing (!H keseri yok veya şilem isteği var)
+Alias,game force in !C or !D (no !s stopper or slam interest),!C veya !D'dan zon-forsing (!s keseri yok veya şilem isteği var)
+Alias,South African transfer to 4!H,4!H'e transfer (South African)
+Alias,PASS / CORRECT to 4!C (no !H stopper),Pas geç ya da 4!C'e düzelt (!H keseri yok)
+Alias,South African transfer to 4!S,4!S'e transfer (South African)
+Alias,sign-off,pas emri
+Alias,4!s without !h stopper,4.lü !S !H keseri yok
+Alias,forcing to 3!C,3!C'e zorunlu transfer
+Alias,To Play,Oynamaya
+Alias,below invite,davetten zayıf
+Alias,Transfer to RDBL,RDBL'a transfer
+Alias,invite or more,davet veya daha fazlası
+Alias,forced,mecburi deklere
+
+
+Option
 
 
 When Intervention on NT 
@@ -27,7 +61,9 @@ Option, when_competition_on_NT
 1N2D,3D,GF in !d
 1N2D,3H,GF; 3!H & (54) minors
 1N2D,3S,GF; 3!s & (54) minors
-1N,2D,any long major
+
+When They intervene with 2D multi Landy
+
 1N2D,Db,take out for !S's invite+
 1N2D--,2H,pass/correct
 1N2D--2H----,2N,Lebenshol (forcing to 3!C)
@@ -69,7 +105,7 @@ Option, when_competition_on_NT
 1N2S2N--3C--,3H,sign-off
 1N2S2N--3C--,3N,To play with !s stopper
 1N2S2N--3C--,3S,4!h with !s stopper
-1N2S,3C,Please read chat#game force in !C or !D (no !H stopper or slam interest)
+1N2S,3C,Please read chat#game force in !C or !D (no !s stopper or slam interest)
 1N2S,3D,invite + with 5+!h
 1N2S,3N,PASS / CORRECT to 4!C (no !H stopper)
 1N2S,3S,4!h without !s stopper
