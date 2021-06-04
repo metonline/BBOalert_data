@@ -33,12 +33,12 @@ Alias,GF with 13-14  HCP,13-14 ile zon-forsing
 Alias,Solid Major,kapalı majör
 Alias,ask for control in !h,!H kontrol sorusu
 Alias,ask for control in !S,!S kontrol sorusu
-Alias,bid slam with 8 pieces,8-parça ise şilem ilan et
+Alias,bid slam with 8 pieces,koz 8-parça ise şilem ilan et
 Alias,accept invitation in !C's,!C'ten davet kabulü
 Alias,accept invitation in !d's,!D'dan davet kabulü
-Alias,bid slam if short in the other major suit,diğer majör kısa ise şilem ilan et
-Alias,bid slam with !D control,!D kontrolü varsa şilem ilan et
-Alias,bid slam with !c control,!C kontrolü varsa şilem ilan et
+Alias,bid slam if short in the other minor suit,diğer minör kısa ise şilem ilan et
+Alias,bid slam with !h control,!h kontrolü varsa şilem ilan et
+Alias,bid slam with !s control,!s kontrolü varsa şilem ilan et
 Option
 
 Option,2ler
@@ -226,12 +226,12 @@ Option,2ler
 2S--3D--,4C,5!S-4+!C | GF with 13-14  HCP
 2S--3D--,4D,accept invitation in !d's
 2S--,3H,5+!C's | invitation or a stronger hand
-,3N,Solid Major
-3N--,4C,bid slam with !D control
-3N--,4D,bid slam with !C control
-3N--,4H,PASS/CORRECT to !S
+,3N,Solid Minor
+3N--,4C,PASS/CORRECT to 4!D
+3N--,4D,bid slam if short in the other minor suit
+3N--,4H,bid slam with !S control
+3N--,4S,bid slam with !H control
 3N--,4N,bid slam with 8 pieces
-3N--,4S,bid slam if short in the other major suit
 ,4C,8+!h's | 12-15 HCP
 ,4D,8+!S's | 12-15 HCP
 Option,Opening_@1@2
