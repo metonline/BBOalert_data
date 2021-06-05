@@ -1,5 +1,133 @@
 bboalert,F_1
 
+Option,Lang EN
+Option,Lang TR
+Alias,T/O for !H,!H'e take-out
+Alias,Transfer to 3!C,3!C'e transfer
+Alias,Automatic,Otomatik
+Alias,jump-switch,sıçramalı switch
+Alias,stopper in both !S/!H, hem !H hem de !S stoperi
+Alias,asking major suit,majör renk sorusu
+Alias,To Play,Oynamaya
+Alias,ask about hand,el tarif sorusu
+Alias,pass/correct,pas geç ya da düzelt
+Alias,both minors,minör renkler
+Alias,natural,natürel
+Alias,with stoppers in both majors,her iki majörde de stoper
+Alias,with stopper in !H,!H'de stoper
+Alias,semi-solid !S,yarı-kapalı !S'ler
+Alias,5+any major,5.li herhangi bir majör
+Alias,Pass or correct to !S,pas geç ya da !S'e düzelt
+Alias,2-suited hand of opposite color,iki-renkli el; zıt renkten
+Alias,2-suited hand of same color,iki-renkli el; aynı renkten
+Alias,Relay,röle
+Alias,strong take-out,güçlü take-out
+Alias,ask about !D stopper,!d keser sorusu
+Alias,balanced hand,dengeli el
+Alias,Slam try in !C,!C'te şilem denemesi
+Alias,Slam try in !d,!D'da şilem denemesi
+Alias,semi-solid,yarı-kapalı
+Alias,asking about major suit,majör renk sorusu
+Alias,balanced,dengeli
+Alias,dalanced hand,dengeli el
+Alias,Strong take-out for !H,!H'e güçlü take-out
+Alias,unbalanced,dengesiz
+Alias,unbalanced hand,dengesiz el
+Alias,any 4-card major,herhangi bir 4.lü majör
+Alias,4-card !H,4.lü !H
+Alias,4-card !s,4.lü !S
+Alias,5-card !H,5.li !H
+Alias,5-card !s,5.li !s
+Alias,balanced hand including any 5-card major with 5332 shape,5M332 dahil dengeli el 
+Alias,3/4 card !H,3/4.lü !H
+Alias,3/4 card !s,3/4.lü !S
+Alias,short,kısa
+Alias,both majors,her-iki majör renk
+Alias,take-out for !h,!H'e take-out
+Alias,take-out for !D,!D'ya take-out
+Alias,take-out for !S,!S'e take-out
+Alias,Strong take-out for !D,!D'ya güçlü take-out;zon-forsing
+Alias,Strong take-out for !H,!H'e güçlü take-out;zon-forsing
+Alias,Strong take-out for !S,!!S'e güçlü take-out;zon-forsing
+Alias,Transfer to 2NT,2NT'ye transfer
+Alias,Transfer to 3NT,3NT'ye transfer
+Alias,Transfer to 3!S,3!S'e transfer
+Alias,Transfer to 3!h,3!H'e transfer
+Alias,open for cue-bidding in !H,!H'de cue-bid'e açma
+Alias,open for cue-bidding in !s,!S'te cue-bid'e açma
+Alias,shortage,kısalık
+Alias,game try,zon denemesi
+Alias,Transfer to 2NT for sign-off,pas geçilmek üzere 2NT'ye transfer
+Alias,3!H's may have 4!S's also,3.lü kör aynı zamanda 4.lü !S olabilir
+Alias,choice of part-score contracts,part-skor kontrat tercihi
+Alias,no 4-card !S,4.lü !S yok
+Alias,Transfer to 4!H,4!H'e transfer
+Alias,Transfer to 4!s,4!S'e transfer
+Alias,may have 3!H's also,3.lü !H de bulunabilir
+Alias,transfer to 2!H with 5+!H's,5+!H ile 2!H'e transfer
+Alias,ask about shortage,kısalık sorusu
+Alias,invitation for 3NT,3NT'ye davet
+Alias,transfer to 3!C then PASS / CORRECT to 3!D,3!C'e transfer sonrasında pas ya da 3!D'ya düzeltme
+Alias,invitation for game,zona davet
+Alias,one-suited hand,tek-renkli el
+Alias,transfer to 2NT for relaying,2NT'ye transfer; röle için 
+Alias,for choice of games,zon kontrat seçimi için
+Alias,To Play with 4!H's,4.lü !H ile oynamaya
+Alias,transfer to 3NT with 5!H332 for choice of games,5!H332 eli ile 3NT'ye transfer; zon kontrat seçimi için
+Alias,PASS / CORRECT to 3!S,pas geç ya da 3!S'e düzelt
+Alias,8-tricks in !C's,!C kontratında 8 alıcı löve
+Alias,open for cue-bidding,cue-bid'e açma
+Alias,balanced hand with 4!S's ,4.lü !S ile dengeli el
+Alias,weak hand,zayıf el
+Alias,game values,zon değerleri
+Alias,asking 3-card !S support and/or !D stopper,3.lü !S ve/veya !D stoper sorusu
+Alias,5!s's with !d stopper,!D stoperi olan 5.li !S
+Alias,4!s's with !d stopper,!D stoperi olan 4.lü !S
+Alias,including 5(!C/!D)332 and 4!H4!S4!D1!C, 5(!C/!D)332 ve 4!H4!S4!D1!C dağılımları dahil
+Alias,any balanced hand including 4!S4!H1!D4!C,4!S4!H1!D4!C de dahil olmak üzere herhangi dengeli bir el
+Alias,any hand with 13+HCP,13+HCP kuvvetinde herhangi bir el
+Alias,good !C fit,iyi !C fiti
+Alias,no good !C fit,iyi !C fiti yok
+Alias,good !d fit,iyi !D fiti
+Alias,no good !D fit,iyi !D fiti yok
+Alias,control,kontrolü
+Alias,further asking about shape,detay dağılım sorgulaması
+Alias,ask about shape,dağılım sorusu
+Alias,invitation for 3NT with 7-9 HCP,7-9 HCP ile 3NT'ye davet
+Alias,weakness in !H,!H'de zaaf
+Alias,weakness in !s,!S'te zaaf
+Alias,minors,minörler
+Alias,18-20 HCP with long !C's and (0-2)!d's or 23+HCP balanced or 21+HCP long clubs with shortage,18-20 HCP uzun C!'ler ve kısa !D(0-2) ya da 23+HCP dengeli ya da 21+HCP uzun !C'ler ve herhangi bir kısalık
+Alias,Please read chat,Lütfen özel mesajı okuyunuz
+Alias,asking about 5-card major suit,5.li majör sorusu
+Alias,no 5(!h/!s) nor 4!H | may have 4!S, 5.li majör ve 4.lü !H yok | 4.lü !S olabilir 
+Alias,asking about !S's,!S sayısı hakkında soru
+Alias,re-transfer to 4!S with 6!S-(3/4)!H,6!S-(3/4)!H eli ile 4!S'e transfer
+Alias,RKC 1430 on !S,!S üzerinden RKC 1430
+Alias,good !S fit,iyi !S fiti
+Alias,good !H fit,iyi !H fiti
+Alias,To Play with 5+!s's,5+!S ile oynamaya
+Alias,5+!h's-3!s's | any strength,5+!H-3!S | herhangi bir kuvvete sahip 
+Alias,To Play with 2!h's,2.li !H ile oynamaya
+Alias,Gerber with 5!H-3!S,5!H-3!S eli ile Gerber
+Alias,re-transfer to 4!H with 6!H-3!S,6!H-3!S eli ile 4!H e re-transfer
+Alias,RKC 1430 on !H,!H üzerinden RKC 1430
+Alias,transfer to 4!S with 6!S-3!H,6!S-3!H ile 4!S'e transfer
+Alias,
+Alias,
+Alias,
+Alias,
+Alias,
+Alias,
+Alias,
+Alias,
+Alias,
+
+
+
+
+
+
 Option, F_1,meto+342257
 2D,2H,T/O for !H
 2D2H--,2N,Transfer to 3!C
@@ -22,11 +150,11 @@ Option, F_1,meto+342257
 2D,3N,To Play
 2D,3S,15-17 HCP
 2D,4C,15+ HCP | 5+!c's-5+!H/!s
-2D4C--,4D,asking major suit
+2D4C--,4D,asking about major suit
 2D4C--4D--,4H,To Play
 2D4C--4D--,4S,To Play
 2D,4D,15+ HCP | 5+!D's-5+!H/!s
-2D4D--,4H,asking major suit
+2D4D--,4H,asking about major suit
 2D4D--4H--,4S,To Play
 2D4D--4H--,--,To Play 4!H
 2D,Db,take-out for !S | 14+HCP
@@ -38,48 +166,43 @@ Option, F_1,meto+342257
 2D--2H--2S,3H,natural
 
 |2D--2H--,2S,6+!S's | To Play
-2D--2H--2S,Db,take-out for !s's | 11-13 HCP
+2D--2H--2S,Db,take-out for !s | 11-13 HCP
 2D--2H----,2N,both minors
 2D--2H----,2S,natural
-2D--2H----,Db,take-out for !H's | 11-13 HCP
+2D--2H----,Db,take-out for !H | 11-13 HCP
 2D,2H,take out for !H
 2D2H--,2N,Lebenshol (transfer to 3!C)
 2D2H--2N--,3C,
 2D,2N,16-18 HCP with stoppers in both majors
 2D2N--,3C,Puppet Stayman
-2D2N--3C--,3D,No 5-card major maybe 4-card major or at least 3-card !S
+2D2N--3C--,3D,any 4-card major
 2D2N--3C--3D--,3H,4-card !H
-2D2N--3C--3D--3H--,3N,To Play with 3-card !S
-2D2N--3C--3D--3H--3N--,4S,5!S-4!H hand
-2D2N--3C--3D--3H--,3S,4-card !S
+2D2N--3C--3D--3H--,3N,To Play
+2D2N--3C--3D--3H--,4S,To Play
 2D2N--3C--3D--,3N,To Play
-2D2N--3C--3D--,3S,4-card !S
-2D2N--3C--,3H,5-card!H
-2D2N--3C--,3S,5-card!S
+2D2N--3C--3D--,4D,both majors
+2D2N--3C--,3H,5-card !H
+2D2N--3C--,3S,5-card !S
 2D2N--,3D,Transfer to 3!h
-2D2N--3D--,3H,3+!H
-2D2N--3D--,3N,no 3-card!H
-2D2N--3D--,3S,5!S | no 3-card!H
+2D2N--3D--,3H,2!H
+2D2N--3D--,3N,3/4 card !H
 2D2N--,3H,Transfer to 3!S
-2D2N--,3N,5!H-4!S
+2D2N--3H--,3S,2!S
+2D2N--3H--,3N,3/4 card !S
+
+2D2N--,3N,5!s-4!h
 2D2N--,3S,Transfer to 3NT
 2D2N--3S--,3N,Automatic
-2D2N--3S--3N--,4C,Slam try in !Cs
-2D2N--3S--3N--,4D,Slam try in !ds
-2D,2S,Natural with 14+HCP
+2D2N--3S--3N--,4C,Slam try in !d
+2D2N--3S--3N--,4D,Slam try in !c
+2D,2S,13+HCP Natural
 2D,3C,15+HCP Natural
 2D,3D,15+HCP Natural
-2D,3H,14+HCP Natural
-2D,3S,17+hcp semi-solid !S
+2D,3H,15+HCP Natural
+2D,3S,15+HCP; 5!S-5(!C/!D)
 2D3S--,4H,cue-bid
-2D,4C,5+!C-5+any major 15+HCP
-2D4C--,4D,asking major suit
-2D4C--4D--,4H,5+!C-5+!H
-2D4C--4D--,4S,5+!C-5+!s
-2D,4D,5+!D-5+any major 15+HCP
-2D4D--,4H,Pass or correct to !S
-2D4D--4H--,4S,5+!D-5+!s
-2D4D--4H--,--,5+!D-5+!H
+2D,4C,5+!C-5+!H 15+HCP
+2D,4D,5+!D-5+!H 15+HCP
 2D,4H,To Play
 2D,4S,To Play
 2D,Db,Take-out for !s 13+HCP
@@ -99,16 +222,18 @@ Option, F_1,meto+342257
 2S,2N,15-17 hcp stopper in !S
 2S,3C,15+hcp
 2S,3D,15+hcp
-2S,3H,2-suited hand of same color 15+hcp (!H-!D)
+2S,3H,15+hcp
 2S,3S,Both minors 15+hcp
-2S,4C,2-suited hand of opposite color 15+hcp (!H-!D)
+2S,4C,2-suited hand of opposite color 15+hcp (!c-!h)
+2S,4D,2-suited hand of same color 15+hcp (!d-!h)
 
 |,2S,weak
 2S,Db,13+hcp T/O
+
 1C1D,1H,4+!S | 5-9 HCP 
 1C1D,1N,5+!c's | 3-7 HCP
 1C1D,1S,4!h-5!c | 5-9 HCP
-1C1D,2C,Strong take-out for !D's | 10+ HCP
+1C1D,2C,Strong take-out for !D | 10+ HCP
 1C1D,2D,6+!h's | 0-5 HCP or 5+!H's | 10+HCP
 1C1D,2H,6+!S's | 0-5 HCP or 5+!S's | 10+HCP
 1C1D,2N,5+!c's | 0-2 HCP or 10+HCP
@@ -117,11 +242,11 @@ Option, F_1,meto+342257
 1C1D,3D,ask about !D stopper
 1C1D,3N,To Play
 1C1D,3S,Transfer to 3NT
-1C1D,Db,4+!h | 5-9 HCP or take-out for !D's
+1C1D,Db,4+!h | 5-9 HCP | take-out for !D
 1C1H,1N,5+!c's | 3-7 HCP
-1C1H,1S,4!S's | 5-9 HCP | take-out for !h's
+1C1H,1S,4!S's | 5-9 HCP | take-out for !h
 1C1H,2C,5+!D's | 5-9 HCP
-1C1H,2D,Strong take-out for !H's | 10+ HCP
+1C1H,2D,Strong take-out for !H | 10+ HCP
 1C1H,2H,6+!S | 0-2 HCP or 5+!S | 10+HCP
 1C1H,2N,5+!c's | 0-2 HCP or 10+HCP
 1C1H,2S,Transfer to 2NT with 8-9 HCP
@@ -134,7 +259,7 @@ Option, F_1,meto+342257
 1C1S,1N,5+!c's | 3-7 HCP
 1C1S,2C,5+!D's | 5-9 HCP
 1C1S,2D,5+!h's | 3-9 HCP
-1C1S,2H,Strong take-out for !s's | 10+ HCP
+1C1S,2H,Strong take-out for !s | 10+ HCP
 1C1S,2N,5+!c's | 0-2 HCP or 10+HCP
 1C1S,2S,Transfer to 2NT
 1C1S,3C,5+!c's | 8-9 HCP
@@ -206,9 +331,9 @@ Option, F_1,meto+342257
 1C--1D--1H--,1N,6+HCP | may have 4!H333 hand
 1C--1D--1H--1N--,2H,15-17 HCP
 1C--1D--1H--1N--,2N,23+HCP | balanced hand including any 5-card major with 5332 shape
-1C--1D--1H--1N--,3H,open for cue-bidding in !H's
+1C--1D--1H--1N--,3H,open for cue-bidding in !H
 1C--1D--1H--1N--,4H,To Play
-1C--1D--1H--,1S,6+HCP | short !S's | 0-2 cards
+1C--1D--1H--,1S,6+HCP | short !S | 0-2 cards
 1C--1D--1H--1S--,2N,23+HCP | balanced hand including any 5-card major with 5332 shape
 1C--1D--1H--,2C,6+HCP | short !C's | 0-2 cards
 1C--1D--1H--2C--,2N,23+HCP | balanced hand including any 5-card major with 5332 shape
@@ -227,13 +352,13 @@ Option, F_1,meto+342257
 1C--1D--1N--2C--,2H,15-16 HCP | 3!H's may have 4!S's also
 1C--1D--1N--2C--2H--,2N,4!h's & 4!S's | choice of part-score contracts
 1C--1D--1N--2C--2H--2N--,3S,To Play
-1C--1D--1N--2C--2H--2N--,--,To Play | no 4-card !S's
+1C--1D--1N--2C--2H--2N--,--,To Play | no 4-card !S
 1C--1D--1N--2C--2H--,2S,Transfer to 2NT for sign-off
 1C--1D--1N--2C--,2N,15-16 HCP | 5!C332!H
 1C--1D--1N--2C--,2S,15-16 HCP | 4!s*2!H
 1C--1D--1N--2C--,3C,17-18 HCP | 5!c332!H
-1C--1D--1N--2C--3C--,4D,Transfer to 4!H's
-1C--1D--1N--2C--3C--,4H,Transfer to 4!S's
+1C--1D--1N--2C--3C--,4D,Transfer to 4!H
+1C--1D--1N--2C--3C--,4H,Transfer to 4!S
 1C--1D--1N--2C--,3D,17-18 HCP | 5!d332!H
 1C--1D--1N--2C--,3H,17-18 HCP | 3!H's | no 4!s's
 1C--1D--1N--2C--,3N,17-18 HCP | 4!C4!D3!s2!h
@@ -308,8 +433,8 @@ Option, F_1,meto+342257
 1C--1D--2H--2S--2N--,3H,5!H332 for choice of games
 1C--1D--2H--2S--2N--,3N,To Play with 4!H's
 1C--1D--2H--2S--2N--,--,To Play
-1C--1D--2H--,3C,short !C's | game try
-1C--1D--2H--,3D,short !d's | game try
+1C--1D--2H--,3C,short !C | game try
+1C--1D--2H--,3D,short !d | game try
 1C--1D--2H--,3H,4!H4!S for choice of games
 1C--1D--2H--,3N,To Play
 1C--1D--2H--,4H,To Play
@@ -471,9 +596,9 @@ Option, F_1,meto+342257
 1C--1S--,1N,15-18 HCP | balanced hand
 1C--1S--1N--,2C,To Play
 1C--1S--1N--,2D,To Play
-1C--1S--1N--,2H,invitation for 3NT with 7-9 HCP | weakness in !H's
+1C--1S--1N--,2H,invitation for 3NT with 7-9 HCP | weakness in !H
 1C--1S--1N--,2N,8-9 HCP
-1C--1S--1N--,2S,invitation for 3NT with 7-9 HCP | weakness in !S's
+1C--1S--1N--,2S,invitation for 3NT with 7-9 HCP | weakness in !S
 1C--1S--1N--,3C,6+!c's
 1C--1S--1N--,3D,6+!d's
 1C--1S--1N--,3H,54 minors | short !H
@@ -481,56 +606,56 @@ Option, F_1,meto+342257
 1C--1S--1N--,3S,54 minors | short !s
 1C--1S--,2C,14-17 HCP | one-suited hand
 1C--1S--,2D,4!C4!D | 19-20 HCP | balanced hand
-1C--1S--2D--,2H,invitation for 3NT with 7-9 HCP | weakness in !H's
+1C--1S--2D--,2H,invitation for 3NT with 7-9 HCP | weakness in !H
 1C--1S--2D--,2N,8-9 HCP | balanced hand
-1C--1S--2D--,2S,invitation for 3NT with 7-9 HCP | weakness in !S's
+1C--1S--2D--,2S,invitation for 3NT with 7-9 HCP | weakness in !S
 1C--1S--2D--,3C,To Play
 1C--1S--2D--,3D,6-7 HCP
 1C--1S--2D--,3H,54 minors | short !H
 1C--1S--2D--,3N,To Play
 1C--1S--2D--,3S,54 minors | short !s
-1C--1S--,2H,18-20 HCP with long !C's and (0-2)!d's or 23+HCP balanced or 21+HCP long clubs with shortage
+1C--1S--,2H,Please read chat#18-20 HCP with long !C's and (0-2)!d's or 23+HCP balanced or 21+HCP long clubs with shortage
 1C--1S--2H--,2S,0-3 HCP or 4+HCP balanced hand
 1C--1S--2H--2S--,2N,23+HCP | balanced hand
-1C--1S--2H--2S--2N--,3C,asking 5-card major suit
+1C--1S--2H--2S--2N--,3C,asking about 5-card major suit
 1C--1S--2H--2S--2N--3C--,3D,no 5(!h/!s) nor 4!H | may have 4!S
 1C--1S--2H--2S--2N--3C--3D--,3H,asking about !S's
-1C--1S--2H--2S--2N--3C--3D--3H--,3N,2!S's
-1C--1S--2H--2S--2N--3C--3D--3H--3N--,4H,re-transfer to !S's with 6!S's-(3/4)!H's
+1C--1S--2H--2S--2N--3C--3D--3H--,3N,2!S
+1C--1S--2H--2S--2N--3C--3D--3H--3N--,4H,re-transfer to 4!S with 6!S-(3/4)!H
 1C--1S--2H--2S--2N--3C--3D--3H--3N--4H--,4S,Automatic
-1C--1S--2H--2S--2N--3C--3D--3H--3N--4H--4S--,4N,RKC 1403 on !S
+1C--1S--2H--2S--2N--3C--3D--3H--3N--4H--4S--,4N,RKC 1430 on !S
 1C--1S--2H--2S--2N--3C--3D--3H--,3S,3!S's
 1C--1S--2H--2S--2N--3C--3D--3H--3S--,3N,no 4-card !S
 1C--1S--2H--2S--2N--3C--3D--3H--3S--,4C,good !S fit
 1C--1S--2H--2S--2N--3C--3D--3H--3S--,4D,good !S fit
 1C--1S--2H--2S--2N--3C--3D--3H--3S--,4H,good !S fit
-1C--1S--2H--2S--2N--3C--3D--3H--3S--,4N,RKC1403 on !S's
+1C--1S--2H--2S--2N--3C--3D--3H--3S--,4N,RKC143o on !S
 1C--1S--2H--2S--2N--3C--3D--3H--3S--,4S,To Play with 5+!s's
 1C--1S--2H--2S--2N--3C--3D--3H--,4S,4!S's
-1C--1S--2H--2S--2N--3C--3D--3H--4S--,4N,RKC 1403 on !s's
+1C--1S--2H--2S--2N--3C--3D--3H--4S--,4N,RKC 1430 on !s
 1C--1S--2H--2S--2N--3C--3D--,3N,To Play
 1C--1S--2H--2S--2N--3C--3D--,3S,5+!h's-3!s's | any strength
 1C--1S--2H--2S--2N--3C--3D--3S--,3N,To Play with 2!h's
 1C--1S--2H--2S--2N--3C--3D--3S--3N--,4C,Gerber with 5!H-3!S
-1C--1S--2H--2S--2N--3C--3D--3S--3N--,4D,re-transfer to !H with 6!H-3!S
+1C--1S--2H--2S--2N--3C--3D--3S--3N--,4D,re-transfer to 4!H with 6!H-3!S
 1C--1S--2H--2S--2N--3C--3D--3S--3N--4D--,4H,Automatic
-1C--1S--2H--2S--2N--3C--3D--3S--3N--4D--4H--,4N,RKC 1403 on !H's
+1C--1S--2H--2S--2N--3C--3D--3S--3N--4D--4H--,4N,RKC 1430 on !H
 1C--1S--2H--2S--2N--3C--3D--3S--,4H,To Play with 3!H's
-1C--1S--2H--2S--2N--3C--3D--3S--4H--,4N,RKC 1403 on !H's
+1C--1S--2H--2S--2N--3C--3D--3S--4H--,4N,RKC 1430 on !H
 1C--1S--2H--2S--2N--3C--3D--,4C,6!d's-3(!H/!S)
 1C--1S--2H--2S--2N--3C--3D--4C--,4D,good !C fit
 1C--1S--2H--2S--2N--3C--3D--4C--,4H,good !C fit
-1C--1S--2H--2S--2N--3C--3D--4C--4H--,4N,RKC 1403 on !H
+1C--1S--2H--2S--2N--3C--3D--4C--4H--,4N,RKC 1430 on !H
 1C--1S--2H--2S--2N--3C--3D--4C--,4N,To Play | no good !C fit
 1C--1S--2H--2S--2N--3C--3D--4C--,4S,good !C fit
-1C--1S--2H--2S--2N--3C--3D--4C--4S--,4N,RKC 1403 on !s
+1C--1S--2H--2S--2N--3C--3D--4C--4S--,4N,RKC 1430 on !s
 1C--1S--2H--2S--2N--3C--3D--,4D,6!c's-3(!H/!S)
 1C--1S--2H--2S--2N--3C--3D--4D--,4H,good !d fit
-1C--1S--2H--2S--2N--3C--3D--4D--4H--,4N,RKC 1403 on !H
+1C--1S--2H--2S--2N--3C--3D--4D--4H--,4N,RKC 1430 on !H
 1C--1S--2H--2S--2N--3C--3D--4D--,4N,To Play | no good !d fit
 1C--1S--2H--2S--2N--3C--3D--4D--,4S,good !D fit
-1C--1S--2H--2S--2N--3C--3D--4D--4S--,4N,RKC 1403 on !s
-1C--1S--2H--2S--2N--3C--3D--,4H,transfer to !S's with 6!S-3!H
+1C--1S--2H--2S--2N--3C--3D--4D--4S--,4N,RKC 1430 on !s
+1C--1S--2H--2S--2N--3C--3D--,4H,transfer to 4!S with 6!S-3!H
 1C--1S--2H--2S--2N--3C--3D--4H--,4S,Automatic
 1C--1S--2H--2S--2N--3C--3D--4H--4S--,4N,RKC 1403 on !s
 1C--1S--2H--2S--2N--3C--,3H,(4/5)!H's | no 4-card !S's
