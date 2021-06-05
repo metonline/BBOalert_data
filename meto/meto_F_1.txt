@@ -113,6 +113,57 @@ Alias,Gerber with 5!H-3!S,5!H-3!S eli ile Gerber
 Alias,re-transfer to 4!H with 6!H-3!S,6!H-3!S eli ile 4!H e re-transfer
 Alias,RKC 1430 on !H,!H üzerinden RKC 1430
 Alias,transfer to 4!S with 6!S-3!H,6!S-3!H ile 4!S'e transfer
+Alias,may have slam values,şilem değerlerine sahip olabilir
+Alias,pick a minor suit,minör renk seç
+Alias,ask about no. of aces,As sayısı sorusu
+Alias,pick a minor slam,minör şilemi seç
+Alias,asking stopper,keser sorusu
+Alias,Mild slam try in !C,!C'ten hafif şilem denemesi
+Alias,Strong slam try in !C,!C'ten güçlü şilem denemesi
+Alias,Mild slam try in !d,!d'dan hafif şilem denemesi
+Alias,Strong slam try in !d,!d'dan güçlü şilem denemesi
+Alias,playing tricks,alıcı löve
+Alias,ask about extras,eksta sorusu
+Alias,(5/6)!C's with no !h stopper,(5/6)!C !H stoperi yok
+Alias,(5/6)!d's with no !h stopper,(5/6)!d !H stoperi yok
+Alias,!H & !s stoppers,!H ve !S stoperi
+Alias,5/6)!C's with no !S stopper,5/6)!C !S stoperi yok
+Alias,(5/6)!d's with no !S stopper,(5/6)!d !S stoperi yok
+Alias,may have 4!D's or 3!H's,4.lü!D veya 3.lü !H olabilir
+Alias,ask about shape & limit,dağılım ve limit sorusu
+Alias,Transfer to 3!C as relay,röle için 3!C'e transfer
+Alias,invitational hand with !h/!C,!H/!C olan davet eli
+Alias,Quantitative,Kantitatif
+Alias,Quantitative with 17-19 HCP | 2 stoppers in !h,17-19 ve 2 !H stoperi ile Kantitatif
+Alias,stopper in !H | denies 3-card !S,!H'de stoper | 3.lü !S inkarı  
+Alias,forcing 1-round,1-tur için forsing
+Alias,stopper in !H | denies 4-card !S,kör stoperi | 4.lü !S inkarı
+Alias,confirming stopper in !H,!H stoperi garanti
+Alias,no shortness or side-suit control,kısalık ya da yan-renk kontrolü yok
+Alias,ask about key-cards in !C,!C üzerinden key-card sorusu
+Alias,ask about key-cards in !d,!d üzerinden key-card sorusu
+Alias,ask about key-cards in !h,!h üzerinden key-card sorusu
+Alias,ask about key-cards in !s,!s üzerinden key-card sorusu
+Alias,2 stoppers in !c | denies 4-card major suit,2 !C stoperi | 4.lü majör inkarı 
+Alias,no game interest in !C's if invitational in !C's,eğer !C'ten davet ise zon ilgisi yok
+Alias,game interest if invitational in !C's,eğer ki !C'ten zona davet ise zon ilgisi var
+Alias,asking for shortness / weak suit,kısalık ve zaaf sorusu
+Alias,tricks,löve
+Alias,non-serious slam interest in !H | no multiple controls, !H'den çok ciddi olmayan şilem ilgisi | çok sayıda kontrol yok
+Alias,no good suit quality,renk kalitesi iyi değil
+Alias,ask about suit quality,renk kalitesi sorusu
+Alias,non-serious 3NT,çok ciddi olmayan şilem ilgisi
+Alias,transfer to 2!D for relay,röle için 2!D'ya transfer
+Alias,Accept invitation with 3!H's,3.lü !H ile davetin kabulü
+Alias,Accept invitation with 3!s's,3.lü !S ile davetin kabulü
+Alias,(4/5!h)-4!S-(2/3!d)-(2/3!C) hand with !c control,!C kontrolü olan (4/5!h)-4!S-(2/3!d)-(2/3!C) eli
+Alias,(4/5!h)-4!S-(2/3!d)-(2/3!C) hand with !d control,!D kontrolü olan (4/5!h)-4!S-(2/3!d)-(2/3!C) eli
+Alias,maybe passed with void !C's & 3!S's,şigan !C ve 3.lü !S ile pas geçilebilir
+Alias,ask about fragment,3.lü renk sorusu
+Alias,no 3-card majors,3.lü majör renk yok
+Alias,14-17 HCP with defensive holding against !S | no good fit to other suits, 14-17 HCP !S'e karşı defansif | diğer renklere iyi fiti yok
+Alias,no-fit to other suits,başka renklere fit yok
+Alias,self-sustained,kaliteli renk
 Alias,
 Alias,
 Alias,
@@ -122,6 +173,13 @@ Alias,
 Alias,
 Alias,
 Alias,
+Alias,
+Alias,
+Alias,
+Alias,
+
+
+
 Option
 
 
@@ -714,90 +772,7 @@ Option, F_1,meto+342257
 1C--1S--2H--2S--2N--3C--3S--4H--,4N,RKC1403 on !s's
 1C--1S--2H--2S--2N--3C--3S--4H--,4S,2 top honors in !S are missing
 1C--1S--2H--2S--2N--3C--3S--,4S,To Play
-1C--1S--2H--2S--2N--,3D,Transfer to !H
-1C--1S--2H--2S--2N--3D--,3H,2!H's
-1C--1S--2H--2S--2N--3D--3H--,3N,5!H-4!S | game values
-1C--1S--2H--2S--2N--3D--3H--3N--,4S,To Play with (4/5)!S's 
-1C--1S--2H--2S--2N--3D--3H--,3S,transfer to 3NT
-1C--1S--2H--2S--2N--3D--3H--3S--,3N,Automatic
-1C--1S--2H--2S--2N--3D--3H--3S--3N--,4H,5!H-4!S | slam interest
-1C--1S--2H--2S--2N--3D--3H--3S--3N--4H--,4N,no 4-card !S's
-1C--1S--2H--2S--2N--3D--3H--3S--3N--4H--4N--,5C,No ace | slam interest
-1C--1S--2H--2S--2N--3D--3H--3S--3N--4H--4N--,5D,1 Ace | slam interest
-1C--1S--2H--2S--2N--3D--3H--3S--3N--4H--4N--,5H,2 Aces | slam interest
-1C--1S--2H--2S--2N--3D--3H--3S--3N--4H--4N--,5S,3 Aces | slam interest
-1C--1S--2H--2S--2N--3D--3H--3S--3N--4H--,4S,(4/5) !s's
-1C--1S--2H--2S--2N--3D--3H--3S--3N--4H--4S--,4N,RCK 1403 on !S
-1C--1S--2H--2S--2N--3D--3H--,4C,5!H's-4+!C's
-1C--1S--2H--2S--2N--3D--3H--4C--,4D,good !C fit
-1C--1S--2H--2S--2N--3D--3H--4C--,4H,good !C fit
-1C--1S--2H--2S--2N--3D--3H--4C--4H--,4N,RKC 1403 on !H
-1C--1S--2H--2S--2N--3D--3H--4C--,4N,To Play | no good !C fit
-1C--1S--2H--2S--2N--3D--3H--4C--,4S,good !C fit
-1C--1S--2H--2S--2N--3D--3H--4C--4S--,4N,RKC 1403 on !s
-1C--1S--2H--2S--2N--3D--3H--,4D,5!H's-4+!d's
-1C--1S--2H--2S--2N--3D--3H--,4H,To Play
-1C--1S--2H--2S--2N--3D--3H--,4N,RKC 1403 on !H | 6!h's
-1C--1S--2H--2S--2N--3D--,3N,(3/4)!H's
-1C--1S--2H--2S--2N--3D--3N--,4C,control in !C
-1C--1S--2H--2S--2N--3D--3N--,4D,re-transfer to !H
-1C--1S--2H--2S--2N--3D--3N--4D--,4H,Automatic
-1C--1S--2H--2S--2N--3D--3N--4D--4H--,4N,RKC 1403 on !H
-1C--1S--2H--2S--2N--3D--3N--,4N,RKC 1403 on !h
-1C--1S--2H--2S--2N--3D--3N--,4S,control in !s
-1C--1S--2H--2S--2N--3D--,3S,3!H+(4/5)!S
-1C--1S--2H--2S--2N--3D--3S--,4D,re-transfer to 4!H
-1C--1S--2H--2S--2N--3D--3S--,4S,To Play
-1C--1S--2H--2S--2N--3D--,4C,good fit in !H | !C control
-1C--1S--2H--2S--2N--3D--4C--,4N,RKC 1403 on !H
-1C--1S--2H--2S--2N--3D--,4D,good fit in !H | !D control
-1C--1S--2H--2S--2N--3D--4D--,4N,RKC 1403 on !H
-1C--1S--2H--2S--2N--3D--,4H,good fit in !H | all controls complete
-1C--1S--2H--2S--2N--3D--4H--,4N,RKC 1403 on !H
-1C--1S--2H--2S--2N--,3H,Transfer to !s
-1C--1S--2H--2S--2N--3H--,3N,3!s's
-1C--1S--2H--2S--2N--3H--3N--,4C,control in !C
-1C--1S--2H--2S--2N--3H--3N--,4D,control in !D
-1C--1S--2H--2S--2N--3H--3N--,4H,re-transfer to !S
-1C--1S--2H--2S--2N--3H--3N--4H--,4S,Automatic
-1C--1S--2H--2S--2N--3H--3N--4H--4S--,4N,RKC 1403 on !S
-1C--1S--2H--2S--2N--3H--3N--,4N,RKC 1403 on !S
-1C--1S--2H--2S--2N--3H--,3S,2!S's
-1C--1S--2H--2S--2N--3H--3S--,3N,To Play
-1C--1S--2H--2S--2N--3H--3S--,4C,5!S's-4+!C's
-1C--1S--2H--2S--2N--3H--3S--4C--,4D,good !C fit
-1C--1S--2H--2S--2N--3H--3S--4C--,4H,good !C fit
-1C--1S--2H--2S--2N--3H--3S--4C--4H--,4N,RKC 1403 on !H
-1C--1S--2H--2S--2N--3H--3S--4C--,4N,To Play | no good !C fit
-1C--1S--2H--2S--2N--3H--3S--4C--,4S,good !C fit
-1C--1S--2H--2S--2N--3H--3S--4C--4S--,4N,RKC 1403 on !s
-1C--1S--2H--2S--2N--3H--3S--,4D,5!S's-4+!d's
-1C--1S--2H--2S--2N--3H--3S--4D--,4H,good !d fit
-1C--1S--2H--2S--2N--3H--3S--4D--4H--,4N,RKC 1403 on !H
-1C--1S--2H--2S--2N--3H--3S--4D--,4N,To Play | no good !d fit
-1C--1S--2H--2S--2N--3H--3S--4D--,4S,good !d fit
-1C--1S--2H--2S--2N--3H--3S--4D--4S--,4N,RKC 1403 on !s
-1C--1S--2H--2S--2N--3H--3S--,4H,5!S's-3!H's | slam interest
-1C--1S--2H--2S--2N--3H--3S--4H--,4N,no !H fit
-1C--1S--2H--2S--2N--3H--3S--4H--4N--,5C,no Ace
-1C--1S--2H--2S--2N--3H--3S--4H--4N--,5D,1 Ace
-1C--1S--2H--2S--2N--3H--3S--4H--4N--,5H,2 Aces
-1C--1S--2H--2S--2N--3H--3S--4H--4N--,5S,3 Aces
-1C--1S--2H--2S--2N--3H--3S--4H--,4S,good !H fit
-1C--1S--2H--2S--2N--3H--3S--4H--4S--,4N,RKC 1403 on !H
-1C--1S--2H--2S--2N--3H--3S--,4N,RKC1403 on !S's
-1C--1S--2H--2S--2N--3H--3S--,4S,To Play
-1C--1S--2H--2S--2N--3H--,4C,good fit in !s | !C control
-1C--1S--2H--2S--2N--3H--,4D,good fit in !s | !d control
-1C--1S--2H--2S--2N--3H--,4H,good fit in !s | !h control
-1C--1S--2H--2S--2N--3H--,4S,good fit in !s | all controls complete
-1C--1S--2H--2S--2N--,3N,5!s-3!h | game values
-1C--1S--2H--2S--2N--3N--,4H,To PLay
-1C--1S--2H--2S--2N--3N--4H--,4N,no good help in the asked suit
-1C--1S--2H--2S--2N--3N--4H--,6N,good help in the asked suit
-1C--1S--2H--2S--2N--3N--,4S,To PLay
-1C--1S--2H--2S--2N--3N--4S--,4N,no good help in the asked suit
-1C--1S--2H--2S--2N--3N--4S--,6N,good help in the asked suit
+
 1C--1S--2H--2S--2N--,3S,Transfer to 3NT
 1C--1S--2H--2S--2N--3S--,3N,Automatic
 1C--1S--2H--2S--2N--3S--3N--,4C,shortage in !H | 543!S1!H
@@ -838,8 +813,8 @@ Option, F_1,meto+342257
 1C--1S--2H--2S--2N--4H--,4N,no good !c fit
 1C--1S--2H--2S--2N--4H--,4S,good !c fit
 1C--1S--2H--2S--2N--,4N,5+!C's & 5+!D's | pick a minor suit
-1C--1S--2H--2S--2N--,4S,Gerber | asking about no. of Aces | 0123
-1C--1S--2H--2S--2N--,5N,6!C's & 6!D's | pick a slam
+1C--1S--2H--2S--2N--,4S,Gerber | ask about no. of aces | 0123
+1C--1S--2H--2S--2N--,5N,6!C's & 6!D's | pick a minor slam
 1C--1S--2H--2S--,3C,6+!C's-2!D's | 18-20 HCP
 1C--1S--2H--2S--3C--,3D,GF with 6+!D's
 1C--1S--2H--2S--3C--,3H,weakness in !H | asking stopper
@@ -857,10 +832,10 @@ Option, F_1,meto+342257
 1C--1S--2N--,3H,54 minors | short !H
 1C--1S--2N--,3N,To Play
 1C--1S--2N--,3S,54 minors | short !s
-1C--1S--2N--,4C,Mild slam try in !C's
-1C--1S--2N--,4D,Mild slam try in !d's
-1C--1S--2N--,4H,Strong slam try in !C's
-1C--1S--2N--,4S,Strong slam try in !d's
+1C--1S--2N--,4C,Mild slam try in !C
+1C--1S--2N--,4D,Mild slam try in !d
+1C--1S--2N--,4H,Strong slam try in !C
+1C--1S--2N--,4S,Strong slam try in !d
 1C--1S--,2S,18-20 | HCP 6+!C-(3/4)!d's or 21+HCP | 6!C322
 1C--1S--2S--,2N,6+HCP
 1C--1S--2S--2N--,3C,6+!C's-3!D's | 18-20 HCP
@@ -881,7 +856,7 @@ Option, F_1,meto+342257
 1C--2C--2D--,2H,5+(!c/!D)-4!s (switch)
 1C--2C--2D--2H--,2N,ask about minor suit
 1C--2C--2D--2H--2N--,3C,5+!C-4!h
-1C--2C--2D--2H--2N--3C--,3D,!C fit | asking about extras
+1C--2C--2D--2H--2N--3C--,3D,!C fit | ask about extras
 1C--2C--2D--2H--2N--3C--3D--,3H,13+HCP | !h control
 1C--2C--2D--2H--2N--3C--3D--,3N,10-12 HCP
 1C--2C--2D--2H--2N--3C--3D--,3S,13+HCP | !s control
@@ -1029,9 +1004,9 @@ Option, F_1,meto+342257
 1C--2N--3C--,4C,16+ HCP | 5!h332
 1C--2N--3C--,4D,16+ HCP | 5!S332
 1C--2N--,3D,6+!C's | no 3-card majors
-1C--2N--3D--,3H,13+HCP | 5-card !H's | may have good !C fit
+1C--2N--3D--,3H,13+HCP | 5-card !H | may have good !C fit
 1C--2N--3D--,3N,10-12 HCP
-1C--2N--3D--,3S,13+HCP | 5-card !s's | may have good !C fit
+1C--2N--3D--,3S,13+HCP | 5-card !s | may have good !C fit
 1C--,2S,5+!s | 10+HCP | unbalanced hand
 1C--2S--,2N,balanced hand
 1C--2S--2N--,3C,13+HCP
@@ -1088,8 +1063,8 @@ Option, F_1,meto+342257
 1D1SDb2S,2N,Transfer to 3!C as relay
 1D1SDb2S2N--,3C,8-12 HCP
 1D1SDb2S2N--,3H,10-12 HCP
-1D1SDb2S2N--,3N,13+ HCP | !H's-!c's hand
-1D1SDb2S2N--,3S,13+ HCP | 5+!h's
+1D1SDb2S2N--,3N,13+ HCP | !H-!c
+1D1SDb2S2N--,3S,13+ HCP | 5+!h
 1D1SDb2S,3C,15-16 HCP
 1D1SDb2S,3D,15-16 HCP
 1D1SDb2S,3H,15-16 HCP
@@ -1131,7 +1106,7 @@ Option, F_1,meto+342257
 1D1SDb--,1S,3+!D's-4!S | 11-14 HCP
 1D1SDb--1S--,2C,5+!C | 10-12 HCP
 1D1SDb--1S--,2D,5+!D | 10-12 HCP
-1D1SDb--1S--,2H,13+HCP | asking stopper in !h
+1D1SDb--1S--,2H,13+HCP | ask about stopper in !h
 1D1SDb--1S--,2N,11-12 HCP | !h stopper
 1D1SDb--1S--,2S,4+!s's | 10-12 HCP
 1D1SDb--1S--,3C,6+!c | 13+HCP
@@ -1141,7 +1116,7 @@ Option, F_1,meto+342257
 1D1SDb--1S--,4S,To Play
 1D1SDb--,2C,4+!d-4+!c | 11-14 HCP
 1D1SDb--2C--,2D,5+!d | 10-12 HCP
-1D1SDb--2C--,2H,13+HCP | asking stopper in !h
+1D1SDb--2C--,2H,13+HCP | ask about stopper in !h
 1D1SDb--2C--2H--,2N,stopper in !H | denies 3-card !S
 1D1SDb--2C--2H--2N--,3N,To Play
 1D1SDb--2C--2H--2N--,4N,Quantitative
@@ -1155,8 +1130,8 @@ Option, F_1,meto+342257
 1D1SDb--2C--,3H,Transfer to 3NT
 1D1SDb--2C--,3N,13-16 HCP | 2 stoppers in !h
 1D1SDb--2C--,3S,6+!S | 13+HCP
-1D1SDb--2C--,4C,slam try | asking key-cards in !C
-1D1SDb--2C--,4D,slam try | asking key-cards in !d
+1D1SDb--2C--,4C,slam try | ask about key-cards in !C
+1D1SDb--2C--,4D,slam try | ask about key-cards in !d
 1D1SDb--2C--,4N,Quantitative with 17-19 HCP | 2 stoppers in !h
 1D1SDb--2C--,--,To Play
 1D1SDb--,2D,5+!D | 11-14 HCP
@@ -1214,8 +1189,8 @@ Option, F_1,meto+342257
 1D2C,3H,0-5 HCP
 1D2C,3N,To Play
 1D2C,3S,0-5 HCP
-1D2C,4H,8-10 HCP | semi-solid !h's | no shortness or side-suit control
-1D2C,4S,8-10 HCP | semi-solid !S's | no shortness or side-suit control
+1D2C,4H,8-10 HCP | semi-solid !h | no shortness or side-suit control
+1D2C,4S,8-10 HCP | semi-solid !S | no shortness or side-suit control
 1D2C,Db,10+HCP
 1D2CDb--,1N,11-14 HCP balanced with !S stopper | denies 4-card !H 
 1D2CDb--1N--,2C,5+!c | 10-12 HCP
@@ -1251,7 +1226,7 @@ Option, F_1,meto+342257
 1D2CDb--2D--,3H,13+HCP
 1D2CDb--2D--,3N,To Play
 1D2CDb--2D--,3S,13+HCP
-1D2CDb--2D--,4D,slam try | asking key-cards
+1D2CDb--2D--,4D,slam try | ask about key-cards
 1D2CDb--,2H,4+!d-4!H | 11-14 HCP
 1D2CDb--2H--,2N,11-12 HCP
 1D2CDb--2H--,2S,5+!s | 10-12 HCP 
@@ -1260,7 +1235,7 @@ Option, F_1,meto+342257
 1D2CDb--2H--,3H,10-12 HCP
 1D2CDb--2H--,3N,To Play
 1D2CDb--2H--,3S,13+HCP
-1D2CDb--2H--,4D,slam try | asking key-cards in !D
+1D2CDb--2H--,4D,slam try | ask about key-cards in !D
 1D2CDb--2H--,4H,To Play
 1D2CDb--,2N,15-17 HCP | stopper in !c | denies 4-card major
 1D2CDb--,2S,18+ HCP
@@ -1270,15 +1245,15 @@ Option, F_1,meto+342257
 1D2CDb--2S--,3H,12+HCP
 1D2CDb--2S--,3N,To Play
 1D2CDb--2S--,3S,10-12 HCP
-1D2CDb--,3C,18+HCP | asking stopper in !C
+1D2CDb--,3C,18+HCP | ask about stopper in !C
 1D2CDb--,3D,6+!D | 15-17 HCP
 1D2CDb--,3H,4+!d-4!H | 15-17 HCP
-1D2CDb--3H--,3S,13+ HCP | asking stopper in !S
+1D2CDb--3H--,3S,13+ HCP | ask about stopper in !S
 1D2CDb--3H--3S--,3N,stopper in !S
-1D2CDb--3H--3S--3N--,4H,asking key-cards in !H
+1D2CDb--3H--3S--3N--,4H,ask about key-cards in !H
 1D2CDb--3H--3S--,4C,no stopper in !S
-1D2CDb--3H--3S--4C--,4H,asking key-cards in !H
-1D2CDb--3H--,4C,asking key-cards in !C
+1D2CDb--3H--3S--4C--,4H,ask about key-cards in !H
+1D2CDb--3H--,4C,ask about key-cards in !C
 1D2CDb--3H--,4H,To Play
 1D2CDb--,3N,18-19 HCP | 2 stoppers in !c | denies 4-card major suit
 1D2CDb--,3S,4+!d-4!s | 15-17 HCP
@@ -1307,7 +1282,7 @@ Option, F_1,meto+342257
 1DDb1HDb1N--,2C,Transfer to 2!D | relay for game
 1DDb1HDb1N--2C--,2D,Automatic
 1DDb1HDb1N--2C--2D--,2H,invitation for game | 10-12 HCP | unbalanced
-1DDb1HDb1N--2C--2D--,2N,invitation for game | 11-12 HCP | may have 5-card !hs
+1DDb1HDb1N--2C--2D--,2N,invitation for game | 11-12 HCP | may have 5-card !h
 1DDb1HDb1N--2C--2D--2N--,3H,3!hs | interest in game
 1DDb1HDb1N--2C--2D--2N--3H--,3N,4!Hs with !S stopper
 1DDb1HDb1N--2C--2D--2N--3H--,4H,5!hs and / or maximum value
@@ -1394,7 +1369,7 @@ Option, F_1,meto+342257
 1DDb1HDb2C--2D--2H--,4C,slam try in !H | !C control
 1DDb1HDb2C--2D--2H--,4D,slam try in !H | !d control
 1DDb1HDb2C--2D--2H--,4H,To Play
-1DDb1HDb2C--2D--2H--,4N,Asking key cards in !h
+1DDb1HDb2C--2D--2H--,4N,Ask about key-cards in !h
 1DDb1HDb2C--2D--2H--,5C,voidwood
 1DDb1HDb2C--2D--2H--,5D,voidwood
 1DDb1HDb2C--2D--,2N,15-17 HCP | unbalanced / semi-balanced
@@ -1427,7 +1402,7 @@ Option, F_1,meto+342257
 1DDb1HDb2C--2D--2S--2N--3D--3N--,4C,Automatic
 1DDb1HDb2C--2D--2S--2N--3D--,3S,transfer to 3NT
 1DDb1HDb2C--2D--2S--2N--3D--3S--,3N,Automatic
-1DDb1HDb2C--2D--2S--2N--3D--3S--3N--,4C,slam try in !C | asking key card
+1DDb1HDb2C--2D--2S--2N--3D--3S--3N--,4C,slam try in !C | ask about key-cards
 1DDb1HDb2C--2D--2S--2N--3D--3S--3N--,4D,slam try in !C | control
 1DDb1HDb2C--2D--2S--2N--3D--3S--3N--,4H,slam try in !C | control
 1DDb1HDb2C--2D--2S--2N--3D--3S--3N--,4S,slam try in !C | control
@@ -1446,12 +1421,12 @@ Option, F_1,meto+342257
 1DDb1HDb2C--2D--2S--2N--3S--,3N,To Play
 1DDb1HDb2C--2D--2S--2N--3S--,4C,slam try in !C | asking key-cards
 1DDb1HDb2C--2D--2S--2N--3S--4C--,4H,void in !H
-1DDb1HDb2C--2D--2S--2N--3S--4C--,4N,asking key card
+1DDb1HDb2C--2D--2S--2N--3S--4C--,4N,ask about key-cards
 1DDb1HDb2C--2D--2S--2N--3S--4C--,4S,void in !S
 1DDb1HDb2C--2D--2S--2N--3S--4C--,5C,6!C-5!D-1!s-1!h| To Play
 1DDb1HDb2C--2D--2S--2N--3S--,4D,slam try in !d | asking key-cards
 1DDb1HDb2C--2D--2S--2N--3S--4D--,4H,void in !H
-1DDb1HDb2C--2D--2S--2N--3S--4D--,4N,asking key card
+1DDb1HDb2C--2D--2S--2N--3S--4D--,4N,ask about key-card
 1DDb1HDb2C--2D--2S--2N--3S--4D--,4S,void in !S
 1DDb1HDb2C--2D--2S--2N--3S--4D--,5D,6!C-5!D-1!s-1!h | To Play
 1DDb1HDb2C--2D--2S--2N--3S--,5C,To Play
@@ -1522,9 +1497,9 @@ Option, F_1,meto+342257
 1DDb1HDb2D--,3D,4+!d | game forcing
 1DDb1HDb2D--,3H,6+!H | maximum 1 top loser in !H
 1DDb1HDb2D--,3N,8-12 HCP | !s stopper
-1DDb1HDb2D--,3S,game forcing | asking stopper in !S
+1DDb1HDb2D--,3S,game forcing | ask about stopper in !S
 1DDb1HDb,2H,11-14 HCP
-1DDb1HDb2H--,2S,asking distribution & strength
+1DDb1HDb2H--,2S,ask about distribution & strength
 1DDb1HDb2H--2S--,2N,443-2!D (doubleton in other minor)
 1DDb1HDb2H--2S--2N--,3C,asking further distribution & strength
 1DDb1HDb2H--2S--2N--3C--,3D,3!S-4!H-2!D-4!C (4-card in lower suit) - mini hand
@@ -2158,10 +2133,10 @@ Option, F_1,meto+342257
 1DDb1SDb3C--3H--3S--,4S,To Play
 1DDb1SDb3C--,3N,To Play
 1DDb1SDb3C--,3S,To Play
-1DDb1SDb3C--,4C,slam try in !C | asking key cards
-1DDb1SDb3C--,4D,slam try in !d | asking key cards
-1DDb1SDb3C--,4H,5+!S-5+!H | asking key-cards in !H
-1DDb1SDb3C--,4S,slam try in !s | asking key cards
+1DDb1SDb3C--,4C,slam try in !C | ask about key-cards
+1DDb1SDb3C--,4D,slam try in !d | ask about key-cards
+1DDb1SDb3C--,4H,5+!S-5+!H | ask about key-cards in !H
+1DDb1SDb3C--,4S,slam try in !s | ask about key-cards
 1DDb1SDb,3S,15-17 HCP
 1DDb1SDb,4C,single !D
 1DDb1SDb,4D,single !h
@@ -2222,7 +2197,7 @@ Option, F_1,meto+342257
 1DDb1S--2C--2D--,2H,transfer to 2NT for relaying
 1DDb1S--2C--2D--2H--,2N,Automatic
 1DDb1S--2C--2D--2H--2N--,3C,(5/6)!c-4!H minimum hand
-1DDb1S--2C--2D--2H--2N--3C--,3D,4th suit | asking stopper
+1DDb1S--2C--2D--2H--2N--3C--,3D,4th suit | ask about stopper
 1DDb1S--2C--2D--2H--2N--3C--3D--,3H,no !D stopper
 1DDb1S--2C--2D--2H--2N--3C--3D--3H--,4C,invitation for game
 1DDb1S--2C--2D--2H--2N--3C--3D--3H--,4H,To Play
@@ -2234,15 +2209,15 @@ Option, F_1,meto+342257
 1DDb1S--2C--2D--2H--2N--3C--,3H,To Play
 1DDb1S--2C--2D--2H--2N--3C--,3N,To Play
 1DDb1S--2C--2D--2H--2N--3C--,3S,To Play
-1DDb1S--2C--2D--2H--2N--3C--,4C,slam try in !C | asking key-cards
-1DDb1S--2C--2D--2H--2N--3C--,4D,4+!S-5+!d | asking key-cards in !d
-1DDb1S--2C--2D--2H--2N--3C--,4H,slam try in !h | asking key-cards
-1DDb1S--2C--2D--2H--2N--3C--,4S,slam try in !s | asking key-cards
+1DDb1S--2C--2D--2H--2N--3C--,4C,slam try in !C | ask about key-cards
+1DDb1S--2C--2D--2H--2N--3C--,4D,4+!S-5+!d | ask about key-cards in !d
+1DDb1S--2C--2D--2H--2N--3C--,4H,slam try in !h | ask about key-cards
+1DDb1S--2C--2D--2H--2N--3C--,4S,slam try in !s | ask about key-cards
 1DDb1S--2C--2D--2H--2N--3C--,5C,To Play
 1DDb1S--2C--2D--2H--2N--,3D,6!C-3!s-3(!h/!D)-1(!d/!h)
 1DDb1S--2C--2D--2H--2N--3D--,3H,transfer to 3NT
 1DDb1S--2C--2D--2H--2N--3D--3H--,3N,Automatic
-1DDb1S--2C--2D--2H--2N--3D--3H--3N--,4C,slam try in !c | asking key cards\\ 
+1DDb1S--2C--2D--2H--2N--3D--3H--3N--,4C,slam try in !c | ask about key-cards\\ 
 1DDb1S--2C--2D--2H--2N--3D--3H--3N--,4D,slam try in !c | control
 1DDb1S--2C--2D--2H--2N--3D--3H--3N--,4H,slam try in !c | control
 1DDb1S--2C--2D--2H--2N--3D--3H--3N--,4N,Quantitative
@@ -2392,7 +2367,7 @@ Option, F_1,meto+342257
 1DDb1S--2D--2H--2S--,3S,sign-off
 1DDb1S--2D--2H--,3C,(5/6)!C-4!d
 1DDb1S--2D--2H--,3D,6!C-5!D
-1DDb1S--2D--2H--,3H,19-21 HCP | asking !h stopper
+1DDb1S--2D--2H--,3H,19-21 HCP | ask about !h stopper
 1DDb1S--2D--2H--,3N,19-21 HCP | stopper in !H
 1DDb1S--2D--2H--,3S,3!S | invitation for game
 1DDb1S--2D--,2N,5-7 HCP | stopper in !H
@@ -2454,9 +2429,9 @@ Option, F_1,meto+342257
 1DDb1S--3C--3H--3S--,4S,To Play
 1DDb1S--3C--,3N,To Play
 1DDb1S--3C--,3S,To Play
-1DDb1S--3C--,4C,slam try in !C | asking key cards
-1DDb1S--3C--,4D,slam try in !d | asking key cards
-1DDb1S--3C--,4H,5+!S-5+!H | asking key-cards in !H
+1DDb1S--3C--,4C,slam try in !C | ask about key-cards
+1DDb1S--3C--,4D,slam try in !d | ask about key-cards
+1DDb1S--3C--,4H,5+!S-5+!H | ask about key-cards in !H
 1DDb1S--3C--,4S,slam try in !s | asking key cards
 1DDb1S--3C--,5C,To Play
 1DDb1S--3C--,5D,To Play
@@ -2695,7 +2670,7 @@ Option, F_1,meto+342257
 1D--1S--1N--2H--,3H,asking about !H stopper
 1D--1S--1N--2H--,3N,To Play
 1D--1S--1N--2H--,3S,asking about !s stopper
-1D--1S--1N--,2N,Transfer to 3!C's with 0-5 HCP | 6+!c's
+1D--1S--1N--,2N,Transfer to 3!C with 0-5 HCP | 6+!c's
 1D--1S--1N--,2S,8-9 HCP balanced with no 4-card majors
 1D--1S--1N--2S--,2N,14-15 HCP | 5+!d-4!h
 1D--1S--1N--2S--,3C,18-20 HCP | 5+!d-4+!c
@@ -3550,7 +3525,7 @@ Option, F_1,meto+342257
 1H--2C--3C--3D--3S--,4C,slam try in !C | !S control
 1H--2C--3C--3D--3S--,4D,slam try in !C | !d control
 1H--2C--3C--3D--3S--,4H,slam try in !C | !h control
-1H--2C--3C--,3H,asking about cues
+1H--2C--3C--,3H,ask about cues
 1H--2C--3C--3H--,3N,non-serious slam interest in !H | no multiple controls
 1H--2C--3C--3H--,3S,!S-!D controls
 1H--2C--3C--3H--,4C,!C-!S controls
@@ -3606,7 +3581,7 @@ Option, F_1,meto+342257
 1H--2D--2N--,3C,13+ HCP | ask about shape
 1H--2D--2N--3C--,3D,5!H4!C22 (other minor suit)
 1H--2D--2N--3C--3D--,3N,13-15 HCP
-1H--2D--2N--3C--3D--3N--,4C,slam interest | asking key cards in !C
+1H--2D--2N--3C--3D--3N--,4C,slam interest | ask about key-cards in !C
 1H--2D--2N--3C--3D--,3S,!C fit
 1H--2D--2N--3C--3D--3S--,4C,slam try in !D | !C control
 1H--2D--2N--3C--3D--3S--,4D,slam try in !D | !S control
@@ -3808,7 +3783,7 @@ Option, F_1,meto+342257
 1H--2H--2S--,4H,8-9 HCP | 5!s's with 2 top honor-cards
 1H--2H--,3C,short !C
 1H--2H--,3D,short !D
-1H--2H--,3H,asking about suit quality
+1H--2H--,3H,ask about suit quality
 1H--2H--,4C,5!C's | have A/K
 1H--2H--,4D,5!d's | have A/K
 1H--2H--,4H,To Play
@@ -4100,7 +4075,7 @@ Option, F_1,meto+342257
 1S--2C--2D--2N--3C--3D--3N--,4S,To Play
 1S--2C--2D--2N--3C--3D--,3S,6!s4!d21
 1S--2C--2D--2N--3C--3D--3S--,3N,To Play
-1S--2C--2D--2N--3C--3D--3S--,4C,slam interest in !C 's & asking about shortness
+1S--2C--2D--2N--3C--3D--3S--,4C,slam interest in !C 's & ask about shortness
 1S--2C--2D--2N--3C--3D--3S--4C--,4D,short !C | 6!S4!D2!h1!C
 1S--2C--2D--2N--3C--3D--3S--4C--,4H,short !h | 6!S4!D2!c1!h
 1S--2C--2D--2N--3C--3D--3S--,4D,!d fit & asking about shortness
@@ -4125,7 +4100,7 @@ Option, F_1,meto+342257
 1S--2C--2D--2N--3C--3N--,4N,6!s331!C | 13-14 HCP
 1S--2C--2D--2N--3C--3N--,4S,7!s321 | 13-14 HCP | no 3!C's
 1S--2C--2D--2N--3C--3N--,--,11-12 HCP
-1S--2C--2D--2N--3C--,3S,!s fit & asking about cues
+1S--2C--2D--2N--3C--,3S,!s fit & ask about cues
 1S--2C--2D--2N--,3D,5!s4!h3!d1!c
 1S--2C--2D--2N--,3H,5!s4!h3!C1!D
 1S--2C--2D--2N--,3N,5!s4!D3!h1!C
@@ -4203,7 +4178,7 @@ Option, F_1,meto+342257
 1S--2C--2N--3C--3H--,4D,slam try in !C | !d control
 1S--2C--2N--3C--3H--,4H,slam try in !C | !h control
 1S--2C--2N--3C--,3N,5!S3!C32
-1S--2C--2N--3C--3N--,4C,slam interest | asking key cards in !C
+1S--2C--2N--3C--3N--,4C,slam interest | ask about key-cards in !C
 1S--2C--2N--3C--,3S,3!C's | 5!H3!C32
 1S--2C--2N--3C--3S--,3N,13-15 HCP
 1S--2C--2N--3C--3S--,4C,slam try in !C | !S control
@@ -4214,7 +4189,7 @@ Option, F_1,meto+342257
 1S--2C--2N--,3D,10-12 HCP | 5!c-4!d | no !S control
 1S--2C--2N--3D--,3H,5!H332!C with no !S stopper
 1S--2C--2N--3D--,3N,To Play with !S stopper
-1S--2C--2N--3D--3N--,4C,slam interest | asking key cards in !C
+1S--2C--2N--3D--3N--,4C,slam interest | ask about key-cards in !C
 1S--2C--2N--3D--,3S,5!H4!d22 with no !S stopper
 1S--2C--2N--3D--,4C,5!H3!C32 with no !S stopper
 1S--2C--2N--,3H,!h fit & asking about cues
