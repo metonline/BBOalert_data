@@ -154,8 +154,8 @@ Alias,no good suit quality,renk kalitesi iyi değil
 Alias,ask about suit quality,renk kalitesi sorusu
 Alias,non-serious 3NT,çok ciddi olmayan şilem ilgisi
 Alias,transfer to 2!D for relay,röle için 2!D'ya transfer
-Alias,Accept invitation with 3!H's,3.lü !H ile davetin kabulü
-Alias,Accept invitation with 3!s's,3.lü !S ile davetin kabulü
+Alias,Accept invitation with 3!H's,3.lü !H ile davet kabulü
+Alias,Accept invitation with 3!s's,3.lü !S ile davet kabulü
 Alias,(4/5!h)-4!S-(2/3!d)-(2/3!C) hand with !c control,!C kontrolü olan (4/5!h)-4!S-(2/3!d)-(2/3!C) eli
 Alias,(4/5!h)-4!S-(2/3!d)-(2/3!C) hand with !d control,!D kontrolü olan (4/5!h)-4!S-(2/3!d)-(2/3!C) eli
 Alias,maybe passed with void !C's & 3!S's,şigan !C ve 3.lü !S ile pas geçilebilir
@@ -164,8 +164,8 @@ Alias,no 3-card majors,3.lü majör renk yok
 Alias,14-17 HCP with defensive holding against !S | no good fit to other suits, 14-17 HCP !S'e karşı defansif | diğer renklere iyi fiti yok
 Alias,no-fit to other suits,başka renklere fit yok
 Alias,self-sustained,kaliteli renk
-Alias,
-Alias,
+Alias,game forsing,zon forsing
+Alias,game force,zon forsing
 Alias,
 Alias,
 Alias,
