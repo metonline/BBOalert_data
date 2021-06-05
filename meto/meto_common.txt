@@ -222,6 +222,8 @@ Option,Lang TR
  
 Option
 
+Import,https://github.com/stanmaz/BBOalert/blob/master/Scripts/BBOstat.txt
+
 //BBOalert
 //Script,onAuctionBegin
 var MH = getMyHand();
