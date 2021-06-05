@@ -166,25 +166,7 @@ Alias,no-fit to other suits,başka renklere fit yok
 Alias,self-sustained,kaliteli renk
 Alias,game forsing,zon forsing
 Alias,game force,zon forsing
-Alias,
-Alias,
-Alias,
-Alias,
-Alias,
-Alias,
-Alias,
-Alias,
-Alias,
-Alias,
-Alias,
-
-
-
 Option
-
-
-
-
 
 Option, F_1,meto+342257
 2D,2H,T/O for !H
