@@ -721,6 +721,17 @@ Shortcut,Rita,We play 2/1. Upside down count & attitude. Odd/Even discards. 1!C 
 Option,Lang TR
 Shortcut,Rita,2/1 UDCA oynuyoruz...Romen defos 1!C açışı 2+!C 1!D açışları 4+!D ile...Ataklar  2. ve 4.den.…RKC0314....İyi oyunlar! \n
 
+Option,UDCAR,meto+auzun78
+//Script,onDataLoad,PREV_OPPS = "";
+//Script,onAuctionBegin
+if ((myDirection() == "G") || (myDirection() == "D")) {
+ACT_OPPS = myOpponent(true) + "+" + myOpponent(false);
+if (ACT_OPPS != PREV_OPPS) {
+setChatMessage(findShortcut("UDRom"), true);
+PREV_OPPS = ACT_OPPS;
+}
+}
+//Script
 Option
 Option,Lang EN
 Shortcut,UDRom,We play 2/1 UDCA & O/E discards...Leads from 1st/3rd/5th against suit and 2nd/4th against NT contracts…RKC1430..Good Luck!..\n
