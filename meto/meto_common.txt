@@ -222,6 +222,8 @@ Option,Lang TR
  
 Option
 
+Script,onDataLoad,ds = $("#bboalert-ds option:contains('None')")[0].selected = true;
+
 Import,https://github.com/stanmaz/BBOalert/blob/master/Scripts/BBOstat.txt
 
 //BBOalert
