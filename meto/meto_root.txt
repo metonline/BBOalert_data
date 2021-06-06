@@ -65,7 +65,7 @@ Option,Gazilli,meto+sansmelegi
 Option,xyz1h1s1n,sansmelegi
 Option,Splinter,meto+camomille
 Option,3/1GF,meto+camomille,meto+gypsyqueen, meto+nilsun
-Option,superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,meto+gypsyqueen,meto+ratrut
+Option,Superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,meto+gypsyqueen,meto+ratrut
 Option,multylandy,meto+gypsyqueen,meto+ozbay
 Option,2ler,meto+342257
 Option,2NT,meto+342257
@@ -110,7 +110,7 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_xyz1h1s1n.
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Splinter.txt,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_3x1GF.txt,meto+camomille,meto+gypsyqueen,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_staymanDBL.txt
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_superaccept.txt
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Superaccept.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_multylandy.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2ler.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_puppet.txt
