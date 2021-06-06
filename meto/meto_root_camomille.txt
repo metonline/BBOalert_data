@@ -47,9 +47,8 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Walsh.txt,
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_RangeAskStayman.txt,meto+gurus,meto+camomille,meto+342257,meto+gypsyqueen,meto+nilsun,meto+ratrut
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Drury3way_.txt,meto+camomille,meto+nilsun,meto+gurus,meto+gypsyqueen,meto+ratrut
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Trial.txt,meto+camomille
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_xyz1h1s1n.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Splinter.txt,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_3x1GF.txt,meto+camomille,meto+gypsyqueen,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_staymanDBL.txt
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_superaccept.txt
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Superaccept.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_puppet.txt
