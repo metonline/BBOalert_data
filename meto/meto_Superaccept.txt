@@ -1,5 +1,5 @@
 bboalert
-Option,superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,meto+gypsqueen,meto+ratrut
+Option,Superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,meto+gypsqueen,meto+ratrut
 1N--,2D,Transfer to 2!H
 1N--2D--,2S,maximum & doubleton with no values
 +,2N,4!H; maximum
