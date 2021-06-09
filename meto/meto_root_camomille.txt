@@ -26,6 +26,7 @@ Option,3/1GF,meto+camomille,meto+gypsyqueen, meto+nilsun
 Option,StaymanDBL,meto+camomille,meto+342257,meto+nilsun
 Option,Superaccept,meto+camomille,meto+nilsun,meto+ratrut,meto+gurus,meto+_kafkaf35,meto+gypsyqueen,meto+ozbay
 Option,Puppet,meto+camomille
+Option,Def_vs_Mich,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NFB.txt,meto+camomille,meto+gypsyqueen,meto+nilsun,meto+gurus,meto+ratrut,meto+ozbay
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NTstandart_no_instead_Kacis.txt,meto+camomille
@@ -52,3 +53,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_3x1GF.txt,
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_staymanDBL.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Superaccept.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_puppet.txt
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_defense_vs_Michaels.txt
