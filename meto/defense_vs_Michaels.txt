@@ -1,11 +1,21 @@
 bboalert
 
+Option,Lang EN
+Option,Lang TR
+
+Alias,invite,davet
+Alias,weak or GF,zayıf veya zon forsing
+Option
+
+
 Option,Def_vs_Mich,meto+camomille,meto+342257
 
 1[CD]2D,2H,5+!C;weak or GF
 +,2S,5+!D;weak or GF
-+,3[CD],invite
++,3C,5+!C;invite
++,3D,5+!D;invite
 1[HS]2N,3C,5+!H;weak or GF
 +,3D,5+!S;weak or GF
-+,3[HS],invite
++,3H,5+!H;invite
++,3S,5+!S;invite
 Option
