@@ -240,14 +240,6 @@ var HCP = (MH.match(/A/g) || []).length*4 + (MH.match(/K/g) || []).length*3 + (M
 bboalertLog("HCP = " + HCP); 
 //Script
 
-Shortcut,UO,%UnselectOptions%
-//Script,UnselectOptions
-$("#adpanel button").each(function () {
-this.optionSelected = false;
-setOptionColor(this);
-})
-//Script
-
 //Javascript,https://raw.githubusercontent.com/stanmaz/BBOalert/master/Scripts/stanmazLib.js
 //BBOalert
 //Script,onDataLoad
