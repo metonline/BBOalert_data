@@ -15,13 +15,13 @@ shortcut,MAY,mayyou
 shortcut,PP,pikolo
 
 Option,Lang EN
-Shortcut,wlcBosfor, Welcome to Bosphorus Team Games…Good luck & Enjoy…., width=50% backgroundColor=blanchedalmond
+Shortcut,wlcBosfor, Welcome to Bosphorus Team Games…Good luck & Enjoy….\n, width=50% backgroundColor=blanchedalmond
 Option,Lang TR
-Shortcut,wlcBosfor, Bosphorus Takım Maçına Hoşgeldiniz! Herkese bol şans ve iyi oyunlar!, width=50% peachpuff
+Shortcut,wlcBosfor, Bosphorus Takım Maçına Hoşgeldiniz! Herkese bol şans ve iyi oyunlar!\n, width=50% peachpuff
 Option,Lang EN
-Shortcut,congrat, Congratulations for the winner team…Thanks for joining, width=50% backgroundColor=lightsalmon
+Shortcut,congrat, Congratulations for the winner team…Thanks for joining\n, width=50% backgroundColor=lightsalmon
 Option,Lang TR
-Shortcut,congrat, Katıldığınız için teşekkürler...Kazanan takıma tebrikler, width=50% backgroundColor=lightsalmon
+Shortcut,congrat, Katıldığınız için teşekkürler...Kazanan takıma tebrikler\n, width=50% backgroundColor=lightsalmon
  Option,Lang EN
   Shortcut,hhh,Hello\n, width=50% backgroundColor= peachpuff
   Option,Lang TR
