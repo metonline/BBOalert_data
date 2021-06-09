@@ -11,8 +11,8 @@ Shortcut,MG,meto
 Shortcut,RR,ratrut
 Shortcut,MNN,maan4
 Shortcut,RFF,temizel_55
-shortcut,MAY,mayyou
-shortcut,PP,pikolo
+Shortcut,MAY,mayyou
+Shortcut,PP,pikolo
 
 Option,Lang EN
 Shortcut,wlcBosfor, Welcome to Bosphorus Team Games…Good luck & Enjoy….\n, width=50% backgroundColor=blanchedalmond
