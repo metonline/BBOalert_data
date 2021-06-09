@@ -6,7 +6,7 @@ Shortcut, Shortcuts for the CHAT box, , width=100% backgroundColor=palegreen fon
 Shortcut,BTM, Bosphorus Team Games, width=50% backgroundColor=blanchedalmond
 Shortcut,AAA, Asia, width=50% backgroundColor=lightsalmon
 Shortcut,EEE, Europe, width=50% peachpuff
-Shortcut,MM,342257
+Shortcut,MB,342257
 Shortcut,MG,meto
 Shortcut,RR,ratrut
 Shortcut,MNN,maan4
