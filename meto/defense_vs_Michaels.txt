@@ -1,0 +1,11 @@
+bboalert
+
+Option,Def_vs_Mich,meto+camomille,meto+342257
+
+1[CD]2D,2H,5+!C;weak or GF
++,2S,5+!D;weak or GF
++,3[CD],invite
+1[HS]2N,3C,5+!H;weak or GF
++,3D,5+!S;weak or GF
++,3[HS],invite
+Option
