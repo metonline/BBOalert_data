@@ -1,0 +1,18 @@
+bboalert
+
+Option,Lang EN
+Option,Lang TR
+
+Alias,may have 4-card major,yanında 4.lü majör renk olabilir
+Alias,good !C fit,iyi !C fiti
+Alias,bad !C fit & NF,kötü !C fiti & pas geçilebilir
+Option
+
+
+Opsion,KokishTry
+1D--2C--,2D,5+!D;may have 4-card major
++,2H,4!S4!H4!D1!C
++,2S,15+;good !C fit
++,2N,balanced hand;may have 4-card major
++,3C,12-14;bad !C fit & non-forsing
+Option
