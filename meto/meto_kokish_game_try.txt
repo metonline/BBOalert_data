@@ -3,16 +3,32 @@ bboalert
 Option,Lang EN
 Option,Lang TR
 
-Alias,may have 4-card major,yanında 4.lü majör renk olabilir
+Alias,may have 4-card major or balanced without stoppers in both majors,yanında 4.lü majör renk bulunabilir veya her 2-majörde da keseri olmayan kötü dengeli el
 Alias,good !C fit,iyi !C fiti
 Alias,bad !C fit & non-forsing,kötü !C fiti & pas geçilebilir
+Alias,balanced good hand; may have 4-card major, dengeli iyi el; 4.lü majör bulunabilir
+Alias,Please read chat,lütfen özel mesajı okuyunuz
+Alias,balanced good hand; may have 4-card major,dengeli iyi el; 4.lü majör renk bulunabilir
+Alias,solid !D's,kapalı !D'lar
+Alias,solid !C's,kapalı !C'ler
+Alias,short,kısa
+Alias,weakness in !H,!H'de zaaf
+Alias,weakness in !S,!S'de zaaf
+Alias,
 Option
 
-
 Option,KokishTry
-1D--2C--,2D,5+!D;may have 4-card major
+1D--2C--,2D,Please read chat#5+!D; may have 4-card major or balanced without stoppers in both majors
 +,2H,4!S4!H4!D1!C
-+,2S,15+;good !C fit
-+,2N,balanced hand;may have 4-card major
-+,3C,12-14;bad !C fit & non-forsing
++,2S,15+; good !C fit
++,2N,balanced good hand; may have 4-card major
++,3C,12-14; bad !C fit & non-forsing
++,3D,solid !D's
++,3H,4+!C; short !H
++,3S,4+!C; short !S
+1D--2C--2D--,2H,4!H
++,2S,4!S
++,3C,solid !C's
++,3H,weakness in !H
++,3S,weakness in !S
 Option
