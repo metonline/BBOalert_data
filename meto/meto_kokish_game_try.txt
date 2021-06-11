@@ -14,9 +14,11 @@ Alias,solid !C's,kapalı !C'ler
 Alias,short,kısa
 Alias,weakness in !H,!H'de zaaf
 Alias,weakness in !S,!S'de zaaf
+Alias,maybe short,kısa olabilir
 Option
 
 Option,KokishTry
+1D--,2C,maybe short;2+!C
 1D--2C--,2D,Please read chat#5+!D; may have 4-card major or balanced without stoppers in both majors
 +,2H,4!S4!H4!D1!C
 +,2S,15+; good !C fit
