@@ -14,7 +14,6 @@ Alias,solid !C's,kapalı !C'ler
 Alias,short,kısa
 Alias,weakness in !H,!H'de zaaf
 Alias,weakness in !S,!S'de zaaf
-Alias,
 Option
 
 Option,KokishTry
@@ -29,6 +28,11 @@ Option,KokishTry
 1D--2C--2D--,2H,4!H
 +,2S,4!S
 +,3C,solid !C's
++,3D,!D fit
 +,3H,weakness in !H
 +,3S,weakness in !S
+1D--2C--2N--,3C,solid !C's
++,3D,!D fit
++,3H,4!H
++,3S,4!S
 Option
