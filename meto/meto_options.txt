@@ -48,4 +48,5 @@ Option,FaileCard,meto+camomille
 Option,Puppet,meto+camomille,meto+gurus,meto+gypsyqueen
 Option,1NDev,meto+342257
 Option,Def_vs_Mich,meto+camomille,meto+342257
+Option,KokishTry,meto+camomille
 Option
