@@ -5,7 +5,7 @@ Option,Lang TR
 
 Alias,may have 4-card major,yanında 4.lü majör renk olabilir
 Alias,good !C fit,iyi !C fiti
-Alias,bad !C fit & NF,kötü !C fiti & pas geçilebilir
+Alias,bad !C fit & non-forsing,kötü !C fiti & pas geçilebilir
 Option
 
 
