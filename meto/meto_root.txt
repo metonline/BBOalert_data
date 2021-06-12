@@ -80,6 +80,7 @@ Option,Puppet,meto+camomille,meto+gurus,meto+gypsyqueen,meto+nilsun
 Option,1NDev,meto+342257
 Option,Def_vs_Mich,meto+camomille,meto+342257
 Option,KokishTry,meto+camomille
+Option,GoodBad,meto+camomille
 Option
 
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
@@ -126,3 +127,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_puppet.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_1NDev.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_defense_vs_Michaels.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_kokish_game_try.txt
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_good_bad.txt
