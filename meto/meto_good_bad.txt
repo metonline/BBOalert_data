@@ -1,0 +1,15 @@
+bboalert
+
+Option,Lang EN
+Option,Lang TR
+Alias,Transfer to 3!C for relaying,3!C'e transfer (röle için)
+Alias,Automatic,Otomatik
+Option
+
+Option,GoodBad,meto+camomille
+1[CD]1SDb2S,2N,Transfer to 3!C for relaying
++,3H,15+HCP; 4!H
+1[CD]1SDb2S2N--,3C,Automatic
++,3D,17+HCP
+Option
+
