@@ -1,7 +1,6 @@
 BBOalert,<b><br>meto 210509<br></b>,
 
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_common.txt
-
 Shortcut, Shortcuts for the CHAT box, , width=100% backgroundColor=palegreen fontSize=18px
 Shortcut,BTM, Bosphorus Team Games
 Shortcut,AAA, Asia
@@ -13,7 +12,6 @@ Shortcut,MNN,maan4
 Shortcut,RFF,temizel_55
 Shortcut,MAY,mayyou
 Shortcut,PP,pikolo
-
 Option,Lang EN
 Shortcut,wlcBosfor, Welcome to Bosphorus Team Games…Good luck & Enjoy….\n, width=50% backgroundColor=blanchedalmond
 Option,Lang TR
@@ -22,20 +20,19 @@ Option,Lang EN
 Shortcut,congrat, Congratulations for the winner team…Thanks for joining\n, width=50% backgroundColor=lightsalmon
 Option,Lang TR
 Shortcut,congrat, Katıldığınız için teşekkürler...Kazanan takıma tebrikler\n, width=50% backgroundColor=lightsalmon
- Option,Lang EN
-  Shortcut,hhh,Hello\n, width=50% backgroundColor= peachpuff
-  Option,Lang TR
-  Shortcut,hhh,Selamlar\n, width=50% backgroundColor= peachpuff
- Option,Lang EN
-Shortcut,ttt, Thank you ! \n, width=50% backgroundColor=greenyellow
- Option,Lang TR
-Shortcut,ttt, Teşekkürler! \n, width=50% backgroundColor= greenyellow
-  Option,Lang EN
-Shortcut,gl, good luck! \n, width=50% backgroundColor=navajowhite
+Option,Lang EN
+Shortcut,hhh,Hello\n,
 Option,Lang TR
-Shortcut,gl, İyi oyunlar! \n, width=50% backgroundColor=navajowhite
+Shortcut,hhh,Selamlar\n,
+Option,Lang EN
+Shortcut,ttt, Thank you ! \n,
+Option,Lang TR
+Shortcut,ttt, Teşekkürler! \n,
+Option,Lang EN
+Shortcut,gl, good luck! \n,
+Option,Lang TR
+Shortcut,gl, İyi oyunlar! \n,
 Option
-
 Option,InterventinMajorFit,meto+camomille, meto+gurus, meto+gypsyqueen, meto+ozbay, meto+ratrut, meto+nilsun
 Option,NFB,meto+camomille, meto+gypsyqueen, meto+nilsun, meto+gurus, meto+ratrut, meto+ozbay
 Option, XYZ no instead NMF, meto+gypsyqueen
@@ -82,7 +79,6 @@ Option,Def_vs_Mich,meto+camomille,meto+342257
 Option,KokishTry,meto+camomille
 Option,GoodBad,meto+camomille
 Option
-
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NFB.txt,meto+camomille,meto+gypsyqueen,meto+nilsun,meto+gurus,meto+ratrut,meto+ozbay
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_XYZ_or_NMF.txt,meto+gypsyqueen
