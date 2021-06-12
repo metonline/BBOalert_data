@@ -28,6 +28,7 @@ Option,Superaccept,meto+camomille,meto+nilsun,meto+ratrut,meto+gurus,meto+_kafka
 Option,Puppet,meto+camomille
 Option,Def_vs_Mich,meto+camomille
 Option,KokishTry,meto+camomille
+Option,GoodBad,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NFB.txt,meto+camomille,meto+gypsyqueen,meto+nilsun,meto+gurus,meto+ratrut,meto+ozbay
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NTstandart_no_instead_Kacis.txt,meto+camomille
@@ -56,3 +57,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Superaccep
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_puppet.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_defense_vs_Michaels.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_kokish_game_try.txt
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_good_bad.txt
