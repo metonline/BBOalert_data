@@ -6,7 +6,7 @@ Alias,ask about shortage,kısalık sorusu
 Alias,short minor,kısa minör
 Alias,short major,kısa majör
 Alias,and,ve
-Alias,Solid / Semi-solid long minor suit & 4-card major fit,Kapalı / Yarı-kapalı uzun minör renk
+Alias,Solid / Semi-solid long minor suit & 4-card major fit,Kapalı / Yarı-kapalı uzun minör renk & 4.lü majör fiti
 Alias,balanced,dengeli
 Alias,4-card fit,4.lü fit
 Option
