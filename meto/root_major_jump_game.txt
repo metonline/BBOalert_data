@@ -6,13 +6,16 @@ Alias,ask about shortage,kısalık sorusu
 Alias,short minor,kısa minör
 Alias,short major,kısa majör
 Alias,and,ve
+Alias,Solid / Semi-solid long minor suit & 4-card major fit,Kapalı / Yarı-kapalı uzun minör renk
+Alias,balanced,dengeli
+Alias,4-card fit,4.lü fit
 Option
 
 Option,majorgame,meto+camomille,meto+ratrut,meto+gypsyqueen
-1[CD]--1[HS]--,3N,Solid 6+(![CD])-4(![HS])
-+,4C,4(![HS]);17-19 and short minor
-+,4D,4(![HS]);17-19 and short major
-+,4[HS],4(![HS]) fit; 18-19
+1[CD]--1[HS]--,3N,Solid / Semi-solid long minor suit & 4-card major fit
++,4C,4-card fit;17-19 and short minor
++,4D,4-card fit;17-19 and short major
++,4[HS],4-card fit; 18-19 & balanced
 1[CD]--1[HS]--3N--,4C,ask about shortage
 1[CD]--1[HS]--3N--4C,4D,short minor
 +,4D,short major
