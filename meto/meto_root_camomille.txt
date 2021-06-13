@@ -29,6 +29,7 @@ Option,Puppet,meto+camomille
 Option,Def_vs_Mich,meto+camomille
 Option,KokishTry,meto+camomille
 Option,GoodBad,meto+camomille
+Option,majorgame,meto+camomille,meto+ratrut,meto+gypsyqueen
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NFB.txt,meto+camomille,meto+gypsyqueen,meto+nilsun,meto+gurus,meto+ratrut,meto+ozbay
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NTstandart_no_instead_Kacis.txt,meto+camomille
@@ -52,9 +53,11 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Drury3way_
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Trial.txt,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Splinter.txt,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_3x1GF.txt,meto+camomille,meto+gypsyqueen,meto+nilsun
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_staymanDBL.txt
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Superaccept.txt
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_puppet.txt
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_defense_vs_Michaels.txt
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_kokish_game_try.txt
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_good_bad.txt
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_staymanDBL.txt,meto+camomille
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Superaccept.txt,meto+camomille
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_puppet.txt,meto+camomille
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_defense_vs_Michaels.txt,meto+camomille
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_kokish_game_try.txt,meto+camomille
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_good_bad.txt,meto+camomille
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_major_jump_game.txt,meto+camomille
+
