@@ -50,4 +50,5 @@ Option,1NDev,meto+342257
 Option,Def_vs_Mich,meto+camomille,meto+342257
 Option,KokishTry,meto+camomille
 Option,GoodBad,meto+camomille
+Option,majorgame,meto+camomille,meto+ratrut,meto+gypsyqueen
 Option
