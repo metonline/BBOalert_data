@@ -1,8 +1,7 @@
 bboalert
 
 Option,Lang EN
-Oprion,Lang TR
-
+Option,Lang TR
 Alias,ask about shortage,kısalık sorusu
 Alias,short minor,kısa minör
 Alias,short major,kısa majör
