@@ -17,7 +17,7 @@ Option,majorgame,meto+camomille,meto+ratrut,meto+gypsyqueen
 +,4D,4-card fit;17-19 and short major
 +,4[HS],4-card fit; 18-19 & balanced
 1[CD]--1[HS]--3N--,4C,ask about shortage
-1[CD]--1[HS]--3N--4C,4D,short minor
-+,4D,short major
+1[CD]--1[HS]--3N--4C--,4D,short minor
++,4H,short major
 Option
 
