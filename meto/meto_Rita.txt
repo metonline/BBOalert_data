@@ -3,7 +3,7 @@ bboalert,Rita
 
 
 Option, Rita
-1C,2+!C; 11+HCP
+,1C,2+!C; 12+HCP
 1C--,1D,could be short; 6+HCP 
 1C--1D--,1H,5+!C-4!H; 11-17 HCP 
 1C--1D--1H--,2C,transfer to 2!d for signoff / invite for game
@@ -70,7 +70,7 @@ Option, Rita
 1C--,3H,(6/7)!H's; 0-5 HCP
 1C--,3N,13-16 HCP; To Play
 1C--,3S,(6/7)!S; 0-5 HCP
-1D,4+!d; 11+HCP 
+,1D,4+!d; 12+HCP 
 1D--,1H,5-12 HCP; 4+!H
 1D--1H--1N--,2C,transfer to 2!d for signoff / invite for game
 1D--1H--1N--2C--,2D,relay
@@ -107,7 +107,7 @@ Option, Rita
 1D--,3H,(6/7)!H; 0-5 HCP
 1D--,3N,13-16 HCP; To Play
 1D--,3S,(6/7)!S; 0-5 HCP
-1H,5+!h; 11+HCP
+,1H,5+!h; 11+HCP
 1H--,1N,5-12 HCP
 1H--,1S,4+!s ; 5+ HCP
 1H--1S--,1N,5!h332 ; 11-13 HCP 
@@ -116,7 +116,7 @@ Option, Rita
 1H--1S--1N--,2D,GF ; ask about shape
 1H--1S--1N--,2N,transfer to 2!c for signoff / GF with 55 hand
 1N, good 14-17 HCP ; could have 5-card major and offshape as 5431 or 1444
-1S,5+!s ; 11+ HCP
+,1S,5+!s ; 11+ HCP
 1S--,1N,5-12 HCP
 1H--1N--,2S,18+;5!H-4!S
 +,2N,Transfer to 3!C
