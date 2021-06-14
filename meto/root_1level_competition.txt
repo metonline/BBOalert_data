@@ -95,8 +95,8 @@ Option,1levelComp
 1D1S,2N,!C fit weak or GF
 1D1S,2S,balanced invite or 5+(!c/!h); 13+
 1D1S2S--,2N,minimum hand
-1D1S2S--2N--,3C,GF in other minor
-1D1S2S--2N--,3D,GF in other major
+1D1S2S--2N--,3C,5+!H; GF 
+1D1S2S--2N--,3D,5+!C; GF
 1D1S2S--2N--,3S,transfer to 3NT
 1D1S2S--,3C,some extras
 1D1S2S--3C--,3D,GF in the other major
