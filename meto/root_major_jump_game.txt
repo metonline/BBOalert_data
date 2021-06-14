@@ -15,7 +15,7 @@ Script,X,R = C.match(makeRegExp(CR))[1];
 Script,Z,R = B.match(makeRegExp(BR))[1];
 Option,majorgame,meto+camomille,meto+ratrut,meto+gypsyqueen
 1([CD])--,1([HS]),4+!%Z%; 5+HCP
-1([CD])--1([HS])--,3N,Solid-Semi-solid long !%X% & 4-card fit
+1([CD])--1([HS])--,3N,Solid-Semi-solid long !%X% & 4%Z%
 +,4C,4-card fit;17-19 and short minor
 +,4D,4-card fit;17-19 and short major
 +,4[HS],4-card fit; 18-19 & balanced
