@@ -5,7 +5,6 @@ Major 2NT
 
 Option, Major 2NT
 Script,X,R = C.match(makeRegExp(CR))[1];
-,1[HS],maybe<12
 1([HS])--,2N,3/4!%X%; 5-12
 1[HS]--2N--,3C, 17+
 +,3D, 14-16
