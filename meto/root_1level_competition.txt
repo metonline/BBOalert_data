@@ -21,7 +21,7 @@ Alias,!C fit GF; no !S stopper,!C fiti zon-forsing; !S stoperi yok
 Alias,!C fit GF; no !h stopper,!C fiti zon-forsing; !H stoperi yok
 Alias,balanced invite or 5+(!c/!h); 13+,dengeli davet ya da 5+(!c/!h)
 Alias,!d fit GF; no !h stopper,!D fiti zon-forsing; !H stoperi yok
-Alias,!D fit GF; no !S stopper,!S fiti zon-forsing; !S stoperi yok
+Alias,!D fit GF; no !S stopper,!D fiti zon-forsing; !S stoperi yok
 Option
 
 Option,1levelComp
