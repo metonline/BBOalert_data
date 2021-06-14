@@ -3,9 +3,11 @@ bboalert,Major 2NT
 
 Major 2NT
 
-Option, Major 2NT
 Script,X,R = C.match(makeRegExp(CR))[1];
-1([HS])--,2N,3/4!%X%; 5-12
+Script,Y,R = B.match(makeRegExp(BR))[1]
+Option, Major 2NT
+,1([HS]),5+!%Y% maybe<12
+1([HS])--,2N,(3/4)!%X%; 5-12
 1[HS]--2N--,3C, 17+
 +,3D, 14-16
 1H--2N--,3H, 11-13
