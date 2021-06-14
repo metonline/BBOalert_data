@@ -5,7 +5,6 @@ Option,Lang TR
 Alias,5+!C with !D stopper,!D stoperi olan 5+!C
 Alias,5+!C with no !D stopper,!D stoperi olmayan 5+!C
 Alias,strong take-out,güçlü take-out
-Alias,or,ya da
 Alias,!C fit weak or GF,zayıf !C fiti veya zon-forsing
 Alias,!d fit weak or GF,zayıf !d fiti veya zon-forsing
 Alias,transfer to 3NT,3NT'ye transfer
