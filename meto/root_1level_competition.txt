@@ -21,6 +21,7 @@ Alias,!C fit GF; no !S stopper,!C fiti zon-forsing; !S stoperi yok
 Alias,!C fit GF; no !h stopper,!C fiti zon-forsing; !H stoperi yok
 Alias,balanced invite or 5+(!c/!h); 13+,dengeli davet ya da 5+(!c/!h)
 Alias,!d fit GF; no !h stopper,!D fiti zon-forsing; !H stoperi yok
+Alias,!D fit GF; no !S stopper,!S fiti zon-forsing; !S stoperi yok
 Option
 
 Option,1levelComp
@@ -101,8 +102,8 @@ Option,1levelComp
 1D1S2S--3C--,3D,GF in the other major
 1D1S2S--3C--,3H,GF in the other minor
 1D1S2S--3C--,3S,transfer to 3NT
-1D1S,3C,!C fit; invite
-1D1S,3D,!C fit GF; no !S stopper
+1D1S,3C,!D fit GF; no !S stopper
+1D1S,3D,!D fit; invite
 1D1S,Db,7-12; take-out
 1H1S,1N,5+!C; 6-12
 1H1S,2C,5+!D; 6-12
