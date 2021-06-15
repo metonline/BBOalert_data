@@ -166,6 +166,12 @@ Alias,no-fit to other suits,başka renklere fit yok
 Alias,self-sustained,kaliteli renk
 Alias,game forsing,zon forsing
 Alias,game force,zon forsing
+Alias,balanced with !D stopper;,!D keseri olan dengeli el
+Alias,balanced with !h stopper;,!h keseri olan dengeli el
+Alias,balanced with !s stopper;,!s keseri olan dengeli el
+Alias,no !d stopper,!d keseri yok
+Alias,no !h stopper,!H keseri yok
+Alias,no !s stopper,!s keseri yok
 Option
 
 Option, F_1,meto+342257
@@ -276,38 +282,36 @@ Option, F_1,meto+342257
 1C1D,2C,Strong take-out for !D | 10+ HCP
 1C1D,2D,6+!h's | 0-5 HCP or 5+!H's | 10+HCP
 1C1D,2H,6+!S's | 0-5 HCP or 5+!S's | 10+HCP
+1C1D,2S,balanced with !D stopper; 8-9
 1C1D,2N,5+!c's | 0-2 HCP or 10+HCP
-1C1D,2S,Transfer to 2NT
 1C1D,3C,5+!c's | 8-9 HCP
-1C1D,3D,ask about !D stopper
-1C1D,3N,To Play
-1C1D,3S,Transfer to 3NT
+1C1D,3C,5+!c's | 10+HCP | no !d stopper
 1C1D,Db,4+!h | 5-9 HCP | take-out for !D
-1C1H,1N,5+!c's | 3-7 HCP
-1C1H,1S,4!S's | 5-9 HCP | take-out for !h
+1C1H,Db,4+!S | 5-9 HCP
+1C1H,1S,5+!c's | 3-7 HCP | no !D stopper
+1C1H,1N,5+!c's | 3-7 HCP | !D stopper
 1C1H,2C,5+!D's | 5-9 HCP
 1C1H,2D,Strong take-out for !H | 10+ HCP
 1C1H,2H,6+!S | 0-2 HCP or 5+!S | 10+HCP
+1C1H,2S,balanced with !D stopper; 8-9 | 5+!D; 10+
 1C1H,2N,5+!c's | 0-2 HCP or 10+HCP
-1C1H,2S,Transfer to 2NT with 8-9 HCP
 1C1H,3C,5+!c's | 8-9 HCP
-1C1H,3D,ask about !H stopper
-1C1H,3H,5+!D's | 10+HCP | jump-cuebid
-1C1H,3N,To Play
-1C1H,3S,Transfer to 3NT with 10-12 HCP
-1C1H,Db,5+!s | 3-9 HCP 
+1C1H,3D,5+!c's | 10+HCP | no !H stopper
+1C1H2S--,2N,minimum hand
++,3C,extra values
+1C1H2S--2N--,3C,5+!D; 10+
+1C1H2S--3C--,3H,5+!D; 10+
++,3S,Transfer to 3NT
+1C1S,Db,take-out for !s's | 5-9 HCP
 1C1S,1N,5+!c's | 3-7 HCP
 1C1S,2C,5+!D's | 5-9 HCP
 1C1S,2D,5+!h's | 3-9 HCP
 1C1S,2H,Strong take-out for !s | 10+ HCP
+1C1S,2S,balanced with !s stopper; 8-9
 1C1S,2N,5+!c's | 0-2 HCP or 10+HCP
-1C1S,2S,Transfer to 2NT
 1C1S,3C,5+!c's | 8-9 HCP
-1C1S,3D,6+!h's | 0-2 HCP or 5+!H's | 10+HCP
-1C1S,3H,ask about !S stopper
-1C1S,3N,To Play
-1C1S,3S,5+!D's | 10+HCP | jump-switch
-1C1S,Db,take-out for !s's | 5-9 HCP 
+1C1S,3D,5+!c's | 10+HCP | no !s stopper
+
 1C2H,2N,Transfer to 3!C | lebenshol
 1C2H2N--,3C,relay
 1C2H2N--3C--,3D,8-9 HCP
@@ -1003,19 +1007,22 @@ Option, F_1,meto+342257
 1C--,3D,10-15 HCP | 5!H-5!s
 1C--,3H,10-15 HCP | 5!D-5!H
 1C--,3S,10-15 HCP | 5!D-5!S
-1D1H,1N,5+!c's | 5-9 HCP
-1D1H,1S,4!S's | 6-9 HCP | take-out for !h's
+
+1D1H,Db,4+!s | 5-9 HCP 
+1D1H,1S,5+!c's | 5-9 HCP | no !H stopper
+1D1H,1N,5+!c's | 5-9 HCP | !H stopper
 1D1H,2C,4+!D's | 3-7 HCP
 1D1H,2D,Strong take-out for !H's | 10+ HCP
 1D1H,2H,6+!S | 0-2 HCP or 5+!S | 10+HCP
 1D1H,2N,4+!D's | 0-2 HCP or 10+HCP
-1D1H,2S,Transfer to 2NT with 8-9 HCP
-1D1H,3C,ask about !H stopper
-1D1H,3D,8-9 HCP
-1D1H,3H,5+!c's | 10+HCP | jump-cuebid
-1D1H,3N,To Play
-1D1H,3S,Transfer to 3NT with 10-12 HCP
-1D1H,Db,5+!s | 6-9 HCP 
+1D1H,2S,balanced with !H stopper; 8-9 | 5+!C; 10+
+1D1H,3C,4+!D; 10+HCP | no !H stopper
+1D1H,3D,4+!D; 8-9 HCP
+1D1H2S--,2N,minimum hand
++,3C,extra values
+1D1H2S--2N--,3D,5+!C; 10+
+1D1H2S--3C--,3D,5+!C; 10+
++,3S,Transfer to 3NT
 1D1N,2C,5+!h's-4+!S's
 1D1N,2D,to play | <8 HCP 
 1D1N,2H,to play | <8 HCP 
@@ -1029,10 +1036,14 @@ Option, F_1,meto+342257
 1D1S,2D,5+!h's | 3-9 HCP
 1D1S,2H,strong take-out for !s's | 10+ HCP
 1D1S,2N,4+!d's | 0-2 HCP or 10+HCP
-1D1S,2S,Transfer to 2NT with 8+ HCP
-1D1S2S--,2N,Automatic
-1D1S2S--2N--,3C,GF in !C | 13+ HCP
-1D1S2S--2N--,3D,GF in !D | 13+ HCP
+1D1S,2S,balanced with !S stopper; 8-9 | 5+!C/!H; 10+
+1D1S2S--,2N,minimum hand
++,3C,extra values
+1D1S2S--2N--,3C,GF in !H | 10+ HCP
++,3D,GF in !C | 10+ HCP
+1D1S2S--3C--,3D,5+!H; 10+
++,3H,5+!C; 10+
++,3S,Transfer to 3NT
 1D1S,3C,6+!h's | 0-2 HCP or 10+HCP
 1D1S,3D,4+!d's | 8-9 HCP
 1D1S,3H,asking about !S stopper
