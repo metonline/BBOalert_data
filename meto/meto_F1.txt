@@ -1,4 +1,4 @@
-bboalert,F_1
+bboalert,F1
 
 Option,Lang EN
 Option,Lang TR
