@@ -6,7 +6,7 @@ Alias,ask about shortage,kısalık sorusu
 Alias,short minor,kısa minör
 Alias,short major,kısa majör
 Alias,and,ve
-Alias,Solid & Semi-solid 6+!%BR2% and 4!%BR3%,Kapalı & Yarı-kapalı 6+!%BR2% ve 4.lü !%BR3% fiti
+Alias,solid & semi-solid 6+!%BR2% and 4!%BR3%,kapalı & yarı-kapalı 6+!%BR2% ve 4.lü !%BR3% fiti
 Alias,balanced,dengeli
 Alias,4-card fit,4.lü fit
 Alias,
@@ -17,9 +17,9 @@ Script,BR2,R = C.match(makeRegExp(CR))[1];
 Script,BR3,R = C.match(makeRegExp(CR))[2];
 Option,majorgame,meto+camomille,meto+ratrut,meto+gypsyqueen
 1([CD])--,1([HS]),4+!%BR1%; 5+HCP
-1([CD])--1([HS])--,3N,Solid & Semi-solid 6+!%BR2% and 4!%BR3%
-+,4C,4!%BR3%;17-19 and short minor
-+,4D,4!%BR3%;17-19 and short major
+1([CD])--1([HS])--,3N,solid & semi-solid 6+!%BR2% and 4!%BR3%
++,4C,4!%BR3%; 17-19 and short minor
++,4D,4!%BR3%; 17-19 and short major
 +,4[HS],4!%BR3%; 18-19 & balanced
 1[CD]--1[HS]--3N--,4C,ask about shortage
 1[CD]--1[HS]--3N--4C--,4D,short minor
