@@ -10,7 +10,7 @@ Option,DefenseNTBalance, meto+nilsun, meto+gurus, meto+ratrut, meto+gypsyqueen, 
 Option,when_competition_on_NT, meto+ratrut, meto+342257, meto+nilsun, meto+gypsyqueen
 Option,Def2Mon1m, meto+camomille, meto+gurus, meto+nilsun, meto+ozbay, meto+ratrut, meto+gypsyqueen, meto+342257
 Option,RangeAskStayman, meto+gurus, meto+camomille, meto+342257, meto+gypsyqueen, meto+nilsun, meto+ratrut
-Option,F_1, meto+342257
+Option,F1, meto+342257
 Option,2ler,meto+342257
 Option,Superaccept,meto+camomille,meto+nilsun,meto+ratrut,meto+gurus,meto+_kafkaf35,meto+gypsyqueen,meto+ozbay
 Option,Trial,meto+camomille,meto+342257
@@ -28,7 +28,7 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_DefenseNTB
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_when_competition_on_NT.txt,meto+ratrut,meto+342257,meto+nilsun,meto+gypsyqueen
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Def2Mon1m.txt,meto+camomille,meto+gurus,meto+nilsun,meto+ozbay,meto+ratrut,meto+gypsyqueen,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_RangeAskStayman.txt,meto+gurus,meto+camomille,meto+342257,meto+gypsyqueen,meto+nilsun,meto+ratrut
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_F_1.txt,meto+342257
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_F1.txt,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_staymanDBL.txt,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Superaccept.txt,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2ler.txt,meto+342257
