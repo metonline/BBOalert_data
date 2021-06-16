@@ -63,7 +63,7 @@ Option, Walsh, meto+camomille, meto+nilsun, meto+ozbay, meto+gurus, meto+_kafkaf
 Option,RangeAskStayman, meto+gurus, meto+camomille, meto+342257, meto+gypsyqueen, meto+nilsun, meto+ratrut
 Option,Drury3way_@3@4,meto+camomille, meto+nilsun, meto+gurus, meto+gypsyqueen, meto+ratrut
 Option, Rita, meto+ratrut 
-Option,F_1, meto+342257
+Option,F1, meto+342257
 Option,Trial,meto+camomille,meto+342257
 Option,Gazilli,meto+sansmelegi
 Option,xyz1h1s1n,sansmelegi
@@ -112,7 +112,7 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Walsh.txt,
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_RangeAskStayman.txt,meto+gurus,meto+camomille,meto+342257,meto+gypsyqueen,meto+nilsun,meto+ratrut
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Drury3way_.txt,meto+camomille,meto+nilsun,meto+gurus,meto+gypsyqueen,meto+ratrut
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Rita.txt,meto+ratrut 
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_F_1.txt,meto+342257
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_F1.txt,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Trial.txt,meto+camomille,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Gazilli.txt,meto+sansmelegi
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_xyz1h1s1n.txt
