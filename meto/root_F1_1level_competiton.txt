@@ -28,7 +28,7 @@ Alias,no !S stopper,!S keseri yok
 Alias,preemptive,blokatif
 Option
 
-Option,1Levelcompetion
+Option,1Levelcompetition
 1C1D,1H,4+!S; 4-9
 1C1D,1N,5+!C with !D stopper; 4-7
 1C1D,1S,5+!C with no !D stopper; 4-7
