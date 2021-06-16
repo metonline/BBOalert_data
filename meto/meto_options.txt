@@ -31,7 +31,7 @@ Option,Walsh, meto+camomille, meto+nilsun, meto+ozbay, meto+gurus, meto+_kafkaf3
 Option,RangeAskStayman, meto+gurus, meto+camomille, meto+342257, meto+gypsyqueen, meto+nilsun, meto+ratrut
 Option,Drury3way_@3@4,meto+camomille, meto+nilsun, meto+gurus, meto+gypsyqueen, meto+ratrut
 Option,Rita, meto+ratrut 
-Option,F_1, meto+342257
+Option,F1, meto+342257
 Option,Trial,meto+camomille
 Option,Gazilli,meto+sansmelegi
 Option,Splinter,meto+camomille
