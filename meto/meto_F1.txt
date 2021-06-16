@@ -1301,17 +1301,6 @@ Option,F1,meto+342257
 1D--,3D,4+!D's | 0-5 HCP
 1D--,3H,10+HCP | 5!h-5!C
 1D--,3S,10+HCP | 5!S-5!C
-1H1S,2H,10+HCP | !C+!d
-1H2C,2D,8-9 HCP | 5+!S (switch)
-1H2C,2H,3-7 HCP
-1H2C,2N,8-9 HCP | 4+!H
-1H2C,2S,8-9 HCP | 5+!d (switch)
-1H2C,3C,8-9 HCP | 3!H's
-1H2C,3D,10+HCP | 5+!S (jump-switch)
-1H2C,3H,To Play
-1H2C,3N,To Play
-1H2C,3S,10+HCP | 5+!d (jump-switch)
-1H2C,Db,5+HCP | take-out
 ,1H,11+HCP | 1-round forcing
 1HDb,1N,6+!C's | 0-6 HCP
 1HDb,1S,4+!S's | 0-6 HCP
