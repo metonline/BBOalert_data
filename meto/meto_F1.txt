@@ -1,4 +1,4 @@
-bboalert,F1
+bboalert
 
 Option,Lang EN
 Option,Lang TR
@@ -123,7 +123,7 @@ Alias,Strong slam try in !C,!C'ten güçlü şilem denemesi
 Alias,Mild slam try in !d,!d'dan hafif şilem denemesi
 Alias,Strong slam try in !d,!d'dan güçlü şilem denemesi
 Alias,playing tricks,alıcı löve
-Alias,ask about extras,eksta sorusu
+Alias,ask about extras,eksta değer sorusu
 Alias,(5/6)!C's with no !h stopper,(5/6)!C !H stoperi yok
 Alias,(5/6)!d's with no !h stopper,(5/6)!d !H stoperi yok
 Alias,!H & !s stoppers,!H ve !S stoperi
@@ -175,9 +175,10 @@ Alias,no !s stopper,!s keseri yok
 Alias,strong take-out for !s's,!S'e güçlü take-out
 Alias,strong take-out for !h's,!h'e güçlü take-out
 Alias,strong take-out for !d's,!d'ya güçlü take-out
+Alias,asking about cues,kontrol sorusu
 Option
 
-Option, F_1,meto+342257
+Option,F1,meto+342257
 2D,2H,T/O for !H
 2D2H--,2N,Transfer to 3!C
 2D2H--2N--,3C,Automatic
@@ -985,85 +986,6 @@ Option, F_1,meto+342257
 1D1N,3D,to play | <6 HCP 
 1D1N,Db,9+HCP | penalty
 
-1D2C,2D,6-9 HCP
-1D2C,2H,6-9 HCP
-1D2C,2N,11-12 HCP
-1D2C,2S,6-9 HCP
-1D2C,3C,5+!d'S | 13+HCP
-1D2C,3D,0-5 HCP
-1D2C,3H,0-5 HCP
-1D2C,3N,To Play
-1D2C,3S,0-5 HCP
-1D2C,4H,8-10 HCP | semi-solid !h | no shortness or side-suit control
-1D2C,4S,8-10 HCP | semi-solid !S | no shortness or side-suit control
-1D2C,Db,10+HCP
-1D2CDb--,1N,11-14 HCP balanced with !S stopper | denies 4-card !H 
-1D2CDb--1N--,2C,5+!c | 10-12 HCP
-1D2CDb--1N--,2D,5+!d | 10-12 HCP
-1D2CDb--1N--,2H,5+!h | 10-12 HCP
-1D2CDb--1N--,2N,11-12 HCP
-1D2CDb--1N--,2S,13+HCP | asking stopper in !S
-1D2CDb--1N--,3C,6+!C | 13+HCP
-1D2CDb--1N--,3D,5+!D | 13+HCP
-1D2CDb--1N--,3H,6+!h | 13+ HCP
-1D2CDb--1N--,3N,To Play
-1D2CDb--1N--,3S,5!h-5!c | 13+HCP
-1D2CDb--,2C,4+!C's | 11-14 HCP
-1D2CDb--2C--,2D,5+!D | 10-12 HCP 
-1D2CDb--2C--,2H,5+!h | 10-12 HCP
-1D2CDb--2C--,2N,4!h | 11-12 HCP | stopper in !S
-1D2CDb--2C--,2S,13+HCP | asking stopper in !S
-1D2CDb--2C--2S--,2N,11-14 balanced | stopper in !S
-1D2CDb--2C--2S--,3H,3!H's | 11-14 HCP | no !S stopper
-1D2CDb--2C--,3C,4+!c | 10-12 HCP
-1D2CDb--2C--,3D,5+!d | 13+HCP
-1D2CDb--2C--,3H,6+!h | 13+HCP
-1D2CDb--2C--,3N,To Play
-1D2CDb--2C--,3S,Transfer to 3NT
-1D2CDb--,2D,5+!D | 11-14 HCP
-1D2CDb--2D--,2H,5+!h | 10-12 HCP
-1D2CDb--2D--,2N,11-12 HCP | stopper in !C
-1D2CDb--2D--,2S,5+!S | 10-12 HCP
-1D2CDb--2D--2S--,2N,11-14 balanced | stopper in !S
-1D2CDb--2D--2S--,3H,3!H's | 11-14 HCP | no !S stopper
-1D2CDb--2D--,3C,6+!c | 10-12 HCP
-1D2CDb--2D--,3D,3+!d | 10-12 HCP
-1D2CDb--2D--,3H,13+HCP
-1D2CDb--2D--,3N,To Play
-1D2CDb--2D--,3S,13+HCP
-1D2CDb--2D--,4D,slam try | ask about key-cards
-1D2CDb--,2H,4+!d-4!H | 11-14 HCP
-1D2CDb--2H--,2N,11-12 HCP
-1D2CDb--2H--,2S,5+!s | 10-12 HCP 
-1D2CDb--2H--,3C,13+HCP | asking stopper in !S
-1D2CDb--2H--,3D,10-12 HCP
-1D2CDb--2H--,3H,10-12 HCP
-1D2CDb--2H--,3N,To Play
-1D2CDb--2H--,3S,13+HCP
-1D2CDb--2H--,4D,slam try | ask about key-cards in !D
-1D2CDb--2H--,4H,To Play
-1D2CDb--,2N,15-17 HCP | stopper in !c | denies 4-card major
-1D2CDb--,2S,18+ HCP
-1D2CDb--2S--,2N,11-12 HCP
-1D2CDb--2S--,3C,13+HCP | asking stopper in !C
-1D2CDb--2S--,3D,4!H-4+!d | 11-12 HCP
-1D2CDb--2S--,3H,12+HCP
-1D2CDb--2S--,3N,To Play
-1D2CDb--2S--,3S,10-12 HCP
-1D2CDb--,3C,18+HCP | ask about stopper in !C
-1D2CDb--,3D,6+!D | 15-17 HCP
-1D2CDb--,3H,4+!d-4!H | 15-17 HCP
-1D2CDb--3H--,3S,13+ HCP | ask about stopper in !S
-1D2CDb--3H--3S--,3N,stopper in !S
-1D2CDb--3H--3S--3N--,4H,ask about key-cards in !H
-1D2CDb--3H--3S--,4C,no stopper in !S
-1D2CDb--3H--3S--4C--,4H,ask about key-cards in !H
-1D2CDb--3H--,4C,ask about key-cards in !C
-1D2CDb--3H--,4H,To Play
-1D2CDb--,3N,18-19 HCP | 2 stoppers in !c | denies 4-card major suit
-1D2CDb--,3S,4+!d-4!s | 15-17 HCP
-1D2CDb--,4H,15-17 HCP | 6+!D-4!H
-1D2CDb--,4S,15-17 HCP | 6+!D-4!s
 1D2H,2N,Transfer to 3!C | lebenshol
 1D2H2N--,3C,relay | no game interest in !C's if invitational in !C's
 1D2H2N--3C--,3D,0-7 HCP
@@ -1083,8 +1005,6 @@ Option, F_1,meto+342257
 1D2HDb--2N--,3S,5!s-4!d | 8-9 HCP
 ,1D,14+ HCP
 1DDb,1H,4+!S | 6-9 HCP
-
-
 1DDb,3D,4+!D; 8-9 HCP
 1DDb,3N,To Play
 1DDb,3S,Transfer to 3NT | 10-13 HCP | balanced hand
@@ -1396,9 +1316,9 @@ Option, F_1,meto+342257
 1HDb,1N,6+!C's | 0-6 HCP
 1HDb,1S,4+!S's | 0-6 HCP
 1HDb,2C,6+!D's | 0-6 HCP
-1HDb,2D,3!H's | 5+HCP
-1HDb,2H,3!H's | 3-4 HCP
-1HDb,2N,4+!H's | 7+HCP
+1HDb,2D,3!H | 5+HCP
+1HDb,2H,3!H | 3-4 HCP
+1HDb,2N,4+!H | 7+HCP
 1HDb,Rd,7+HCP | no !H fit
 1H--,1N,0-9 HCP | forcing for 1-round
 1H--1N--,2C,Forcing for 1-round
@@ -2406,7 +2326,7 @@ Option, F_1,meto+342257
 1H--3D--3H--,4C,single !D
 1H--3D--3H--,4D,single !s
 1H--,3H,0-5 HCP
-1H--3H--,3N,asking cues
+1H--3H--,3N,asking about cues
 1H--3H--,3S,!s-!D controls
 1H--3H--,4C,!C-!s controls
 1H--3H--,4D,!d-!c controls
@@ -2436,21 +2356,6 @@ Option, F_1,meto+342257
 1H--4D--5C--,5S,void or A!c
 1H--,4H,0-5 HCP
 
-
-
-
-
-
-1S2C,2D,8-9 HCP | 5+!h (switch)
-1S2C,2H,8-9 HCP | 5+!d (switch)
-1S2C,2N,8-9 HCP | 4+!s
-1S2C,2S,3-7 HCP
-1S2C,3C,8-9 HCP | 3!S's
-1S2C,3D,10+HCP | 5+!h (jump-switch)
-1S2C,3H,10+HCP | 5+!d (jump-switch)
-1S2C,3N,To Play
-1S2C,3S,To Play
-1S2C,Db,5+HCP | take-out
 ,1S,11+HCP | 1-round forcing
 1SDb,1N,6+!C's | 0-6 HCP
 1SDb,2C,6+!D's | 0-6 HCP
@@ -3095,11 +3000,7 @@ Option, F_1,meto+342257
 1S--3H--3S--,4H,single !h
 1S--,3N,void !C | 6-9 HCP | 4+!S
 1S--,3S,0-5 HCP
-1S--3S--,3N,asking cues
-1S--3S--,4C,!C-!H controls
-1S--3S--,4D,!d-!c controls
-1S--3S--,4H,!H-!D controls
-1S--3S--,4S,To Play
+1S--3S--,3N,asking about cues
 1S--,4C,void !D | 6-9 HCP | 4+!S
 1S--4C--,4D,asking control level in !D
 1S--4C--4D--,4H,no control in !D
