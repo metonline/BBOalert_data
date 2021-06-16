@@ -131,4 +131,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_good_bad.t
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_major_jump_game.txt,meto+caomille,meto+gypsyqueen,meto+ratrut
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_1level_competition.txt,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_F1_1level_competiton.txt,meto+342257,meto+altane
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_F1_2level_competiton.txt
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_F1_2level_competiton.txt,meto+342257,meto+altane
