@@ -1,0 +1,127 @@
+1-Level-Competition
+
+Option,Lang EN
+Option,Lang TR
+Alias,with !D stopper,!D keseri var
+Alias,with !h stopper,!h keseri var
+Alias,with !s stopper,!s keseri var
+Alias,strong take-out,güçlü take-out
+Alias,weak or,zayıf ya da
+Alias,balanced invite or,dengeli davet ya da
+Alias,some extras,ekstra değerler var
+Alias,minimum hand,minimum el
+Alias,transfer to 3NT,3NT'ye transfer
+Alias,GF with no !D stopper,!D keseri olmayan zon eli
+Alias,GF with no !h stopper,!h keseri olmayan zon eli
+Alias,GF with no !s stopper,!s keseri olmayan zon eli
+Alias,GF with !D stopper,!D keseri olan zon eli
+Alias,GF with !h stopper,!h keseri olan zon eli
+Alias,GF with !s stopper,!s keseri olan zon eli
+Alias,!C fit,!C fiti
+Alias,!d fit,!d fiti
+Alias,!h fit,!h fiti
+Alias,invite,davet
+Alias,GF,zon forsing
+Alias,no !D stopper,!D keseri yok
+Alias,no !H stopper,!H keseri yok
+Alias,no !S stopper,!S keseri yok
+Alias,preemptive,blokatif
+Option
+
+Option,1Levelcompetion
+1C1D,1H,4+!S; 4-9
+1C1D,1N,5+!C with !D stopper; 4-7
+1C1D,1S,5+!C with no !D stopper; 4-7
+1C1D,2C,10+HCP; strong take-out
+1C1D,2D,6+!H; 0-3 or 5+!H; 10+
+1C1D,2H,6+!s; 0-3 or 5+!s; 10+
+1C1D,2N,!C fit weak or GF
+1C1D,2S,balanced invite or 5+!D; 10+
+1C1D2S--,2N,minimum hand
+1C1D2S--2N--,3C,5+!D; 10+
+1C1D2S--,3C,some extras
+1C1D2S--3C--,3H,5+!D; 10+
+1C1D2S--3C--,3S,transfer to 3NT
+1C1D,3C,5+!C; invite
+1C1D,3D,5+!C; GF with no !D stopper
+1C1D,Db,4+!H; 4-9
+1C1H,1N,!C fit with !h stopper; 4-7
+1C1H,1S,!C fit with no !H stopper; 4-7
+1C1H,2C,5+!D; 4-9
+1C1H,2D,10+HCP; strong take-out
+1C1H,2H,6+!S; 0-5 or 5+!S; 10+
+1C1H,2N,!C fit weak or GF
+1C1H,2S,balanced invite or 5+!d; 10+
+1C1H2S--,2N,minimum hand
+1C1H2S--2N--,3C,5+!D; 10+
+1C1H2S--,3C,some extras
+1C1H2S--3C--,3H,5+!D; 10+
+1C1H2S--3C--,3S,transfer to 3NT
+1C1H,3C,!C fit; invite
+1C1H,3D,!C fit GF; no !h stopper
+1C1H,Db,4+!S; 4-9
+1C1S,1N,!C fit with !S stopper; 4-7
+1C1S,2C,5+!D; 4-9
+1C1S,2D,5+!H; 4-9
+1C1S,2H,strong take-out; 10+
+1C1S,2N,!C fit weak or GF
+1C1S,2S,balanced invite or 5+(!d/!h);13+
+1C1S2S--,2N,minimum hand
+1C1S2S--2N--,3C,5+!D; 10+
+1C1S2S--2N--,3D,5+!H; 10+
+1C1S2S--2N--,3S,transfer to 3NT
+1C1S2S--,3C,some extras
+1C1S2S--3C--,3D,5+!H; 10+
+1C1S2S--3C--,3H,5+!D; 10+
+1C1S2S--3C--,3S,transfer to 3NT
+1C1S,3C,!C fit; invite
+1C1S,3D,!C fit GF; no !S stopper
+1C1S,Db,take-out; 4-9
+1D1H,1N,5+!C with !H stopper; 4-9
+1D1H,1S,5+!C with no !H stopper; 4-9
+1D1H,2C,5+!D; 6-7
+1D1H,2D,strong take-out; 10+
+1D1H,2H,6+!S; 0-5 or 5+!S; 10+
+1D1H,2N,!d fit weak or GF
+1D1H,2S,balanced invite or 5+!c; 10+
+1D1H2S--,2N,minimum hand
+1D1H2S--2N--,3D,5+!c; 10+
+1D1H2S--,3C,some extras
+1D1H2S--3C--,3D,5+!c; 10+
+1D1H2S--3C--,3S,transfer to 3NT
+1D1H,3C,!d fit GF; no !h stopper
+1D1H,3D,!d fit; invite
+1D1H,Db,4+!S; 4-9
+1D1S,1N,!C fit with !S stopper; 4-9
+1D1S,2C,5+!D; 4-9
+1D1S,2D,5+!H; 4-9
+1D1S,2H,strong take-out; 10+
+1D1S,2N,!d fit weak or GF
+1D1S,2S,balanced invite or 5+(!c/!h); 10+
+1D1S2S--,2N,minimum hand
+1D1S2S--2N--,3C,5+!C; 10+
+1D1S2S--2N--,3D,5+!H; 10+
+1D1S2S--,3C,some extras
+1D1S2S--3C--,3D,5+!C; 10+
+1D1S2S--3C--,3H,5+!H; 10+
+1D1S2S--3C--,3S,transfer to 3NT
+1D1S,3C,4+!d; GF with no !s stopper
+1D1S,3D,4+!d; invite
+1D1S,Db,take-out; 4-9
+1H1S,1N,5+!C; 4-9
+1H1S,2C,5+!D; 4-9
+1H1S,2D,3/4!H; 4-6 or 3!H; 7+
+1H1S,2H,strong take-out ; 10+
+1H1S,2N,4+!H; 7+
+1H1S,2S,balanced invite or 5+(!C/!d); 10+
+1H1S2S--,2N,minimum hand
+1H1S2S--2N--,3C,5+!D; 10+
+1H1S2S--2N--,3D,5+!C; 10+
+1H1S2S--,3C,some extras
+1H1S2S--3C--,3D,5+!C; 10+
+1H1S2S--3C--,3H,5+!D; 10+
+1H1S2S--3C--,3S,transfer to 3NT
+1H1S,3H,4!H; preemptive
+1H1S,Db,take-out; 4-9
+Option
+
