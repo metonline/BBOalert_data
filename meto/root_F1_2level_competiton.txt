@@ -9,8 +9,8 @@ Alias,GF | no !h stopper, zon-forcing | !h keseri yok
 Alias,GF | no !s stopper, zon-forcing | !s keseri yok
 Alias,3-card !h fit,3.lü !H fiti
 Alias,3-card !s fit,3.lü !S fiti
-Alias,4-card !H fit,4.lü !H fiti
-Alias,4-card !H fit,4.lü !S fiti
+Alias,4-card !h fit,4.lü !H fiti
+Alias,4-card !s fit,4.lü !S fiti
 Alias,gamble,şans denemesi
 Alias,preemptive,blokatif
 Option
