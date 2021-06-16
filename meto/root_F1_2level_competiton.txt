@@ -25,7 +25,7 @@ Option,2levelcompetition
 1D2C,3H,5+!H; 8-9
 1D2C,3S,5+!S; 8-9
 1D2C,Db,take-out; 4-7 or 5+!H/!S; 10+
-1H2C,2D,4+!D; 4-7
+1H2C,2D,5+!D; 4-7
 1H2C,2H,3/4!H; 3-6
 1H2C,2N,4-card !H fit; 7+
 1H2C,2S,5+!S; 4-7
@@ -44,7 +44,7 @@ Option,2levelcompetition
 1H2D,3S,5+!S; 8-9
 1H2D,4H,5!H; gamble
 1H2D,Db,take-out; 4-7 or 5+!c/!S; 10+
-1S2C,2D,4+!D; 4-7
+1S2C,2D,5+!D; 4-7
 1S2C,2H,5+!H; 4-7
 1S2C,2N,4-card !s fit; 7+
 1S2C,2S,3/4!s; 3-6
