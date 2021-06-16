@@ -279,41 +279,6 @@ Option, F_1,meto+342257
 |,2S,weak
 2S,Db,13+hcp T/O
 
-1C1D,1H,4+!S | 5-9 HCP 
-1C1D,1N,5+!c's | 3-7 HCP
-1C1D,1S,4!h-5!c | 5-9 HCP
-1C1D,2C,Strong take-out for !D | 10+ HCP
-1C1D,2D,6+!h's | 0-5 HCP or 5+!H's | 10+HCP
-1C1D,2H,6+!S's | 0-5 HCP or 5+!S's | 10+HCP
-1C1D,2S,balanced with !D stopper; 8-9
-1C1D,2N,5+!c's | 0-2 HCP or 10+HCP
-1C1D,3C,5+!c's | 8-9 HCP
-1C1D,3C,5+!c's | 10+HCP | no !d stopper
-1C1D,Db,4+!h | 5-9 HCP | take-out for !D
-1C1H,Db,4+!S | 5-9 HCP
-1C1H,1S,5+!c's | 3-7 HCP | no !D stopper
-1C1H,1N,5+!c's | 3-7 HCP | !D stopper
-1C1H,2C,5+!D's | 5-9 HCP
-1C1H,2D,Strong take-out for !H | 10+ HCP
-1C1H,2H,6+!S | 0-2 HCP or 5+!S | 10+HCP
-1C1H,2S,balanced with !D stopper; 8-9 | 5+!D; 10+
-1C1H,2N,5+!c's | 0-2 HCP or 10+HCP
-1C1H,3C,5+!c's | 8-9 HCP
-1C1H,3D,5+!c's | 10+HCP | no !H stopper
-1C1H2S--,2N,minimum hand
-+,3C,extra values
-1C1H2S--2N--,3C,5+!D; 10+
-1C1H2S--3C--,3H,5+!D; 10+
-+,3S,Transfer to 3NT
-1C1S,Db,take-out for !s's | 5-9 HCP
-1C1S,1N,5+!c's | 3-7 HCP
-1C1S,2C,5+!D's | 5-9 HCP
-1C1S,2D,5+!h's | 3-9 HCP
-1C1S,2H,Strong take-out for !s | 10+ HCP
-1C1S,2S,balanced with !s stopper; 8-9
-1C1S,2N,5+!c's | 0-2 HCP or 10+HCP
-1C1S,3C,5+!c's | 8-9 HCP
-1C1S,3D,5+!c's | 10+HCP | no !s stopper
 
 1C2H,2N,Transfer to 3!C | lebenshol
 1C2H2N--,3C,relay
@@ -1011,21 +976,6 @@ Option, F_1,meto+342257
 1C--,3H,10-15 HCP | 5!D-5!H
 1C--,3S,10-15 HCP | 5!D-5!S
 
-1D1H,Db,4+!s | 5-9 HCP 
-1D1H,1S,5+!c's | 5-9 HCP | no !H stopper
-1D1H,1N,5+!c's | 5-9 HCP | !H stopper
-1D1H,2C,4+!D's | 3-7 HCP
-1D1H,2D,strong take-out for !H's | 10+ HCP
-1D1H,2H,6+!S | 0-2 HCP or 5+!S | 10+HCP
-1D1H,2N,4+!D's | 0-2 HCP or 10+HCP
-1D1H,2S,balanced with !H stopper; 8-9 | 5+!C; 10+
-1D1H,3C,4+!D; 10+HCP | no !H stopper
-1D1H,3D,4+!D; 8-9 HCP
-1D1H2S--,2N,minimum hand
-+,3C,extra values
-1D1H2S--2N--,3D,5+!C; 10+
-1D1H2S--3C--,3D,5+!C; 10+
-+,3S,Transfer to 3NT
 1D1N,2C,5+!h's-4+!S's
 1D1N,2D,to play | <8 HCP 
 1D1N,2H,to play | <8 HCP 
@@ -1034,35 +984,6 @@ Option, F_1,meto+342257
 1D1N,3C,to play | <8 HCP 
 1D1N,3D,to play | <6 HCP 
 1D1N,Db,9+HCP | penalty
-1D1S,1N,5+!c's | 5-9 HCP
-1D1S,2C,4+!d's | 3-7 HCP
-1D1S,2D,5+!h's | 3-9 HCP
-1D1S,2H,strong take-out for !s's | 10+ HCP
-1D1S,2N,4+!d's | 0-2 HCP or 10+HCP
-1D1S,2S,balanced with !S stopper; 8-9 | 5+!C/!H; 10+
-1D1S2S--,2N,minimum hand
-+,3C,extra values
-1D1S2S--2N--,3C,GF in !H | 10+ HCP
-+,3D,GF in !C | 10+ HCP
-1D1S2S--3C--,3D,5+!H; 10+
-+,3H,5+!C; 10+
-+,3S,Transfer to 3NT
-1D1S,3C,4+!d's | 8-9 HCP | no !S stopper
-1D1S,3D,4+!d's | 8-9 HCP
-1D1S,4H,semi-solid !h's | no shortness or side-suit A/K
-1D1SDb2S,2N,Transfer to 3!C as relay; 14-16 
-
-1D1SDb2S,Db,14-16 HCP with defensive holding against !S | no good fit to other suits
-1D1SDb2SDb--,3C,minimum hand
-1D1SDb2SDb--,3D,minimum hand
-1D1SDb2SDb--,3H,minimum hand
-
-
-1D1S,Db,take-out for !s's | 5-9 HCP
-1D1SDb--,1N,5+!c | 5-9 HCP
-+,2C,5+!d | 5-9 HCP
-+,2D,3+!h | 5-9 HCP
-+,2H,strong take-out for !s's | 10+HCP
 
 1D2C,2D,6-9 HCP
 1D2C,2H,6-9 HCP
