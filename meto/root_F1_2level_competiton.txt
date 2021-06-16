@@ -1,0 +1,75 @@
+bboalert
+
+Option,Lang EN
+Option,Lang TR
+Alias,weak or GF,zayıf ya da zon-forsing
+Alias,GF | no !C stopper, zon-forcing | !C keseri yok
+Alias,GF | no !d stopper, zon-forcing | !d keseri yok
+Alias,GF | no !h stopper, zon-forcing | !h keseri yok
+Alias,GF | no !s stopper, zon-forcing | !s keseri yok
+Alias,3-card !h fit,3.lü !H fiti
+Alias,3-card !s fit,3.lü !S fiti
+Alias,4-card !H fit,4.lü !H fiti
+Alias,4-card !H fit,4.lü !S fiti
+Alias,gamble,şans denemesi
+Alias,preemptive,blokatif
+Option
+
+Option,2levelcompetition
+1D2C,2D,4+!D; 4-7
+1D2C,2H,5+!H; 4-7
+1D2C,2N,!D fit; weak or GF
+1D2C,2S,5+!S; 4-7
+1D2C,3C,!D fit; GF | no !C stopper
+1D2C,3D,!D fit; invite
+1D2C,3H,5+!H; 8-9
+1D2C,3S,5+!S; 8-9
+1D2C,Db,take-out; 4-7 or 5+!H/!S; 10+
+1H2C,2D,4+!D; 4-7
+1H2C,2H,3/4!H; 3-6
+1H2C,2N,4-card !H fit; 7+
+1H2C,2S,5+!S; 4-7
+1H2C,3C,3-card !h fit; 7+
+1H2C,3D,5+!d; 8-9
+1H2C,3H,4!H; preemptive
+1H2C,3S,5+!S; 8-9
+1H2C,4H,5!H; gamble
+1H2C,Db,take-out; 4-7 or 5+!d/!S; 10+
+1H2D,2H,3/4!H; 3-6
+1H2D,2N,4-card !H fit; 7+
+1H2D,2S,5+!S; 4-7
+1H2D,3C,5+!c; 8-9
+1H2D,3D,3-card !h fit; 7+ 
+1H2D,3H,4!H; preemptive
+1H2D,3S,5+!S; 8-9
+1H2D,4H,5!H; gamble
+1H2D,Db,take-out; 4-7 or 5+!c/!S; 10+
+1S2C,2D,4+!D; 4-7
+1S2C,2H,5+!H; 4-7
+1S2C,2N,4-card !s fit; 7+
+1S2C,2S,3/4!s; 3-6
+1S2C,3C,3-card !s fit; 7+
+1S2C,3D,5+!d; 8-9
+1S2C,3H,5+!h; 8-9
+1S2C,3S,4!S; preemptive
+1S2C,4S,5!S; gamble
+1S2C,Db,take-out; 4-7 or 5+!d/!h; 10+
+1S2D,2H,5+!H; 4-7
+1S2D,2N,4-card !s fit; 7+
+1S2D,2S,3/4!s; 3-6
+1S2D,3C,5+!C; 8-9
+1S2D,3D,3-card !s fit; 7+
+1S2D,3H,5+!h; 8-9
+1S2D,3S,4!S; preemptive
+1S2D,4S,5!S; gamble
+1S2D,Db,take-out; 4-7 or 5+!c/!h; 10+
+1S2H,2N,4-card !s fit; 7+
+1S2H,2S,3/4!s; 3-6
+1S2H,3C,5+!C; 8-9
+1S2H,3D,5+!D; 8-9
+1S2H,3H,3-card !s fit; 7+
+1S2H,3S,4!S; preemptive
+1S2H,4S,5!S; gamble
+1S2H,Db,take-out; 4-7 or 5+!c/!d; 10+
+Option
+
