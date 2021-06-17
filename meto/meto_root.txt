@@ -82,6 +82,7 @@ Option,majorgame,meto+camomille,meto+ratrut,meto+gypsyqueen
 Option,1levelComp,meto+camomille
 Option,1Levelcompetition,meto+342257,meto+altane
 Option,2levelcompetition,meto+342257,meto+altane
+Option,2levelComp,meto+camomille
 Option
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NFB.txt,meto+camomille,meto+gypsyqueen,meto+nilsun,meto+gurus,meto+ratrut,meto+ozbay
@@ -132,3 +133,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_major_jump
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_1level_competition.txt,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_F1_1level_competiton.txt,meto+342257,meto+altane
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_F1_2level_competiton.txt,meto+342257,meto+altane
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_2level_competition.txt,meto+camomille
