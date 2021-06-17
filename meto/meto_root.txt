@@ -83,8 +83,7 @@ Option,1levelComp,meto+camomille
 Option,1Levelcompetition,meto+342257,meto+altane
 Option,2levelcompetition,meto+342257,meto+altane
 Option,2levelComp,meto+camomille
-Option,Def_vs_2c_majors,meto+camomille,meto+342257,meto+altane
-Option,Def_vs_2d_majors,meto+camomille,meto+342257,meto+altane
+Option,Def_vs_2c2d_majors,meto+camomille,meto+342257,meto+altane
 Option
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NFB.txt,meto+camomille,meto+gypsyqueen,meto+nilsun,meto+gurus,meto+ratrut,meto+ozbay
