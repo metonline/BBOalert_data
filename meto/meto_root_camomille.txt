@@ -32,6 +32,8 @@ Option,GoodBad,meto+camomille
 Option,majorgame,meto+camomille,meto+ratrut,meto+gypsyqueen
 Option,1levelComp,meto+camomille
 Option,2levelComp,meto+camomille
+Option,Def_vs_2c_majors,meto+camomille
+Option,Def_vs_2d_majors,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NFB.txt,meto+camomille,meto+gypsyqueen,meto+nilsun,meto+gurus,meto+ratrut,meto+ozbay
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NTstandart_no_instead_Kacis.txt,meto+camomille
@@ -64,4 +66,5 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_good_bad.t
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_major_jump_game.txt,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_1level_competition.txt,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_2level_competition.txt,meto+camomille
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_Def_vs_2c2d_majors
 
