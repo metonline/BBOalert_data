@@ -54,4 +54,6 @@ Option,majorgame,meto+camomille,meto+ratrut,meto+gypsyqueen
 Option,1levelComp,meto+camomille
 Option,1Levelcompetition,meto+342257,meto+altane
 Option,2levelComp,meto+camomille
+Option,Def_vs_2c_majors,meto+camomille,meto+342257,meto+altane
+Option,Def_vs_2d_majors,meto+camomille,meto+342257,meto+altane
 Option
