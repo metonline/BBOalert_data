@@ -10,6 +10,9 @@ Alias,invite,davet
 Alias,invite & plus,davet ve üzeri
 Option
 
+
+Def_vs_2c_majors or Def_vs_2d_majors
+
 Option,Def_vs_2c_majors
 1N2C,Db,Penalty to at least one of the major suits
 +,2D,balanced invitation
