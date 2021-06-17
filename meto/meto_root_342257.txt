@@ -18,6 +18,8 @@ Option,2NT,meto+342257
 Option,1NDev,meto+342257
 Option,1Levelcompetition,meto+342257
 Option,2levelcompetition,meto+342257
+Option,Def_vs_2c_majors,meto+342257
+Option,Def_vs_2d_majors,meto+342257
 
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_MichaelsSpec.txt,meto+nilsun,meto+camomille,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_FNTDefans.txt,meto+342257,meto+_kafkaf35,meto+camomille
@@ -38,3 +40,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2NT.txt,me
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_1NDev.txt,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_F1_1level_competiton.txt,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_F1_2level_competiton.txt,meto+342257
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_Def_vs_2c2d_majors
