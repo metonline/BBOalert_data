@@ -29,13 +29,13 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_DefenseNTB
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_when_competition_on_NT.txt,meto+ratrut,meto+342257,meto+nilsun,meto+gypsyqueen
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Def2Mon1m.txt,meto+camomille,meto+gurus,meto+nilsun,meto+ozbay,meto+ratrut,meto+gypsyqueen,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_RangeAskStayman.txt,meto+gurus,meto+camomille,meto+342257,meto+gypsyqueen,meto+nilsun,meto+ratrut
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_F1.txt,meto+342257
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_staymanDBL.txt,meto+342257
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Superaccept.txt,meto+342257
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2ler.txt,meto+342257
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Trial.txt,meto+342257
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2NT.txt,meto+342257
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_1NDev.txt,meto+342257
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_F1_1level_competiton.txt,meto+342257
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_F1_2level_competiton.txt,meto+342257
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_Def_vs_2c2d_majors
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_F1.txt, meto+342257
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_staymanDBL.txt, meto+342257
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Superaccept.txt, meto+342257
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2ler.txt ,meto+342257
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Trial.txt, meto+342257
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2NT.txt, meto+342257
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_1NDev.txt, meto+342257
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_F1_1level_competiton.txt, meto+342257
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_F1_2level_competiton.txt, meto+342257
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_Def_vs_2c2d_majors, meto+342257
