@@ -22,7 +22,6 @@ Option,Def_vs_2d_majors no instead Def_vs_2c_majors
 +,3C,5+!D;invite
 1N2D2N--,3C,decline invitation
 1N2D3C--,3D,decline invitation
-Option
 
 Option,Def_vs_2d_majors
 1N2D,Db,Penalty to at least one of the major suits; invite & plus
