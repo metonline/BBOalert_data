@@ -1,0 +1,32 @@
+bboalert
+
+Option,Lang EN
+Option,Lang TR
+Alias,decline invitation,daveti ret
+Alias,Penalty to at least one of the major suits,Majorlerden en azından birine ceza
+Alias,balanced invitation,dengeli davet
+Alias,weak or GF,zayıf veya zon-forsing
+Alias,invite,davet
+Alias,invite & plus,davet ve üzeri
+Option
+
+Option,Def_vs_2c_majors
+1N2C,Db,Penalty to at least one of the major suits
++,2D,balanced invitation
++,2H,5+!c; weak or GF
++,2S,5+!D; weak of GF
++2N,5+!C;invite
++,3C,5+!D;invite
+1N2D2N--,3C,decline invitation
+1N2D3C--,3D,decline invitation
+Option
+
+Option,Def_vs_2d_majors
+1N2D,Db,Penalty to at least one of the major suits; invite & plus
++,2H,5+!c; weak or GF
++,2S,5+!D; weak of GF
++2N,5+!C;invite
++,3C,5+!D;invite
+1N2D2N--,3C,decline invitation
+1N2D3C--,3D,decline invitation
+Option
