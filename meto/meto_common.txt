@@ -645,8 +645,9 @@ Shortcut,Q no K, Have Q but no Ks, width=50% backgroundColor=khaki
 Shortcut,Q with K of bid suit, Have Q and K of bid suit, width=50% backgroundColor=lightblue
 Shortcut,K of bid suit, K of bid suit, width=50% backgroundC
 Shortcut, Splinter, Splinter, width=50% backgroundColor=whitesmoke
-Option
+
 Shortcut, Systems & Carding, , width=100% backgroundColor=palegreen fontSize=18px
+
 Option,NiloCard, meto+nilsun,
 //Script,onDataLoad,PREV_OPPS = "";
 //Script,onAuctionBegin
