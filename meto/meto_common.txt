@@ -222,7 +222,7 @@ Option,Lang TR
  
 Option
 
-Script,onDataLoad,ds = $("#bboalert-ds option:contains('None')")[0].selected = true;
+Script,onDataLoad,$("#bboalert-ds option:contains('None')")[0].selected = true;optionsSelectorChanged();
 
 //Script,onDataLoad
 $("#adpanel button").each(function () {
