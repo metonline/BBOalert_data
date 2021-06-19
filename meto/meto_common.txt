@@ -654,16 +654,16 @@ Option,NiloCard, meto+nilsun,
 if ((myDirection() == "G") || (myDirection() == "D")) {
 ACT_OPPS = myOpponent(true) + "+" + myOpponent(false);
 if (ACT_OPPS != PREV_OPPS) {
-setChatMessage(findShortcut("Nilo"), true);
+setChatMessage(findShortcut("Nil"), true);
 PREV_OPPS = ACT_OPPS;
 }
 }
 //Script
 Option
 Option,Lang EN
-Shortcut,Nilo, Hello. We play 2/1. Upside down count & attitude. Leads 2nd/4th..RKC1430..We will alert when necessary…Good Luck. \n
+Shortcut,Nil,Hello. We play 2/1. Upside down count & attitude. Leads 2nd/4th..RKC1430..We will alert when necessary…Good Luck. \n
 Option,Lang TR
-Shortcut,Nilo,2/1 UDCA oynuyoruz..Ataklar 2. ve 4.den… Gerekli hallerde alert edeceğiz…RKC1430..İyi oyunlar!..\n
+Shortcut,Nil,2/1 UDCA oynuyoruz..Ataklar 2. ve 4.den… Gerekli hallerde alert edeceğiz…RKC1430..İyi oyunlar!..\n
 
 Option,FaileCard, meto+camomille
 //Script,onDataLoad,PREV_OPPS = "";
