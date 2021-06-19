@@ -661,6 +661,8 @@ Option,Lang EN
 Shortcut,Standard, We play 2/1 Standard carding. Leads from 1st/3rd/5th against suit and 2nd/4th against NT contracts…RKC1430..Good Luck. \n
 Option,Lang TR
 Shortcut,Standard,2/1 Büyük apel düz sayı ve standart defos oynuyoruz. Ataklar koza karşı 1/3/5...NT'ye karşı 2/4...RKC1430..İyi oyunlar. \n
+Option
+
 Option,RomenSTD,meto+gurus,meto+gypsyqueen,meto+ozbay
 //Script,onDataLoad,PREV_OPPS = "";
 //Script,onAuctionBegin
@@ -676,6 +678,8 @@ Option,Lang EN
 Shortcut,StdR,We play 2/1 Standard carding & O/E discards...Leads from 1st/3rd/5th against suit and 2nd/4th against NT contracts…RKC1430..Good Luck!.. \n
 Option,Lang TR
 Shortcut,StdR,2/1 Büyük apel düz sayı ve Romen defos oynuyoruz... Ataklar koza karşı 1/3/5...NT'ye karşı 2/4...RKC1430..İyi oyunlar. \n
+Option
+
 Option,MehmetCard,meto+342257
 //Script,onDataLoad,PREV_OPPS = "";
 //Script,onAuctionBegin
@@ -691,6 +695,8 @@ Option,Lang EN
 Shortcut,FN,We play 1-level suit openings 14+ (11+ with both majors) forcing for 1-round …1NT: 12-14; may have 5-card major or 11-13; 44MM(41)mm off-shape also…2-level openings: 10-13 & 5+card; unbalanced 1/2/3 suited hands…1!C: 2+!C (could have any 5-card suit with 15+HCP when balanced) 1!D=4+!D unbalanced..Upside down counting & attitude..Attitude leads from 2nd/4th..Lavinthal discards against NT..RKC1430..We will alert when necessary…Good Luck!..\n
 Option,Lang TR
 Shortcut,FN,Merhabalar..1-renk açışlarımız 14+ 1-tur için forsing (her-iki majör de varken 11+)...1NT açışımız 12-14 (5.li majör veya 44MM(14)mm olabilir)..2'ler 5+uzunluk ile 1-2-3 renkli olabilir..1!C açışımız 2+!C (dengeli iken 15-20 veya 23+ 5.li herhangi başka bir renk bulunabilir) 1!D açışımız 4+!D ve dengesiz..Küçük apel-defos-atak...Ataklar 2 ile 4.den...RKC1430...Gereken hallerde ayrıca alert edeceğiz...İyi oyunlar!..\n 
+Option
+
 Option,RitaCard,meto+ratrut
 //Script,onDataLoad,PREV_OPPS = "";
 //Script,onAuctionBegin
@@ -706,6 +712,8 @@ Option,Lang EN
 Shortcut,Rita,We play 2/1. Upside down count & attitude. Odd/Even discards. 1!C openings are 2+!C & 1!D openings are 4+!D  Leads from 2nd/4th RKC0314..Good Luck. \n
 Option,Lang TR
 Shortcut,Rita,2/1 UDCA oynuyoruz...Romen defos 1!C açışı 2+!C 1!D açışları 4+!D ile...Ataklar  2. ve 4.den.…RKC0314....İyi oyunlar! \n
+Option
+
 Option,UDCAR,meto+auzun78
 //Script,onDataLoad,PREV_OPPS = "";
 //Script,onAuctionBegin
