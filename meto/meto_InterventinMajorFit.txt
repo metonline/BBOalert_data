@@ -1,7 +1,8 @@
 bboalert,Araya Girişte Majörde Fitleşme
 Option,InterventinMajorFit
-1([HS])2([CD]),2N,+10 HCP 4+card fit
-1([HS])2([CD]),3([CD]),+10 HCP 3+card fit
+Script,X,R = B.match(makeRegExp(BR))[1];
+1([HS])2([CD]),2N,+9-11 HCP (3/4)!%X%
+1([HS])2([CD]),3([CD]),12+HCP (3/4)%X% fit
 Option
 
 
