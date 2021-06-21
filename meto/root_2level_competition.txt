@@ -27,47 +27,47 @@ Option,2levelComp
 1D2C,Db,take-out; 7-10 or 5+!H/!S; 13+
 1H2C,2D,5+!D; 7-10
 1H2C,2H,3/4!H; 3-6
-1H2C,2N,4-card !H fit; 10+ 
+
 1H2C,2S,5+!S; 7-10
-1H2C,3C,3-card !h fit; 10+ 
+
 1H2C,3D,5+!d; 11-12
 1H2C,3H,4!H; preemptive
 1H2C,3S,5+!S; 11-12
 1H2C,4H,5!H; gamble
 1H2C,Db,take-out; 7-10 or 5+!d/!S; 10+
 1H2D,2H,3/4!H; 6-9
-1H2D,2N,4-card !H fit; 10+ 
+
 1H2D,2S,5+!S; 7-10
 1H2D,3C,5+!c; 11-12
-1H2D,3D,3-card !h fit; 10+ 
+
 1H2D,3H,4!H; preemptive
 1H2D,3S,5+!S; 11-12
 1H2D,4H,5!H; gamble
 1H2D,Db,take-out; 7-10 or 5+!c/!S; 13+
 1S2C,2D,5+!D; 7-10
 1S2C,2H,5+!H; 7-10
-1S2C,2N,4-card !s fit; 10+
+
 1S2C,2S,3/4!s; 6-9
-1S2C,3C,3-card !s fit; 10+
+
 1S2C,3D,5+!d; 11-12
 1S2C,3H,5+!h; 11-12
 1S2C,3S,4!S; preemptive
 1S2C,4S,5!S; gamble
 1S2C,Db,take-out; 7-10 or 5+!d/!h; 13+
 1S2D,2H,5+!H; 4-7
-1S2D,2N,4-card !s fit; 10+
+
 1S2D,2S,3/4!s; 6-9
 1S2D,3C,5+!C; 11-12
-1S2D,3D,3-card !s fit; 10+
+
 1S2D,3H,5+!h; 11-12
 1S2D,3S,4!S; preemptive
 1S2D,4S,5!S; gamble
 1S2D,Db,take-out; 7-10 or 5+!c/!h; 13+
-1S2H,2N,4-card !s fit; 10+
+
 1S2H,2S,3/4!s; 6-9
 1S2H,3C,5+!C; 11-12
 1S2H,3D,5+!D; 11-12
-1S2H,3H,3-card !s fit; 10+
+
 1S2H,3S,4!S; preemptive
 1S2H,4S,5!S; gamble
 1S2H,Db,take-out; 7-10 or 5+!c/!d; 13+
