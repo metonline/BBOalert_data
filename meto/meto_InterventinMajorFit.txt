@@ -1,8 +1,9 @@
-bboalert,Araya Girişte Majörde Fitleşme
+bboalert
+
+Script,X,R = C.match(makeRegExp(CR))[1];
 Option,InterventinMajorFit
-Script,X,R = B.match(makeRegExp(BR))[1];
-1([HS])2([CD]),2N,+9-11 HCP (3/4)!%X%
-1([HS])2([CD]),3([CD]),12+HCP (3/4)%X% fit
+1([HS])2[CD],2N,+9-11 HCP (3/4)!%X%
+1([HS])2[CD],3[CD],12+HCP (3/4)!%X% fit
 Option
 
 
