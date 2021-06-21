@@ -7,7 +7,6 @@ Option,Lang EN
 Option,Lang TR
 Alias,4-card,4.lü
 Alias,3-card,3.lü
-Alias,fit,fiti
 Alias,weak,zayıf
 Alias,denies fit,fit inkarı
 Alias,5-card,5.li
