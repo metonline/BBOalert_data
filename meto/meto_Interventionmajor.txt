@@ -1,36 +1,32 @@
-bboalert,Interventionmajor
+bboalert
 
 
 Majör Açışa Müdahale Geldiği zaman
 
-Option,Interventionmajor
-1H1S,2N,4!H; 10+
-1H1S,2S,3!H; 10+
-1H2C,2N,4!H; 10+
-1H2C,3C,3!H; 10+
-1H2D,2N,4!H; 10+
-1H2D,3D,3!H; 10+
-1HDb,1N,transfer to 2!C
-1HDb,2C,transfer to 2!d
-1HDb,2D,transfer to 2!h; 3/4!H 8+
-1HDb,2H,3/4!H; 5-7
-1HDb,2N,4!H; 10+
-1HDb,3C,5!C-4!H; 9-11
-1HDb,3D,5!d-4!H; 9-11
-1HDb,Rd,10+; !H<3
-1S2C,2N,4!s; 10+
-1S2C,3C,3!s; 10+
-1S2D,2N,4!s; 10+
-1S2D,3D,3!s; 10+
-1S2H,2N,4!s; 10+
-1S2H,3H,3!s; 10+
-1SDb,1N,transfer to 2!C
-1SDb,2C,transfer to 2!d
-1SDb,2D,transfer to 2!h; 3/4!H 8+
-1SDb,2H,3/4!H; 5-7
-1SDb,2N,4!H; 10+
-1SDb,3C,5!C-4!H; 9-11
-1SDb,3D,5!d-4!H; 9-11
-1SDb,Rd,10+; !H<3
+Option,Lang EN
+Option,Lang TR
+Alias,4-card,4.lü
+Alias,3-card,3.lü
+Alias,fit,fiti
+Alias,weak,zayıf
+Alias,denies fit,fit inkarı
+Alias,5-card,5.li
+Alias,transfer to 2!C,2!C'e transfer
+Alias,transfer to 2!D,2!D'ya transfer
 Option
 
+Script,X,R = C.match(makeRegExp(CR))[1];
+Script,Y,R = B.match(makeRegExp(BR))[1];
+
+Option,InterventionMajor
+1([HS])2[CD],2N,9+HCP 4-card !%X% fit
+1([HS])2[CD],3[CD],10+HCP 3-card !%X% fit
+1([HS])Db,2N,9+HCP 4-card !%X% fit
+1([HS])Db,2([HS]),5-7 HCP 3-card !%X% fit
+1HDb,2D,3/4!H 8+HCP
+1SDb,2H,3/4!S 8+HCP
+1[HS]Db,1N,transfer to 2!C; weak 6+!C
+1[HS]Db,2C,transfer to 2!D; weak 6+!D
+1([HS])Db,3([CD]),9-11 HCP 4-card !%X% fit & 5-card!%Y%
+1([HS])Db,Rd,10+; denies fit
+Option
