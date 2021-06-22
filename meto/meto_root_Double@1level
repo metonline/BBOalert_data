@@ -9,7 +9,7 @@ Alias,no 4!S (may have 4!H),4.lü !S yok (4.lü !H olabilir)
 Alias,may have 4!S also,ayrıca 4.lü !S olabilir
 Option
 
-Option,double_m_1level
+Option,double_m_1level_F1
 1CDb,Rd,7+
 +,1D,4+!H; 4-6
 +,1H,4+!S; 4-6
