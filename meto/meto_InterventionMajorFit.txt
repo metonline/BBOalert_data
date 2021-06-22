@@ -1,4 +1,4 @@
-bboalert
+bboalert,Majör açışa müdahale geldiğinde fit senaryoları
 
 Script,X,R = C.match(makeRegExp(CR))[1];
 Option,InterventionMajorFit
