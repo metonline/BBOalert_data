@@ -1,4 +1,4 @@
-bboalert,2ler
+bboalert,2 Açışlar (F1)
 
 Option,Lang EN
 Option,Lang TR
