@@ -10,6 +10,8 @@ Alias,slam interest in !D,!d'dav şilem ilgisi
 Alias,slam interest in !C,!C'ten şilem ilgisi
 Alias,pick a minor,minör seç
 Alias,short,kısa
+Alias,all controls,tüm renklerde kontrol var
+Option
 
 2NT Gelişmeleri
 
