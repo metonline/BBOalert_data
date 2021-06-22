@@ -71,5 +71,8 @@ Option,2levelcompetition
 1S2H,3S,4!S; preemptive
 1S2H,4S,5!S; gamble
 1S2H,Db,take-out; 4-7 or 5+!c/!d; 10+
+1[DHS]2CDb--2[DH]--,3S,Transfer to 3N
+1[HS]2DDb--2H--,3S,Transfer to 3N
+1[HS]2DDb--2H--,3S,Transfer to 3N
 Option
 
