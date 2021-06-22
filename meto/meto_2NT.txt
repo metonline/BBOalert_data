@@ -1,8 +1,31 @@
 bboalert,2NT Gelişmeleri (F1)
 
+Option,Lang EN
+Option,Lang TR
+Alias,balanced hand,dengeli el
+Alias,asking about 5-card major suit,5.li major sorusu
+Alias,no 5(!h/!s) nor 4!H | may have 4!S, 5.li majör veya 4.lü !H yok | 4.lü !S olabilir
+Alias,asking about !S's,!S sayısı sorusu
+Alias,re-transfer to !S's with 6!S's-(3/4)!H's,6!S-(3/4)!H ile !S'e tekrar transfer
+Alias,Automatic,Otomatik
+Alias,RKC 1403 on !S,!S üzerinden key-card sorusu RKC 1430
+Alias,5+!h's-3!s's | any strength,5+!H-3!S | herhangi bir güç
+Alias,transfer to !S's with 6!S-3!H,6!S-3!H ile 4!S'e transfer
+Alias,asking about !H's,!H sayısı sorusu
+Alias,To Play,Oynamaya
+Alias,no good !d fit,kötü !D fiti
+Alias,no good !c fit,kötü !C fiti
+Alias,game values,zon değerleri
+Alias,pass / correct to 4!S,pass / 4!S'e düzelt
+Alias,good fit in !s,!S'e iyi fit
+Alias,good fit in !h,!h'e iyi fit
+Alias,pick a slam,şilem seç
+Option
+
+
 Option,2NT
 ,2N,21-22 HCP | balanced hand
-2N--,3C,asking 5-card major suit
+2N--,3C,asking about 5-card major suit
 2N--3C--,3D,no 5(!h/!s) nor 4!H | may have 4!S
 2N--3C--3D--,3H,asking about !S's
 2N--3C--3D--3H--,3N,2!S's
