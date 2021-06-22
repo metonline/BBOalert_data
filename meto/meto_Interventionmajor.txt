@@ -1,4 +1,4 @@
-bboalert
+bboalert,Majör açışa müdahale geldiğinde gelişmeler
 
 
 Majör Açışa Müdahale Geldiği zaman
