@@ -1,4 +1,4 @@
-bboalert,2NDev
+bboalert,2N Gelişmeleri Klasik
 
 Option,Lang EN
 Option,Lang TR
