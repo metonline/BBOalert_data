@@ -1,4 +1,4 @@
-bboalert,1-düzeyinde rakip müdahale ettiğinde
+bboalert,Rakip 1-düzeyinde müdahale ettiğinde
 
 Option,Lang EN
 Option,Lang TR
