@@ -1,4 +1,4 @@
-bboalert
+bboalert,Rakip 2-düzeyinde müdahale ettiğinde (F1)
 
 Option,Lang EN
 Option,Lang TR
