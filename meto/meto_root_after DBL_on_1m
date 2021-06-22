@@ -1,0 +1,38 @@
+bboalert,1 düzeyinde minör açışa DBL geldiğinde
+
+Option,Lang EN
+Option,Lang TR
+Alias,stoppers in both majors,her 2-majör renkte keser
+Alias,no 4-card major,4.lü majör yok
+Alias,balanced,dengeli
+Alias,no 4!S (may have 4!H),4.lü !S yok (4.lü !H olabilir)
+Alias,may have 4!S also,ayrıca 4.lü !S olabilir
+Option
+
+Option,double_m_1level
+1CDb,Rd,10+
++,1D,4+!H; 7-9
++,1H,4+!S; 7-9  
++,1S,no 4-card major 7-9
++,1N,7-9; stoppers in both majors
++,2C,5+!C; 7-9
++,2D,6+!H; 0-5
++,2H,6+!S; 0-5
++,2S,balanced; 10-11
++,2N,5+!C; 0-5
++,3C,5+!C; 10-11
++,3S,balanced; 12-15
++,3N,balanced; 12-15
+1DDb,+,Rd,10+
++,1H,4+!S; 7-9
++,1S,no 4!S (may have 4!H)
++,1N,4+!H (may have 4!S also)
++,2C,6+!H; 0-5
++,2D,4+!D; 4-7
++,2H,6+!S; 0-5
++,2S,balanced; 10-11
++,2N,4+!D; 0-5
++,3D,4+!D; 10-11
++,3S,balanced; 12-15
++,3N,balanced; 12-15
+Option
