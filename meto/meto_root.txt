@@ -84,6 +84,7 @@ Option,1Levelcompetition,meto+342257,meto+altane
 Option,2levelcompetition,meto+342257,meto+altane
 Option,2levelComp,meto+camomille
 Option,Def_vs_2c2d_majors,meto+camomille,meto+342257,meto+altane
+Option,double_m_1level,meto342257
 Option
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventionMajorFit.txt,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NFB.txt,meto+camomille,meto+gypsyqueen,meto+nilsun,meto+gurus,meto+ratrut,meto+ozbay
@@ -136,3 +137,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_F1_1level_
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_F1_2level_competiton.txt,meto+342257,meto+altane
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_2level_competition.txt,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_Def_vs_2c2d_majors,meto+342257,meto+altane,meto+camomille
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_Double%401level,meto+342257
