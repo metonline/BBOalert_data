@@ -1,4 +1,4 @@
-bboalert,2NT
+bboalert,2NT Gelişmeleri
 
 Option,2NT
 ,2N,21-22 HCP | balanced hand
