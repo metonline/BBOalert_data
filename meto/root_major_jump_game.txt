@@ -1,4 +1,4 @@
-bboalert
+bboalert,Cevapçının majörüne sıçramalı zon ilanları
 
 Option,Lang EN
 Option,Lang TR
