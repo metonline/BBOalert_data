@@ -1,5 +1,4 @@
 bboalert,Spiral
-bboalert,Trial
 
 Option,Lang EN
 Option,Lang TR
@@ -8,12 +7,10 @@ Alias,short,kısa
 Alias,3-card,3.lü
 Alias,4-card,4.lü
 Alias,game interest,zon ilgisi
+Alias,maximum,maksimum
 Option
 
 SPIRAL
-Script,X,R = B.match(makeRegExp(BR))[1];
-Script,Y,R = C.match(makeRegExp(CR))[1];
-Script,Z,R = C.match(makeRegExp(CR))[2];
 
 Option,Spiral
 
