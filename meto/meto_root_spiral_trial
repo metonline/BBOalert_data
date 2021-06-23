@@ -1,0 +1,56 @@
+bboalert,Spiral
+bboalert,Trial
+
+Option,Lang EN
+Option,Lang TR
+Alias,ask about hand,el tarif sorusu
+Alias,short,kısa
+Option
+
+SPIRAL
+Script,X,R = B.match(makeRegExp(BR))[1];
+Script,Y,R = C.match(makeRegExp(CR))[1];
+Script,Z,R = C.match(makeRegExp(CR))[2];
+
+Option,Spiral
+
+1C--1H--2H--,2S,ask about hand
++,2N,short !S
++,3C,3-card fit & minimum
++,3D,short !D | 3-card fit & minimum
++,3H,4-card fit & minimum
++,3S,short !S & maximum
++,3N,3-card fit & maximum
++,4C,5!C4!H22 hand & maximum
++,4D,short !D | 3-card fit & maximum
+
+
+
+
+
+
+1[CD]--1H--2H--2S--,2N,short !S | 3-card fit & minimum
++,3C,short !C | 3-card fit & minimum
++,3D,!D control
+1S--2S--,2N,ask about hand
++,3C,short !C
++,3D,short !D
++,3H,short !H
+1S--2S--2N--,3C,!C control
++,3D,!D control
++,3H,!H control
+1[CD]__1H__2H__,2S,ask about hand
++,2N,short !S
++,3C,short !C
++,3D,short !D
+1[CD]__1H__2H__2S__,2N,!S control
++,3C,!C control
++,3D,!D control
+1[CDH]__1S--2S--,2N,ask about hand
++,3C,short !C
++,3D,short !D
++,3H,short !H
+1[CDH]__1S--2S--2N--,3C,!C control
++,3D,!D control
++,3H,!H control
+Option
