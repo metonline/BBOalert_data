@@ -1,19 +1,11 @@
 bboalert,Trial
+
 Option,Lang EN
 Option,Lang TR
 Alias,ask about hand,el tarif sorusu
-Alias,
-Alias,
-Alias,
-Alias,
-Alias,
-Alias,
-Alias,
-Alias,
-Alias,
-Alias,
+Alias,short,kısa
+Option
 
-Alias,
 TRIAL
 
 Option,Trial
