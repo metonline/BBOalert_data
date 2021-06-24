@@ -1,0 +1,240 @@
+bboalert,Araya Girişler
+
+Option,Lang EN
+Option,Lang TR
+Alias,balanced,dengeli
+Alias,1-suited hand,tek renkli el
+Alias,ask,soru
+Alias,both majors weak or 17+,zayıf majörler ya da 17+
+Alias,both minors  weak or 17+,zayıf minörler ya da 17+
+Alias,or any takeout 12+,veya herhangi 2/3 renkli açar el; 12+
+Alias,preemptive,blokatif
+Alias,relay,röle
+Alias,weak,zayıf
+Option
+
+Option,Overcall
+1C,1D,4+!H; 8-16
+1C1D--,1H,0-7; <4!H; relay
+1C1D--1H--,1N,5!H332; 14-16
+1C1D--1H--,1S,5!H-4!s; 14-16
+1C1D--1H--,2D,5!H-4!D; 14-16
+1C1D--1H--,2H,6+!H; 14-16
+1C1D--1H--,2S,5!H-4!S; 17+
+1C1D--,1N,8-11; <3!h
+1C1D--,1S,8-11; 4+!S
+1C1D--,2C,12+
+1C1D--,2D,8-11; 5+!d <3!h
+1C1D--,2H,8-11; 3+!H
+1C1D--,2N,12-14; <3!h
+1C1D--,3H,0-5; 4+!h
+1C,1H,4+!S; 8-16
+1C1H--,1N,8-11; <3!S
+1C1H--,1S,0-7; <4!S; relay
+1C1H--1S--,1N,5!s332; 14-16
+1C1H--1S--,2D,5!s-4!D; 14-16
+1C1H--1S--,2H,5!S-4!H; 14-16
+1C1H--1S--,2S,6+!S; 14-16
+1C1H--,2C,12+
+1C1H--,2D,8-11; 5+!d <3!s
+1C1H--,2H,8-11; 5+!H <3!s
+1C1H--,2N,12-14; <3!S
+1C1H--,2S,8-11; 3+!S
+1C1H--,3S,0-5; 4+!S
+1C,1N,16-18 balanced
+1C,1S,5+!C; 11-16
+1C1S--,1N,8-11
+1C1S--,2C,0-7; relay
+1C1S--2C--,2D,5+!C-4!d; 14-16
+1C1S--2C--,2H,5+!C-4!H; 14-16
+1C1S--2C--,2N,19-20
+1C1S--2C--,2S,5+!C-4!s; 14-16
+1C1S--2C--,3C,6+!C; 14-16
+1C1S--2C--,3D,5+!c-4!D; 17+
+1C1S--2C--,3H,5!H-5!C; 17+
+1C1S--2C--,3S,5!S-5!C; 17+
+1C1S--,2D,5+!D; 8-11
+1C1S--,2H,5+!H; 8-11
+1C1S--,2N,12-14
+1C1S--,2S,5+!S; 8-11
+1C1S--,3C,3+!C; 8-11
+1C,2C,1-suited hand; 17+
+1C2C--,2D,ask
+1C2C--2D--,2H,6+!h; 17+
+1C2C--2D--,2N,6+!d; 17+
+1C2C--2D--,2S,6+!S; 17+
+1C,2D,both majors weak or 17+
+1C,2H,6+!H; preemptive
+1C,2N,5!D-5!H; weak
+1C,2S,6+!S; preemptive
+1C,3C,5!D-5!S; weak
+1C,Db,4+!D; 8-16 or any takeout 12+
+1CDb--,1D,0-7; <3!D; relay
+1CDb--1D--,1H,4441!C; 12-16
+1CDb--1D--,1N,19-20
+1CDb--1D--,1S,5!D-4!S; 12-16
+1CDb--1D--,2C,4441!C; 17+
+1CDb--1D--,2D,6+!D; 15-16
+1CDb--1D--,2H,5+!D-4!H; 17+
+1CDb--1D--,2N,5!H-5!D; 17+
+1CDb--1D--,2S,5+!D-4!S; 17+
+1CDb--1D--,3C,5!s-5!D; 17+
+1CDb--,1H,4+!H; 8-11
+1CDb--1H--,2D,5+!D <12; non-forcing
+1CDb--,1N,8-11
+1CDb--1N--,2D,5+!D <12; non-forcing
+1CDb--,1S,4+!S; 8-11
+1CDb--1S--,2D,5+!D <12; non-forcing
+1CDb--,2C,12+
+1CDb--,2D,0-7; 4!D; relay
+1CDb--,2N,12-14
+1D,1H,5+!S; 8-16
+1D1H--,1N,8-11; <3!S
+1D1H--,1S,0-7; <4!S; relay
+1D1H--1S--,1N,5!s332; 14-16
+1D1H--1S--,2C,5!s-4!c; 14-16
+1D1H--1S--,2H,5!S-4!H; 14-16
+1D1H--1S--,2S,6+!S; 14-16
+1D1H--,2C,12+
+1D1H--,2D,8-11; 5+!d <3!s
+1D1H--,2H,8-11; 5+!H <3!s
+1D1H--,2N,12-14; <3!S
+1D1H--,2S,8-11; 3+!S
+1D1H--,3S,0-5; 4+!S
+1D,1N,16-18 balanced
+1D,1S,5+!C; 11-16
+1D1S--,1N,8-11
+1D1S--,2C,0-7; relay
+1D1S--2C--,2H,5+!C-4!H; 14-16
+1D1S--2C--,2S,5+!C-4!s; 14-16
+1D1S--,2D,12+
+1D1S--,2H,5+!H; 8-11
+1D1S--,2N,12-14
+1D1S--,2S,5+!S; 8-11
+1D1S--,3C,3+!C; 8-11
+1D,2C,both majors weak or 17+
+1D,2D,1-suited hand; 17+
+1D2D--,2H,ask
+1D2D--2H--,2N,6+!H; 17+
+1D2D--2H--,2S,6+!S; 17+
+1D2D--2H--,3C,6+!C; 17+
+1D,2H,6+!H; preemptive
+1D,2N,5!H-5!C; weak
+1D,2S,6+!s; preemptive
+1D,3C,5!s-5!c; weak
+1D,Db,5+!h; 8-16 or any takeout 12+
+1DDb--,1D,relay; 0-7
+1DDb--1D--,1H,4441!C; 12-16
+1DDb--1D--,2C,4441!C; 17+
+1DDb--,1H,0-7; <3!H; relay
+1DDb--1H--,1N,5!H332; 19-20
+1DDb--1H--,1S,4441!D; 12-16
+1DDb--1H--,2C,5!H-4+!C; 14-16
+1DDb--1H--,2D,4441!D; 17+
+1DDb--1H--,2H,6+!H; 14-16
+1DDb--1H--,2N,5!H-5!C; 17+
+1DDb--1H--,2S,5+!H-4!s; 17+
+1DDb--1H--,3C,5!s-5!C; 17+
+1DDb--,1N,8-11
+1DDb--,1S,4+!S; 8-11
+1DDb--1S--,2H,5+!h <12; non-forcing
+1DDb--,2C,4+!C; 8-11
+1DDb--2C--,2H,5+!h <12; non-forcing
+1DDb--,2D,12+
+1DDb--,2H,0-7; 4!H; relay
+1DDb--,2N,12-14
+1H,1N,16-18 balanced
+1H,1S,5+!C; 11-16
+1H1S--,1N,8-11
+1H1S--,2C,0-7
+1H1S--2C--,2H,5+!C-4!H; 14-16
+1H1S--2C--,2S,5+!C-4!s; 14-16
+1H1S--,2D,5+!d; 8-11
+1H1S--,2H,12+
+1H1S--,2N,12-14
+1H1S--,2S,5+!S; 8-11
+1H1S--,3C,3+!C; 8-11
+1H,2C,5+!d; 11-16
+1H2C--,2D,0-7
+1H2C--,2H,12+; relay
+1H2C--,2N,8-11
+1H2C--,2S,5+!s; 8-11
+1H2C--,3C,5+!C; 8-11
+1H2C--,3D,4+!D; 8-11
+1H,2D,5!S-5(!C/!D); weak
+1H,2H,1-suited hand; 17+
+1H2H--,2S,ask
+1H2H--2S--,2N,6+!s; 17+
+1H2H--2S--,3C,6+!C; 17+
+1H2H--2S--,3D,6+!d; 17+
+1H,2N,both minors  weak or 17+
+1H,2S,6+!S; preemptive
+1H,Db,5+!s; 8-16 or any takeout 12+
+1HDb--,1D,0-7; relay
+1HDb--1D--,1H,4441!C; 12-16
+1HDb--1D--,2C,4441!C; 17+
+1HDb--,1H,0-7; <3!H; relay
+1HDb--1H--,1N,19-20
+1HDb--1H--,1S,4441!D; 12-16
+1HDb--1H--,2C,5!H-4+!C; 17+
+1HDb--1H--,2D,4441!D; 17+
+1HDb--1H--,2H,4+!H; 17+
+1HDb--1H--,2S,5!H-4!s; 17+
+1HDb--,1N,8-11
+1HDb--,1S,0-7; <4!S; relay
+1HDb--1S--,1N,19-20
+1HDb--1S--,2C,4441!H; 12-16
+1HDb--1S--,2D,5+!S-4+!D; 14-16
+1HDb--1S--,2H,4441!H; 17+
+1HDb--1S--,2S,6!S; 14-16
+1HDb--1S--,3C,5!S-4+!C; 17+
+1HDb--1S--,3D,5!S-4+!d; 17+
+1HDb--,2C,5+!C; 8-11; <3!S
+1HDb--2C--,2S,5+!s <12; non-forcing
+1HDb--,2D,5+!d; 8-11; <3!S
+1HDb--2D--,2S,5+!s <12; non-forcing
+1HDb--,2H,12+
+1HDb--,2N,12-14
+1HDb--,2S,0-7; 4!S
+1S,1N,16-18
+1S,2C,5+!D; 11-16
+1S2C--,2D,0-7; relay
+1S2C--,2H,5+!H; 8-11
+1S2C--,2N,8-11
+1S2C--,2S,12+
+1S2C--,3C,5+!C; 8-11
+1S2C--,3D,4+!D; 8-11
+1S,2D,5+!h; 11-16
+1S2D--,2H,0-7; <4!H
+1S2D--,2N,8-11
+1S2D--,2S,12+
+1S2D--,3C,5+!c; 8-11
+1S2D--,3D,5+!d; 8-11
+1S2D--,3H,8-11; 3+!H
+1S,2H,5!h-5(!C/!D); weak
+1S,2N,both minors  weak or 17+
+1S,2S,1-suited hand; 17+
+1S2S--,2N,ask
+1S2S--2N--,3C,6+!C; 17+
+1S2S--2N--,3D,6+!d; 17+
+1S2S--2N--,3H,6+!h; 17+
+1S,Db,5+!c; 11-16 or any takeout 12+
+1SDb--,1N,8-11
+1SDb--,2C,0-7; relay
+1SDb--2C--,2D,4441!S; 12-16
+1SDb--2C--,2H,5+!C-4!H; 14-16
+1SDb--2C--,2N,19-20
+1SDb--2C--,2S,4441!S; 17+
+1SDb--2C--,3C,6+!C; 14-16
+1SDb--2C--,3D,5+!C-4+!D; 17+
+1SDb--2C--,3H,5!H-5!C; 17+
+1SDb--2C--,3S,5!S-5!C; 17+
+1SDb--,2D,8-11; 4+!D
+1SDb--2D--,3C,5+!c <12; non-forcing
+1SDb--,2H,8-11; 4+!H
+1SDb--2H--,3C,5+!c <12; non-forcing
+1SDb--,2N,12-14
+1SDb--,2S,12+
+1SDb--,3C,8-11; 4+!C
+Option
+
