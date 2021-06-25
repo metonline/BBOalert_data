@@ -715,9 +715,9 @@ PREV_OPPS = ACT_OPPS;
 //Script
 Option
 Option,Lang EN
-Shortcut,FNT,We play 1-level suit openings 14+ (11+ with both majors) forcing for 1-round …\n.1NT: 12-14; may have 5-card major or 11-13; (44)MM(41)mm off-shape also…\n.2-level openings: 10-13 & 5+card; unbalanced 1/2/3 suited hands…\n.1!C: 2+!C (could have any 5-card suit even a major suit over 23 HCP) when balanced)\n.1!D=4+!D unbalanced..\n.Upside down counting & attitude..Leads are 2nd/4th..Lavinthal discards against NT..RKC1430..We will alert when necessary…Good Luck!..\n
+Shortcut,FNT,We play 1-level suit openings 14+ (11+ with both majors) forcing for 1-round …\n 1NT: 12-14; may have 5-card major or 11-13; (44)MM(41)mm off-shape also…\n 2-level openings: 10-13 & 5+card; unbalanced 1-2-3 suited hands…\n 1!C: 2+!C (could have any 5-card suit even a major suit over 23 HCP when balanced)\n 1!D=4+!D unbalanced..\n Upside down counting & attitude..Leads are 2nd/4th..Lavinthal discards against NT..RKC1430..We will alert when necessary…Good Luck!..\n
 Option,Lang TR
-Shortcut,FNT,1-açışlar 14+ (her 2 majör de varken 11+) ve 1-tur forsing...\n.1NT açışı 12-14 5.li majör veya (44)MM(41)mm dağılım olabilir...\n.2-açışlar 10-13 ve dengesiz (1-2-3-renkli) 5+uzunluk ile...\n.1!C açışı 2+!C ile ..14+ dengeli iken 15+; 1!C açılan el dengeli ise 5.li başka bir renk 23+ limitte 5.li majör dahi barındırabilir...\n.1!D açışı 4+!D ve 14+ ile dengesiz...\n.Ataklar 2. ve 4.den küçük apel & defos NT ye karşı defoslar preferansiyel...RKC 1430...Özel sekansları alert edeceğiz..iyi oyunlar..\n
+Shortcut,FNT,1-açışlar 14+ (her 2 majör de varken 11+) ve 1-tur forsing...\n 1NT açışı 12-14 5.li majör veya (44)MM(41)mm dağılım olabilir...\n 2-açışlar 10-13 ve dengesiz (1-2-3-renkli) 5+uzunluk ile...\n 1!C açışı 2+!C ile ..14+ dengeli iken 15+; 1!C açılan el dengeli ise 5.li başka bir renk 23+ limitte 5.li majör dahi barındırabilir...\n 1!D açışı 4+!D ve 14+ ile dengesiz...\n Ataklar 2. ve 4.den küçük apel & defos NT ye karşı defoslar preferansiyel...RKC 1430...Özel sekansları alert edeceğiz..iyi oyunlar..\n
 
 Option,RitaCard,meto+ratrut
 //Script,onDataLoad,PREV_OPPS = "";
