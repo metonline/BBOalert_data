@@ -16,8 +16,8 @@ Option,FaileNT
 1N--2C--2D--,4D,Transfer to 4!s with 6!s
 1N--2C--2D--,4H,To Play
 1N--2C--2D--,4S,To Play
-1N--2C--,3H,5!S GF
-1N--2C--,3S,5!H GF
+1N--2C--,3H,5!H GF
+1N--2C--,3S,5!S GF
 1N--2C--,4C,Transfer to 4!H with 6!H
 1N--2C--,4D,Transfer to 4!s with 6!s
 1N--2C--,4H,To Play
