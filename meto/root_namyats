@@ -1,0 +1,18 @@
+bboalert,Namyats
+
+Option,Lang EN
+Option,Lang TR
+Alias,interest in slam ,şilem ilgisi
+Alias,ask about shortage,kısalık sorusu
+Alias,To Play,Oynamaya
+Option
+
+
+Option,namyats,meto+ratrut,meto+camomille
+,4C,8!H; 12-15
+4C--,4D; interest in slam & ask about shortage
++,4H,To Play
+,4D,8!S; 12-15
+4D--,4H; interest in slam & ask about shortage
++,4S,To Play
+Option
