@@ -17,6 +17,7 @@ Alias,GF,zon-forsing
 Alias,relay,röle
 Alias,minors,minörler
 Alias,To Play,Oynamaya
+Alias,signoff,pas emri
 Option
 
 Option,FaileNT
@@ -45,7 +46,7 @@ Option,FaileNT
 1N--,2H,5+!S
 1N--,2N,any weak long minor suit
 1N--2N--,3C,relay
-1N--2N--3C--,3D,6+!D's
+1N--2N--3C--,3D,6+!D; signoff
 1N--,2S,invite or both minors
 1N--2S--,2N,decline
 1N--2S--2N--,3C,5-5 minors; PASS/CORRECT
