@@ -1,5 +1,24 @@
 bboalert,FaileNT
 
+Option,Lang EN
+Option,Lang TR
+Alias,any 4-card major,4.lü majör garanti
+Alias,Transfer to 4!H,4!H'e transfer
+Alias,Transfer to 4!s,4!s'e transfer
+Alias,invite or both minors,davet ya da minörler
+Alias,any weak long minor suit,herhangi uzun bir minör renk
+Alias,decline,deveti ret
+Alias,accept invitation with !C fit,daveti kabul; !C fiti
+Alias,accept invitation with !D fit,daveti kabul; !D fiti
+Alias,44 majors 41 minors; game values,44 majör 41 minör eli; zon puanı
+Alias,ask about hand,el tarif sorusu
+Alias,PASS/CORRECT,pas geç ya da düzelt
+Alias,GF,zon-forsing
+Alias,relay,röle
+Alias,minors,minörler
+Alias,To Play,Oynamaya
+Option
+
 Option,FaileNT
 ,1N,14-17
 1N--,2C,Stayman; any 4-card major
@@ -12,14 +31,14 @@ Option,FaileNT
 1N--2C--2D--,3H,5!S GF
 1N--2C--2D--,3N,To Play
 1N--2C--2D--,3S,5!H GF
-1N--2C--2D--,4C,Transfer to 4!H with 6!H
-1N--2C--2D--,4D,Transfer to 4!s with 6!s
+1N--2C--2D--,4C,6+!H; Transfer to 4!H
+1N--2C--2D--,4D,6+!S; Transfer to 4!s
 1N--2C--2D--,4H,To Play
 1N--2C--2D--,4S,To Play
 1N--2C--,3H,5!H GF
 1N--2C--,3S,5!S GF
-1N--2C--,4C,Transfer to 4!H with 6!H
-1N--2C--,4D,Transfer to 4!s with 6!s
+1N--2C--,4C,6+!H; Transfer to 4!H
+1N--2C--,4D,6+!s; Transfer to 4!s
 1N--2C--,4H,To Play
 1N--2C--,4S,To Play
 1N--,2D,5+!H
@@ -33,16 +52,16 @@ Option,FaileNT
 1N--2S--2N--,3D,5-5 minors; GF
 1N--2S--,3C,accept invitation with !C fit
 1N--2S--,3D,accept invitation with !D fit
-1N--,3C,puppet
+1N--,3C,Puppet Stayman
 1N--,3D,44 majors 41 minors; game values
-1N--3D--,3H,ask
+1N--3D--,3H,ask about hand
 1N--3D--3H--,3N,4!D
 1N--3D--3H--,3S,4!C
 1N--,3H,3!H; (54) minors GF
 1N--,3N,To Play
 1N--,3S,3!s; (54) minors GF
-1N--,4C,Transfer to 4!H with 6!H
-1N--,4D,Transfer to 4!s with 6!s
+1N--,4C,6+!H; Transfer to 4!H
+1N--,4D,6+!s; Transfer to 4!s
 1N--,4H,To Play
 1N--,4S,To Play
 Option
