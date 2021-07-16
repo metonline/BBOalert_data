@@ -176,7 +176,7 @@ Alias,strong take-out for !s's,!S'e güçlü take-out
 Alias,strong take-out for !h's,!h'e güçlü take-out
 Alias,strong take-out for !d's,!d'ya güçlü take-out
 Alias,asking about cues,kontrol sorusu
-Alias,14+ HCP if unbalanced or 15+ HCP if balanced (may have any 5-card even a major suit when above 23 HCP),dengesiz iken 14+, dengeli iken 15+HCP (5.li başka bir renk hatta 23 HCP üzeri elle 5.li majör bir renk bile bulunabilir!)
+Alias,14+ HCP if unbalanced or 15+ HCP if balanced (may have any 5-card even a major suit when above 23 HCP),dengesiz iken 14+ dengeli iken 15+HCP (5.li başka bir renk hatta 23 HCP üzeri elle 5.li majör bir renk bile bulunabilir!)
 Option
 
 Option,F1,meto+342257
