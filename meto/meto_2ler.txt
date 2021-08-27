@@ -126,9 +126,9 @@ Option,2ler
 2D--2H--2N--3C--,3S,shorth !C | 6!d4!S2!H1!C
 2D--2H--,2S,short !H
 2D--2H--2S--,2N,ask further about shape | GF
-2D--2H--2S--2N--,3C,short !h | 5!d4!C3!s1!h or 5!d5!C2!s1!h or 6!d4!C2!s1!h
+2D--2H--2S--2N--,3C,short !h | 5!d4!C3!s1!h or 6!D4!C2!S1!H
 2D--2H--2S--2N--,3D,short !h | 5!d4!s3!D1!h
-2D--2H--2S--2N--,3H,short !h | 6!D3!s3!d1!h or 7!d3!s2!D1!h 
+2D--2H--2S--2N--,3H,short !h | 6!D3!s3!d1!h
 2D--2H--2S--2N--,3S,short !h | 6!D4!s2!d1!h
 2D--2H--,3C,short !S | 5!d4!C3!h1!s or 5!d5!C2!H1!S or 6!d4!C2!H1!S
 2D--2H--,3D,short !S | 5!d4!H3!D1!S
