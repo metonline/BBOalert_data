@@ -89,6 +89,7 @@ Option,double_m_1level,meto+camomille
 Option,spiral,meto+camomille
 Option,Overcall,meto+342257
 Option,namyats,meto+ratrut,meto+camomille
+Option,multidef,meto+ratrut,meto+342257,meto+camomille
 Option
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventionMajorFit.txt,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NFB.txt,meto+camomille,meto+gypsyqueen,meto+nilsun,meto+gurus,meto+ratrut,meto+ozbay
@@ -146,3 +147,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_root_after
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_root_spiral_trial,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_root_overcall,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_namyats,meto+ratrut,meto+camomille
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_multiye_defans.txt,meto+ratrut,meto+342257
