@@ -1,6 +1,6 @@
 Option,Lang EN
 Option,Lang TR
-Alias,12-14; 5-card major or 11-13;(44)M(41)m is possible,12-14; 5.li majör veya 11-13;(44)M(41)m olabilir
+Alias,5-card major or 11-13;(44)M(41)m is possible,12-14; 5.li majör veya 11-13;(44)M(41)m olabilir
 Alias,Stayman | may not have 4-card major,Stayman | 4.lü majör olmayabilir
 Alias,no 4-card major,4.lü majör yok
 Alias,transfer to 2!S,2!S'e transfer
