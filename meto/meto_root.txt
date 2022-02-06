@@ -8,10 +8,6 @@ Shortcut,EEE, Europe
 Shortcut,MB,342257
 Shortcut,MG,meto
 Shortcut,RR,ratrut
-Shortcut,MNN,maan4
-Shortcut,RFF,temizel_55
-Shortcut,MAY,mayyou
-Shortcut,PP,pikolo
 Option,Lang EN
 Shortcut,wlcBosfor, Welcome to Bosphorus Team Games…Good luck & Enjoy….\n, width=50% backgroundColor=blanchedalmond
 Option,Lang TR
@@ -28,10 +24,6 @@ Option,Lang EN
 Shortcut,ttt, Thank you ! \n,
 Option,Lang TR
 Shortcut,ttt, Teşekkürler! \n,
-Option,Lang EN
-Shortcut,gl, good luck! \n,
-Option,Lang TR
-Shortcut,gl, İyi oyunlar! \n,
 Option
 Option,InterventionMajorFit,meto+camomille
 Option,NFB,meto+camomille, meto+gypsyqueen, meto+nilsun, meto+gurus, meto+ratrut, meto+ozbay
