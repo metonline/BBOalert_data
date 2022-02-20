@@ -1,0 +1,131 @@
+bboalert,Rita
+
+Option, Rita
+,1C,2+!C; 12+HCP (can have 5-card !D when balanced)
+1C--,1D,4+!H; 5-12 HCP 
+1C--1D--,1H,4!H; 11+ HCP & 1-round forcing
+1C--1D--1H--,1N,balanced & trial for game
+1C--1D--1H--,2C,short !C & trial for game
+1C--1D--1H--,2D,short !D & trial for game
+1C--1D--1H--,2H,4!H & minimum hand
+1C--1D--1H--,3H,5!H & minimum hand
+1C--1D--1H--,4H,6!H & gamble
+1C--1D--,1S, 11+HCP & 5+!C-4!S
+1C--1D--,1N,15-18 HCP; could have 4-card !S
+1C--1D--1N--,2C,4!S & invite for game
+1C--1D--1N--,2D,5+!H & transfer
+1C--1D--1N--,2H,weak hand; 4+!H & 4!S (P/C to 2!S)
+1C--1D--1N--,2S,lebenshol (transfer to 3!C for P/C to 3!D)
+1C--1D--1N--,2N,invite for game with 4!H’s
+1C--1D--1N--,3C,invite for game with 4!H-5+!C
+1C--1D--1N--,3D,invite for game with 4!H-5+!D
+1C--1D--1N--2C--,2D,no 3!H nor 4!S; 15-16 HCP
+1C--1D--1N--2C--,2H,3!H’s but no 4!S’s; 15-16 HCP
+1C--1D--1N--2C--,2S,4!S; 15-16 HCP
+1C--1D--1N--2C--,2N,no 3!H nor 4!S but 5!C; 15-16 HCP
+1C--1D--1N--2C--,3C,no 3!H nor 4!S but 5!C; 17-18 HCP
+1C--1D--1N--2C--,3D,no 3!H nor 4!S but 5!D; 17-18 HCP
+1C--1D--1N--2C--,3H,3!H but no 4!S’s; 17-18 HCP
+1C--1D--1N--2C--,3S,4!S’s (can have 3!H also); 17-18 HCP
+1C--1D--1N--2C--,3N,4!C4!D2!H3!S; 17-18 HCP
+1C--1D--,2H, 3!H & 19-20 HCP
+1C--1D--,2N, 2!H & 19-20 HCP
+1C--1D--2H--,3H,4!H & 4!S
+1C--1D--2H--,2S,Transfer to 2NT with 5+HCP
+1C--1D--,3NT, 4!H & 6+!C (solid); 11-14 HCP
+1C--,1H,5-12 HCP; 4+!S
+1C--1H--,1N,15-18 HCP; no 4-card !S
+1C--1H--1N--,2C,sign-off
+1C--1H--1N--,2D,sign-off
+1C--1H--1N--,2H,5+!s & transfer
+1C--1H--1N--,2N,invite for game with 4!S’s
+1C--1H--1N--,3C,invite for game with 4!S-5+!C
+1C--1H--1N--,3C,invite for game with 4!S-5+!D
+1C--1S--,1N,15-18 HCP
+1C--1S--1N--,2C,sign-off
+1C--1S--1N--,2D,sign-off
+1C--1S--1N--,2N,invite for game
+1C--1S--1N--,3C,6+C; invite for game
+1C--1S--1N--,3D,6+D; invite for game
+1C--1S--1N--,3H,short !H & 4-5 both minors GF
+1C--1S--1N--,3S,short !S & 4-5 both minors GF
+
+
+
+
+
+
+
+
+
+
+,1D,4+!d; 11+HCP (typically unbalanced)
+1D--,1H,5-12 HCP; 4+!H
+1D--1H--1N--,2C,transfer to 2!d for signoff / invite for game
+1D--1H--1N--2C--,2D,relay
+1D--1H--1N--,2D,GF; ask about shape
+1D--1H--1N--,2N,transfer to 2!c for signoff / GF with 55 hand
+1D--1H--1N--2N--,3C,relay
+1D--1H--1N--2N--3C--,3D,GF with 5!h-5!d
+1D--1H--1N--2N--3C--,3H,slam try with 5!H-5!C
+1D--1H--1N--2N--3C--,3N,GF with 5!H-5!c
+1D--1H--1S--,2C,transfer to 2!d for signoff / invite for game
+1D--1H--1S--2C--,2D,relay
+1D--1H--1S--,2D,GF; ask about shape
+1D--1H--1S--,2N,transfer to 2!c for signoff / GF with 55 hand
+1D--1H--1S--2N--,3C,relay
+1D--,1N,6-12 HCP; no 4-card major suit
+1D--,1S,5-12 HCP; 4+!s
+1D--1S--1N--,2C,transfer to 2!d for signoff / invite for game
+1D--1S--1N--2C--,2D,relay
+1D--1S--1N--,2D,GF ; ask about shape
+1D--1S--1N--,2H,5!s-5!h ; 5-8 HCP
+1D--1S--1N--,2N,transfer to 2!c for signoff / GF with 55 hand
+1D--1S--1N--2N--,3C,relay
+1D--1S--1N--2N--3C--,3D,GF with 5!s-5!D
+1D--1S--1N--2N--3C--,3H,GF with 5!S-5!H
+1D--1S--1N--2N--3C--,3N,GF with 5!s-5!c
+1D--1S--1N--2N--3C--,3S,slam try with 5!s-5!c
+1D--,2C,13+HCP; !C's maybe short with 4-card major suit
+1D--,2D,5+!s's-4+!H's; 5-9 HCP 
+1D--,2H,12+HCP; GF
+1D--,2N,11-12 HCP; no 4-card major suit
+1D--,2S,12+HCP; GF
+1D--,3C,(6/7)!c; 0-5 HCP
+1D--,3D,4+!d's; 0-5 HCP
+1D--,3H,(6/7)!H; 0-5 HCP
+1D--,3N,13-16 HCP; To Play
+1D--,3S,(6/7)!S; 0-5 HCP
+,1H,5+!h; 11+HCP
+1H--,1N,5-12 HCP
+1H--,1S,4+!s ; 5+ HCP
+1H--1S--,1N,5!h332 ; 11-13 HCP 
+1H--1S--1N--,2C,transfer to 2!d for signoff / invite for game
+1H--1S--1N--2C--,2D,relay
+1H--1S--1N--,2D,GF ; ask about shape
+1H--1S--1N--,2N,transfer to 2!c for signoff / GF with 55 hand
+1N, good 14-17 HCP ; could have 5-card major and offshape as 5431 or 1444
+,1S,5+!s ; 11+ HCP
+1S--,1N,5-12 HCP
+1H--1N--,2S,18+;5!H-4!S
++,2N,Transfer to 3!C
++,3C,18+;5!H-5!C
++,3D,18+;5!H-5!D
++,3H,6+!H;15-17
+1H--1N--2N--,3C,relay
+1H--1N--2N--3C--,3D,18+;5+!H-4!D
++,3H,18+;6+!H
++,3S,18+;6+!H-4!S
++,3N,18+;5+!H-4!C
+1S--1N--,2N,Transfer to 3!C
++,3C,18+;5!S-5!C
++,3D,18+;5!S-5!D
++,3D,18+;5!S-5!H
++,3S,6+!S;15-17
+1S--1N--2N--,3C,relay
+1S--1N--2N--3C--,3D,18+;5+!H-4!D
++,3H,18+;5+!S-4!H6+!H
++,3S,18+;6+!S
++,3N,18+;5+!S-4!C
+Option
+
