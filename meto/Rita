@@ -49,12 +49,28 @@ Option, Rita
 1C--1S--1N--,3D,6+D; invite for game
 1C--1S--1N--,3H,short !H & 4-5 both minors GF
 1C--1S--1N--,3S,short !S & 4-5 both minors GF
+1C--,1N,13+HCP; balanced hand (may have 4-card major)
+1C--1N--,2C,15-20 HCP balanced hand (may have 4-card major)
+1C--1N--,2D,18+HCP; 5+!C unbalanced hand
+1C--1N--,2H,11-17 HCP; 5+!C-4!H
+1C--1N--,2S,11-17 HCP; 5+!C-4!S
+1C--1N--,2N,11-17 HCP; 5+!C-4!D
+1C--1N--,3C,11-17 HCP; 5+!C
+1C--1N--2C--,2D,16+HCP
+1C--1N--2C--,2H,13-15 HCP;4!H
+1C--1N--2C--,2S,13-15 HCP;4!S
+1C--1N--2C--,2N,13-15 HCP;4!C4!D32
+1C--1N--2C--,3C,13-15 HCP;5!C332
+1C--1N--2C--,3D,13-15 HCP;5!D332
 
-
-
-
-
-
+1C--,2N,13-18 HCP; balanced hand 5(!H/!S)332 shape
+1C--2N--,3C,ask about shape & limit
+1C--2N--3C--,3D,5!H332; 13-14 HCP
+1C--2N--3C--,3H,5!S332; 13-14 HCP
+1C--2N--3C--,3S,5!H332; 15-16 HCP
+1C--2N--3C--,3N,5!S332; 15-16 HCP
+1C--2N--3C--,4C,5!H332; 17-18 HCP
+1C--2N--3C--,4D,5!S332; 17-18 HCP
 
 
 
