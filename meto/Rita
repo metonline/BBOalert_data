@@ -80,41 +80,57 @@ Option, Rita
 
 ,1D,4+!d; 11+HCP (typically unbalanced)
 1D--,1H,5-12 HCP; 4+!H
-1D--1H--1N--,2C,transfer to 2!d for signoff / invite for game
-1D--1H--1N--2C--,2D,relay
-1D--1H--1N--,2D,GF; ask about shape
-1D--1H--1N--,2N,transfer to 2!c for signoff / GF with 55 hand
-1D--1H--1N--2N--,3C,relay
-1D--1H--1N--2N--3C--,3D,GF with 5!h-5!d
-1D--1H--1N--2N--3C--,3H,slam try with 5!H-5!C
-1D--1H--1N--2N--3C--,3N,GF with 5!H-5!c
-1D--1H--1S--,2C,transfer to 2!d for signoff / invite for game
-1D--1H--1S--2C--,2D,relay
-1D--1H--1S--,2D,GF; ask about shape
-1D--1H--1S--,2N,transfer to 2!c for signoff / GF with 55 hand
-1D--1H--1S--2N--,3C,relay
++,1N,16-17 HCP
++,2C,11-15 HCP; 5+!D-4+!C
++,2D,11-15 HCP; 5+!D
++,2H,11-14 & 5+!D-4!H
++,2S,18+HCP & 5+!D-4!S
+1D--,1S,5-12 HCP; 4+!S
++,1N,16-17 HCP
++,2C,11-15 HCP; 5+!D-4+!C
++,2D,11-15 HCP; 5+!D
++,2H,18+HCP & 5+!D-4!H
++,2S,11-14 HCP & 5+!D-4!S
+
+1D--1H--1N--,2C,4!H-5+!C & weak hand (sign-off)
++,2D,4!H-4+!D & weak hand (sign-off)
++,2H,5+!H & weak hand (sign-off)
+
+1D--1S--1N--,2C,4!S-5+!C & weak hand (sign-off)
++,2D,4!S-4+!D & weak hand (sign-off)
++,2S,5+!S & weak hand (sign-off)
+
 1D--,1N,6-12 HCP; no 4-card major suit
-1D--,1S,5-12 HCP; 4+!s
-1D--1S--1N--,2C,transfer to 2!d for signoff / invite for game
-1D--1S--1N--2C--,2D,relay
-1D--1S--1N--,2D,GF ; ask about shape
-1D--1S--1N--,2H,5!s-5!h ; 5-8 HCP
-1D--1S--1N--,2N,transfer to 2!c for signoff / GF with 55 hand
-1D--1S--1N--2N--,3C,relay
-1D--1S--1N--2N--3C--,3D,GF with 5!s-5!D
-1D--1S--1N--2N--3C--,3H,GF with 5!S-5!H
-1D--1S--1N--2N--3C--,3N,GF with 5!s-5!c
-1D--1S--1N--2N--3C--,3S,slam try with 5!s-5!c
-1D--,2C,13+HCP; !C's maybe short with 4-card major suit
-1D--,2D,5+!s's-4+!H's; 5-9 HCP 
-1D--,2H,12+HCP; GF
-1D--,2N,11-12 HCP; no 4-card major suit
-1D--,2S,12+HCP; GF
-1D--,3C,(6/7)!c; 0-5 HCP
-1D--,3D,4+!d's; 0-5 HCP
-1D--,3H,(6/7)!H; 0-5 HCP
-1D--,3N,13-16 HCP; To Play
-1D--,3S,(6/7)!S; 0-5 HCP
+1D--1N--,2C,15-16 HCP Gazilli (ask for limit)
++,2D,11-14 HCP; 5+!D
++,2H,17+HCP & 5+!D-4!H
++,2S,17+HCP & 5+!D-4!S
++,2N,17+HCP & 5+!D-4!C or 6+!D
++,3C,15-16 HCP & 5!D-5!C
++,3D,15-16 HCP & 6+!D
+
+
+1D--1N--2C--,2D,5-7 HCP; 4+!D sign-off
++,2H,8-10 HCP
++,2S,Transfer to 3!C for sign-off
++,2N,Transfer to 3!D for sign-off
++,3C,11-12; 5+!C (invite)
++,3D,11-12; 4+!D (invite)
+
+1D--,2C,13+HCP; !C's maybe short with 4-card major suit or balanced hand
+1D--,2D,5+!s's-4+!H's; 5-11 HCP 
+1D--,2H,12+HCP; GF (unbalanced)
+1D--,2S,12+HCP; GF (unbalanced)
+
+1D--,2N,13-18 HCP; balanced hand 5(!H/!S)332 shape
+1D--2N--,3C,ask about shape & limit
+1D--2N--3C--,3D,5!H332; 13-14 HCP
+1D--2N--3C--,3H,5!S332; 13-14 HCP
+1D--2N--3C--,3S,5!H332; 15-16 HCP
+1D--2N--3C--,3N,5!S332; 15-16 HCP
+1D--2N--3C--,4C,5!H332; 17-18 HCP
+1D--2N--3C--,4D,5!S332; 17-18 HCP
+
 ,1H,5+!h; 11+HCP
 1H--,1N,5-12 HCP
 1H--,1S,4+!s ; 5+ HCP
