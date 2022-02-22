@@ -12,21 +12,24 @@ Option, Rita
 1C--1D--1H--,4H,6!H & gamble
 1C--1D--,1S, 11+HCP & 5+!C-4!S
 1C--1D--,1N,15-18 HCP; could have 4-card !S
-1C--1D--1N--,2C,4!S & invite for game
-1C--1D--1N--,2D,5+!H & transfer
-1C--1D--1N--,2H,weak hand; 4+!H & 4!S (P/C to 2!S)
+
+1C--1D--1N--,2D,5+!H & transfer to 2!H
+1C--1D--1N--,2H,weak hand with 4+!H & 4!S (P/C to 2!S)
 1C--1D--1N--,2S,lebenshol (transfer to 3!C for P/C to 3!D)
 1C--1D--1N--,2N,invite for game with 4!H’s
 1C--1D--1N--,3C,invite for game with 4!H-5+!C
 1C--1D--1N--,3D,invite for game with 4!H-5+!D
-1C--1D--1N--2C--,2D,no 3!H nor 4!S; 15-16 HCP
-1C--1D--1N--2C--,2H,3!H’s but no 4!S’s; 15-16 HCP
-1C--1D--1N--2C--,2S,4!S; 15-16 HCP
-1C--1D--1N--2C--,2N,no 3!H nor 4!S but 5!C; 15-16 HCP
-1C--1D--1N--2C--,3C,no 3!H nor 4!S but 5!C; 17-18 HCP
-1C--1D--1N--2C--,3D,no 3!H nor 4!S but 5!D; 17-18 HCP
-1C--1D--1N--2C--,3H,3!H but no 4!S’s; 17-18 HCP
-1C--1D--1N--2C--,3S,4!S’s (can have 3!H also); 17-18 HCP
+
+1C--1D--1N--,2C,4+!H-4!S & invite for game
++,2D,15-16 HCP; no 3!H nor 4!S
++,2H,15-16 HCP; 3!H’s but no 4!S’s
++,2S,15-16 HCP; 4!S
++,2N,no 3!H nor 4!S but 5!C
++,3C,17-18 HCP; no 3!H nor 4!S but 5!C
++,3D,17-18 HCP; no 3!H nor 4!S but 5!D
++,3H,17-18 HCP; 3!H but no 4!S’s
++,3S,17-18 HCP; 4!S’s (can have 3!H also)
+
 1C--1D--1N--2C--,3N,4!C4!D2!H3!S; 17-18 HCP
 1C--1D--,2H, 3!H & 19-20 HCP
 1C--1D--,2N, 2!H & 19-20 HCP
