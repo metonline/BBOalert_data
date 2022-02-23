@@ -75,8 +75,10 @@ Option, Rita
 1C--2N--3C--,4C,5!H332; 17-18 HCP
 1C--2N--3C--,4D,5!S332; 17-18 HCP
 
-
-
+1C--,2C,13+HCP; GF in !C/!D
++,2D,1D,5+!s's-4+!H's; 5-11 HCP
++,2H,5+!H; 13+HCP (unbalanced)
++,2S,5+!S; 13+HCP (unbalanced)
 
 ,1D,4+!d; 11+HCP (typically unbalanced)
 1D--,1H,5-12 HCP; 4+!H
