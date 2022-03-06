@@ -137,6 +137,6 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_Def_vs_2c2
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_root_Double%401level,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_root_after%20DBL_on_1m,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_root_spiral_trial,meto+camomille
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_root_overcall,meto+342257
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_root_overcall,meto+342257,meto+ratrut
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_namyats,meto+ratrut,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_multiye_defans.txt,meto+ratrut,meto+342257
