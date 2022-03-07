@@ -2,7 +2,6 @@ BBOalert,<b><br>meto 210509<br></b>,
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_common.txt
 Option,InterventionMajorFit,meto+camomille, meto+gurus, meto+gypsyqueen, meto+ozbay, meto+ratrut, meto+nilsun
 Option,NFB,meto+camomille, meto+gypsyqueen, meto+nilsun, meto+gurus, meto+ratrut, meto+ozbay
-Option, XYZ, meto+nilsun, meto+ratrut, meto+gurus 
 Option,interventionminor, meto+camomille, meto+nilsun, meto+gypsyqueen, meto+ratrut, meto+ozbay
 Option,cuebid,meto+camomille, meto+nilsun, meto+gypsyqueen, meto+gurus, meto+ozbay, meto+ratrut
 Option, Lebensohl, meto+ratrut, meto+nilsun, meto+gurus, meto+gypsyqueen, meto+ozbay, meto+_kafkaf35, meto+camomille
@@ -15,14 +14,13 @@ Option, Walsh, meto+camomille, meto+nilsun, meto+ozbay, meto+gurus, meto+_kafkaf
 Option,RangeAskStayman, meto+gurus, meto+camomille, meto+342257, meto+gypsyqueen, meto+nilsun, meto+ratrut
 Option,Drury3way_@3@4,meto+camomille, meto+nilsun, meto+gurus, meto+gypsyqueen, meto+ratrut
 Option,Puppet,meto+ratrut
-Option, Rita, meto+ratrut
+Option,Rita, meto+ratrut
 Option,Overcall,meto+ratrut
 Option,namyats,meto+ratrut
 Option,minoracisamudahale,meto+ratrut
 
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventinMajorFit.txt,meto+camomille,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+ratrut,meto+nilsun
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventionMajorFit.txt,meto+ratrut,meto+nilsun,meto+gypsyqueen
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NFB.txt,meto+camomille,meto+gypsyqueen,meto+nilsun,meto+gurus,meto+ratrut,meto+ozbay
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_XYZ.txt,meto+nilsun,meto+ratrut,meto+gurus 
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_interventionminor.txt,meto+camomille,meto+nilsun,meto+gypsyqueen,meto+ratrut,meto+ozbay
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_cuebid.txt,meto+camomille,meto+nilsun,meto+gypsyqueen,meto+gurus,meto+ozbay,meto+ratrut
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Lebensohl.txt,meto+ratrut,meto+nilsun,meto+gurus,meto+gypsyqueen,meto+ozbay,meto+_kafkaf35,meto+camomille
