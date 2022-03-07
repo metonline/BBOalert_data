@@ -14,7 +14,6 @@ Option,RangeAskStayman, meto+gurus, meto+camomille, meto+342257, meto+gypsyqueen
 Option,Drury3way_@3@4,meto+camomille, meto+nilsun, meto+gurus, meto+gypsyqueen, meto+ratrut
 Option,Puppet,meto+ratrut
 Option,Rita, meto+ratrut
-Option,Overcall,meto+ratrut
 Option,namyats,meto+ratrut
 Option,minoracisamudahale,meto+ratrut
 Option,Major2NTF1,meto+ratrut
@@ -35,6 +34,5 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Rita.txt,m
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_xyz1h1s1n.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_puppet.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_namyats
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_root_overcall
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_minor_acisa_mudahale.txt,meto+ratrut
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Major2NTF1.txt,meto+ratrut
