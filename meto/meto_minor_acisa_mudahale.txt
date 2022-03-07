@@ -1,0 +1,63 @@
+bboalert,Minör Açışa Müdahale
+
+Option,minoracisamudahale
+1CDb,1D,7-9; 4+!H
+1CDb,1H,7-9; 4+!S
+1CDb,1S,7-9; 5!C
+1CDb,2N,0-5; 5!C
+1CDb,3C,11-12; 5!C
+1CDb,Rd,10+
+1C1D,Db,7-12; 4+!H
++,1H,7-12; 4+!S
++,1S,7-12; 5+!C
++,1N,7-12; 5+!C (!D stopper)
++,2C,12+; strong take-out or !C fit with game values
++,2D,weak 6+!H or GF 5+!H
++,2H,weak 6+!S or GF 5+!S
++,2S,10+; balanced with !D stopper
++,2N,0-5; 5!C
++,3C,11-12; 5!C
+1C1H,Db,7-12; 4+!S
++,1S,7-12; 5+!C
++,1N,7-12; 5+!C (!H stopper)
++,2C,7-12; 5+!D
++,2D,strong take-out or !C fit with game values
++,2H,weak 6+!S or GF 5+!S
++,2S,10+; balanced with !H stopper
++,2N,0-5; 5!C
++,3C,11-12; 5!C
+1C1S,Db,7-9; 5+!C or take-out with 5-12
++,1N,7-12; 5+!C (!S stopper)
++,2C,7-12; 5+!D
++,2D,7-12; 5+!H
++,2H,strong take-out or !C fit with game values
++,2S,10+;!S stopper; balanced or GF in !D/!H
++,2N,0-5; 5!C
++,3C,11-12; 5!C
++,3D,13+; 5+!H (Switch)
++,3H,13+; 5+!D (Switch)
+1DDb,2C,8-10; 4+!D
+1DDb,2N,0-5; 4+!D
+1DDb,3D,11-12; 4+!D
+1DDb,Rd,10+
+1C1D,Db,7-12; 4+!H
+1D1H,Db,7-12; 4+!S
++,1S,7-12; 5+!C
++,1N,7-12; 5+!C (!H stopper)
++,2C,7-9 4+!D
++,2D,strong take-out or !D fit with game values
++,2H,weak 6+!S or GF 5+!S
++,2S,10+; balanced with !H stopper
++,2N,0-5; 4+!D
++,3D,11-12; 4+!D
+1D1S,Db,7-9; 5+!C or take-out with 5-12
++,1N,7-12; 5+!C (!S stopper)
++,2C,7-9; 4+!D
++,2D,7-12; 5+!H
++,2H,strong take-out or !D fit with game values
++,2S,10+;!S stopper; balanced or GF in !C/!H
++,2N,0-5; 5!C
++,3C,13+; 5+!H (Switch)
++,3D,11-12; 5!C
++,3H,13+; 5+!C (Switch)
+Option
