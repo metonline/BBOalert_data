@@ -39,4 +39,4 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_xyz1h1s1n.
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_puppet.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_namyats
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_root_overcall
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_minor_acisa_mudahale.txt
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_minor_acisa_mudahale.txt,meto+ratrut
