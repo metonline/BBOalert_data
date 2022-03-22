@@ -183,8 +183,9 @@ Option,Overcall
 1H2C--,2S,5+!S; 8-11
 1H2C--,3C,5+!C; 8-11
 1H2C--,3D,4+!D; 8-11
-1H,2D,5!S-5!D; weak
-1H,2H,preemptive 6+!S or 17+; 6+!C/!D
+1H,2D,5!S-5!C/!D; weak
+1H,2H,preemptive 6+!S
+1H,2S,6+!c/!D/!S; 17+
 1H2H--,2S,ask
 1H2H--2S--,2N,6+!S; 17+
 1H2H--2S--,3C,6+!C; 17+
@@ -234,8 +235,8 @@ Option,Overcall
 1S2D--,3D,5+!d; 8-11
 1S2D--,3H,8-11; 3+!H
 1S,2H,5!h-5(!C/!D); weak 
+1S,2S,6+!c/!D/!H; 17+
 1S,2N,both minors  weak or 17+
-1S,2S,1-suited hand; 17+
 1S2S--,2N,ask
 1S2S--2N--,3C,6+!C; 17+
 1S2S--2N--,3D,6+!d; 17+
