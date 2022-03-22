@@ -122,7 +122,9 @@ Option,Overcall
 1D1S--,2S,5+!S; 8-11
 1D1S--,3C,3+!C; 8-11
 1D,2C, both majors weak or 17+
-1D,2D,preemptive 6+!H or 17+; 6+!H/!S/6+!C
+1D,2D,preemptive 6+!H or 6+!s; 17+
+1D,2H,preemptive 6+!S or 6+!h; 17+
+1D,2S,
 1D2D--,2H,ask
 1D2D--2H--,2S,17+; 6+!S
 1D2D--2H--,2N,17+; 6+!H
@@ -134,6 +136,9 @@ Option,Overcall
 1D2D--2H--,3C,17+; 6+!C
 1D,2N,5!H-5!C; weak
 1D,3C,5!s-5!c; weak
+1D,2S,6+!C (maybe 6+!D also); 17+
+1D,2N,5+!C-5+!H; 8-10
+1D,3C,5+!C-5+!S; 8-10
 1D,Db,4+!h; 8+ or any takeout 12+
 1DDb--,1D,relay; 0-7
 1DDb--1H--,1S,4441!D; 12-16
