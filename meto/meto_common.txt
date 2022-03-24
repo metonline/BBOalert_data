@@ -732,9 +732,9 @@ PREV_OPPS = ACT_OPPS;
 //Script
 Option
 Option,Lang EN
-Shortcut,Rita,We play 2/1. Upside down count & attitude. Odd/Even discards. 1!C openings are 2+!C & 1!D openings are 4+!D..Attitude leads from 2nd/4th RKC0314..Good Luck. \n
+Shortcut,Rita,We play 2/1 weak NT (12-14). Upside down count & attitude. Odd/Even discards. 1!C openings are 2+!C (could have 5!D when 15+ balanced) & 1!D openings are 4+!D unbalanced..Attitude leads from 2nd/4th RKC1430..Good Luck. \n
 Option,Lang TR
-Shortcut,Rita,2/1 UDCA oynuyoruz...Romen defos 1!C açışı 2+!C 1!D açışları 4+!D ile...Ataklarda ilgi 2. ve 4.den.…RKC0314....İyi oyunlar! \n
+Shortcut,Rita,2/1 zayıf NT (12-14) UDCA oynuyoruz...Romen defos 1!C açışı 2+!C (dengeli ve 15+ iken 5.li !D olabilir) 1!D açışları 4+!D ile dengesiz...Ataklarda ilgi 2. ve 4.den.…RKC1430....İyi oyunlar! \n
 
 Option,UDCAR,meto+auzun78
 //Script,onDataLoad,PREV_OPPS = "";
