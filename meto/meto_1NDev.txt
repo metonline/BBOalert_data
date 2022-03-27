@@ -179,7 +179,7 @@ Option,1NDev
 1N--2D--,3H,(4/5)!H | minimum hand
 1N--,2H,5+!s or 4!s-5(!c/!D/!H) invitation
 1N--2H--,2N,(4/5)!s's | maximum hand
-1N--2H--,2S,5+!S's or 4!S-5+(!c/!D/!h) invite
+1N--2H--,2S,(2/3)!s
 1N--2H--2S--,2N,5!S's invite
 1N--2H--2S--,3C,4!S-5+!c invite
 1N--2H--2S--,3D,4!S-5+!d invite
