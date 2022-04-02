@@ -63,7 +63,7 @@ Option,Splinter,meto+camomille
 Option,3/1GF,meto+camomille,meto+gypsyqueen, meto+nilsun
 Option,Superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,meto+gypsyqueen,meto+ratrut
 Option,multylandy,meto+gypsyqueen,meto+ozbay
-Option,2ler,meto+342257
+Option,twos,meto+342257
 Option,2NT,meto+342257
 Option,Puppet,meto+camomille,meto+gurus,meto+gypsyqueen,meto+nilsun
 Option,1NDev,meto+342257
@@ -122,7 +122,7 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_3x1GF.txt,
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_staymanDBL.txt,meto+342257,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_Superaccept.txt,meto+ratrut,meto+camomille,meto+gypsyqueen,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_multylandy.txt,meto+gypsyqueen
-Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2ler.txt,meto+342257
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_twos.txt
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_puppet.txt,meto+gurus,meto+camomille,meto+gypsyqueen
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_1NDev.txt,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_defense_vs_Michaels.txt,meto+ratrut,meto+camomille
