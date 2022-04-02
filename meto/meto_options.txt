@@ -39,7 +39,7 @@ Option,3/1GF,meto+camomille,meto+gypsyqueen, meto+nilsun
 Option,Superaccept,meto+gurus,meto+camomille,meto+nilsun,meto+342257,meto+ozbay,meto+gypsyqueen,meto+ratrut
 Option,multylandy,meto+gypsyqueen,meto+ozbay
 Option,2NT,meto+342257
-Option,2ler,meto+342257
+Option,twos,meto+342257
 Option,MehmetCard,meto+342257
 Option,Nilo,meto+nilsun
 Option,RitaCard,meto+ratrut
