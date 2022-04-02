@@ -41,7 +41,7 @@ Alias,bid slam if !h is short,!h kısa ise şilem ilan et
 Alias,bid slam if !s is short,!s kısa ise şilem ilan et
 Option
 
-Option,2ler
+Option,twos,meto+342257
 ,2C,5+!C's | 10-13 HCP | unbalanced
 2C--,2D,ask about hand | invitational or better
 2C--2D--,2H,3/4!h
