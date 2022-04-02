@@ -218,14 +218,11 @@ Option,1NDev
 1N--3C--3D--,3S,ask for 5!s's with 3!s's
 1N--3C--,3H,5!C-4(!h/!S)
 1N--3C--3H--,3N,To Play
-1N--3C--3H--,3S,ask for 5-card !S or interest in !C slam
+1N--3C--3H--,3S,ask for major suit
 1N--3C--3H--3S--,3N,5!C4!H22
 1N--3C--3H--3S--,4C,5!c4!s22
-1N--3C--,3N,5!D4!h
-1N--3C--3N--,4C,!D fit | !C control
-1N--3C--3N--,4D,!D fit | !s control
-1N--3C--3N--,4H,!D fit | !h control
 1N--3C--,3S,5!D4!s
+1N--3C--,3N,5!D4!h
 1N--3C--3S--,3N,To Play
 1N--3C--3S--,4C,!D fit | !C control
 1N--3C--3S--,4D,!D fit | !s control
