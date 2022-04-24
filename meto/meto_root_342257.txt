@@ -2,13 +2,13 @@ BBOalert,<b><br>meto 210606<br></b>,
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_common.txt
 Option,MichaelsSpec, meto+nilsun, meto+camomille, meto+342257
 Option,FNTDefans,meto+342257, meto+_kafkaf35, meto+camomille
-Option,Major2NTF1, meto+nilsun, meto+342257
+Option,Major2NTF1, meto+nilsun, meto+342257, meto+gypsyqueen
 Option,MajorDev, meto+nilsun, meto+342257
 Option,AgainstWeakNT no instead Meckwell, meto+342257, meto+nilsun, meto+ozbay, meto+ratrut, meto+camomille
 Option,AgainstWeakNT, meto+342257
 Option,DefenseNTBalance, meto+nilsun, meto+gurus, meto+ratrut, meto+gypsyqueen, meto+ozbay, meto+342257
 Option,when_competition_on_NT, meto+ratrut, meto+342257, meto+nilsun, meto+gypsyqueen
-Option,Def2Mon1m, meto+camomille, meto+gurus, meto+nilsun, meto+ozbay, meto+ratrut, meto+gypsyqueen, meto+342257
+Option,Def2Mon1m, meto+camomille, meto+nilsun, meto+ratrut, meto+gypsyqueen, meto+342257
 Option,RangeAskStayman, meto+gurus, meto+camomille, meto+342257, meto+gypsyqueen, meto+nilsun, meto+ratrut
 Option,F1, meto+342257
 Option,twos,meto+342257
