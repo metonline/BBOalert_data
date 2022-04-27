@@ -29,13 +29,13 @@ Option,multidef
 2D4D--4H--,--,To Play 4!H
 2D,Db,take-out for !S | 14+HCP
 
-|2D--,2H,pass/correct
+2D--,2H,pass/correct
 2D--2H--2S,2N,both minors
 2D--2H--2S,3C,natural
 2D--2H--2S,3D,natural
 2D--2H--2S,3H,natural
 
-|2D--2H--,2S,6+!S's | To Play
+2D--2H--,2S,6+!S's | To Play
 2D--2H--2S,Db,take-out for !s | 11-13 HCP
 2D--2H----,2N,both minors
 2D--2H----,2S,natural
