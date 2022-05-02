@@ -1,6 +1,6 @@
 Option,Lang EN
 Option,Lang TR
-Alias,5-card major or 11-13;(44)M(41)m is possible,12-14; 5.li majör veya 11-13;(44)M(41)m olabilir
+Alias,5-card major or 12-13;(44)M(41)m is possible,12-14; 5.li majör veya 12-13;(44)M(41)m olabilir
 Alias,Stayman | may not have 4-card major,Stayman | 4.lü majör olmayabilir
 Alias,no 4-card major,4.lü majör yok
 Alias,transfer to 2!S,2!S'e transfer
@@ -65,7 +65,7 @@ Option
 
 Option,1NDev
 
-,1N,12-14; 5-card major or 11-13;(44)M(41)m is possible
+,1N,12-14; 5-card major or 12-13;(44)M(41)m is possible
 1N--,2C,Stayman | may not have 4-card major
 1N--2C--,2D,no 4-card major
 1N--2C--2D--,2H,transfer to 2!S
@@ -214,34 +214,18 @@ Option,1NDev
 1N--3C--3D--,3H,ask for 5!H's with 3!h's
 1N--3C--3D--3H--,3N,no 5!H's
 1N--3C--3D--3H--,3S,5!S's
-1N--3C--3D--,3N,no 5-card major
 1N--3C--3D--,3S,ask for 5!s's with 3!s's
-1N--3C--,3H,5!C-4(!h/!S)
-1N--3C--3H--,3N,To Play
-1N--3C--3H--,3S,ask for major suit
-1N--3C--3H--3S--,3N,5!C4!H22
-1N--3C--3H--3S--,4C,5!c4!s22
-1N--3C--,3S,5!D4!s
-1N--3C--,3N,5!D4!h
-1N--3C--3S--,3N,To Play
-1N--3C--3S--,4C,!D fit | !C control
-1N--3C--3S--,4D,!D fit | !s control
-1N--3C--3S--,4H,!D fit | !h control
-1N--,3D,4!S4!H1!D4!C / 4!S4!H4!D1!C / 65MM
+1N--3C--,3H,4!h5!c22
+1N--3C--,3S,4!s5!c22
+1N--3C--,3N,4(!H/!S)5!D22
+1N--3C--3N--,4C,ask about major
+1N--,3D,4!S4!H(41)mm / 65MM
 1N--3D--,3H,ask further about shape | no 4-card major
+1N--3D--3H--,3S,4!s4!h4!C1!D | 4!C's
 1N--3D--3H--,3N,4!s4!h4!D1!C | 4!D's
-1N--3D--3H--3N--,4C,!d fit | !c control
-1N--3D--3H--3N--,4D,!d fit | !s control
-1N--3D--3H--3N--,4H,!d fit | !h control
-1N--3D--3H--,3S,4!S4!H1!D4!C | 4!C's
 1N--3D--3H--3S--,3N,To Play
-1N--3D--3H--3S--,4C,!C fit | !S control
-1N--3D--3H--3S--,4D,!C fit | !d control
-1N--3D--3H--3S--,4H,!C fit | !h control
 1N--3D--3H--,4C,6!h5!s
 1N--3D--3H--,4D,6!S5!H
-1N--3D--,3N,!H fit
-1N--3D--,3S,!S fit
 1N--,3H,1!s3!h(54)
 1N--,3N,To Play
 1N--,3S,1!h3!s(54)
