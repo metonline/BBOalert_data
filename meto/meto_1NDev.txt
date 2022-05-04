@@ -80,6 +80,10 @@ Option,1NDev
 1N--2C--2D--,2N,invitation for 3NT with balanced hand
 1N--2C--2D--,2S,ask for 5-card minor
 1N--2C--2D--2S--,2N,no 5-card minor
+1N--2C--2D--2S--2N--,3C,4-card !C & slam interest
+1N--2C--2D--2S--2N--,3D,4-card !D & slam interest
+1N--2C--2D--2S--2N--,3H,1!H4!S44 hand & game values
+1N--2C--2D--2S--2N--,3S,1!S4!H44 hand & game values
 1N--2C--2D--2S--,3C,5!C's
 1N--2C--2D--2S--,3D,5!d's
 1N--2C--2D--2S--,3H,224!D5!C
