@@ -1,7 +1,7 @@
 BBOalert,<b><br>meto 210509<br></b>,
 
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_common.txt
-Shortcut,Shortcuts for the CHAT box,width=100% backgroundColor=palegreen fontSize=18px
+Shortcut,Shortcuts for the CHAT box, ,width=100% backgroundColor=palegreen fontSize=18px
 Shortcut,BTM, Bosphorus Team Games
 Shortcut,AAA, Asia
 Shortcut,EEE, Europe
