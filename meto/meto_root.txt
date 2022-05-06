@@ -82,7 +82,7 @@ Option,spiral,meto+camomille
 Option,Overcall,meto+342257
 Option,namyats,meto+ratrut,meto+camomille,meto+342257
 Option,2Dwkdefans,meto+ratrut,meto+342257
-Option,multidef,meto+ratrut,meto+342257,meto+camomille
+Option,2Dwkdefans no instead multidef,meto+ratrut,meto+342257
 Option
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventionMajorFit.txt,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NFB.txt,meto+camomille,meto+gypsyqueen,meto+nilsun,meto+gurus,meto+ratrut,meto+ozbay
