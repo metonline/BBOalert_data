@@ -22,7 +22,9 @@ Alias,Transfer to 3!H,3!H'e transfer
 Alias,Transfer to 3NT,3NT'ye transfer
 Option
 
-Option,multidef
+2Dwkdefans or multidef
+
+Option,2Dwkdefans no instead multidef
 2D,2H,T/O for !H
 2D2H--,2N,Lebenshol (Transfer to 3!C)
 2D2H--2N--,3C,Automatic
