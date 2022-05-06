@@ -1,4 +1,4 @@
-bboalert,multi'ye defans
+bboalert,2Dwkdefans no instead multidef
 
 Option,Lang EN
 Option,Lang TR
