@@ -1,4 +1,5 @@
-Option,multidef
+Option,Lang EN
+Option,Lang TR
 Alias,Lebenshol (Transfer to 3!C),Lebenshol (3!C'e transfer)
 Alias,asking about major suit,Major renk sorusu
 Alias,stopper in both !S/!H,!H ve !S'te keser
@@ -17,6 +18,9 @@ Alias,both majors,Majör renkler
 Alias,Automatic,Otomatik
 Alias,Transfer to 3!H,3!H'e transfer
 Alias,Transfer to 3NT,3NT'ye transfer
+Option
+
+Option,multidef
 2D,2H,T/O for !H
 2D2H--,2N,Lebenshol (Transfer to 3!C)
 2D2H--2N--,3C,Automatic
