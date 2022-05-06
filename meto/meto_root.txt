@@ -1,4 +1,4 @@
-BBOalert,<b><br>meto 210509<br></b>,
+BBOalert,<b><br>meto 220506<br></b>,
 
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_common.txt
 Shortcut, Shortcuts for the CHAT box, , width=100% backgroundColor=palegreen fontSize=18px
