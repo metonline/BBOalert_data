@@ -1,4 +1,4 @@
-bboalert;Multi'ye Defans
+bboalert,multi'ye defans
 
 Option,Lang EN
 Option,Lang TR
