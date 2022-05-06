@@ -22,7 +22,7 @@ Alias,Transfer to 3!H,3!H'e transfer
 Alias,Transfer to 3NT,3NT'ye transfer
 Option
 
-2Dwkdefans or multidef
+multidef or 2Dwkdefans
 
 Option,2Dwkdefans no instead multidef
 2D,2H,T/O for !H
