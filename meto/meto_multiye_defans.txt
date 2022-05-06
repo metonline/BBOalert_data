@@ -1,3 +1,5 @@
+bboalert;Multi'ye Defans
+
 Option,Lang EN
 Option,Lang TR
 Alias,Lebenshol (Transfer to 3!C),Lebenshol (3!C'e transfer)
