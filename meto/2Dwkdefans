@@ -1,0 +1,14 @@
+bboalert,zayıf 2D'ya Defans
+
+Option,Lang EN
+Option,Lang TR
+Alias,T/O for !D,!D'ya T/O
+Option
+
+Option,2Dwkdefans
+2D,Db,T/O for !D
++,2N,16-18 HCP
++,3D,Both Majors
++,3H,5!H-5!C
++,3S,5!S-5!C
+Option
