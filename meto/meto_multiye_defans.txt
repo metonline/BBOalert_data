@@ -1,9 +1,27 @@
 Option,multidef
+Alias,Lebenshol (Transfer to 3!C),Lebenshol (3!C'e transfer)
+Alias,asking about major suit,Major renk sorusu
+Alias,stopper in both !S/!H,!H ve !S'te keser
+Alias,T/O for !H,!H'e T/O
+Alias,T/O for !S,!S'e T/O
+Alias,both minors,minör renkler
+Alias,natural,natürel
+Alias,with stoppers in both majors,Majör renklerde keser
+Alias,any 4-card major,herhangi 4.lü bir Majör
+Alias,3/4 card !H,3/4.lü !H
+Alias,3/4 card !s,3/4.lü !s
+Alias,Transfer to 3!S,3!S'e transfer
+Alias,Slam try in !c,!C'te şilem denemesi
+Alias,Slam try in !d,!D'da şilem denemesi
+Alias,both majors,Majör renkler
+Alias,Automatic,Otomatik
+Alias,Transfer to 3!H,3!H'e transfer
+Alias,Transfer to 3NT,3NT'ye transfer
 2D,2H,T/O for !H
-2D2H--,2N,Transfer to 3!C
+2D2H--,2N,Lebenshol (Transfer to 3!C)
 2D2H--2N--,3C,Automatic
 2D,Db,T/O for !S
-2DDb--,2N,Transfer to 3!C
+2DDb--,2N,Lebenshol (Transfer to 3!C)
 2DDb--2N--,3C,Automatic
 3C,4C,5+!D-5+(!H/!S)
 3C,4D,5+!H-5+!S
@@ -11,7 +29,7 @@ Option,multidef
 3D,4C,5+!c-5+(!H/!S)
 3D,4D,5+!H-5+!S
 3D,Db,Take-out
-2D,2H,take-out for !h | 14+HCP
+2D,2H,T/O for !H | 14+HCP
 2D,2N,16-18 HCP | stopper in both !S/!H
 2D,2S,5+!S's | 12+ HCP
 2D,3C,15-17 HCP
@@ -27,18 +45,18 @@ Option,multidef
 2D4D--,4H,asking about major suit
 2D4D--4H--,4S,To Play
 2D4D--4H--,--,To Play 4!H
-2D,Db,take-out for !S | 14+HCP
+2D,Db,T/O for !S | 14+HCP
 
 2D--2H--2S,2N,both minors
 2D--2H--2S,3C,natural
 2D--2H--2S,3D,natural
 2D--2H--2S,3H,natural
 
-2D--2H--2S,Db,take-out for !s | 11-13 HCP
+2D--2H--2S,Db,T/O for !S | 11-13 HCP
 2D--2H----,2N,both minors
 2D--2H----,2S,natural
-2D--2H----,Db,take-out for !H | 11-13 HCP
-2D,2H,take out for !H
+2D--2H----,Db,T/O for !H | 11-13 HCP
+2D,2H,T/O for !H
 2D2H--,2N,Lebenshol (transfer to 3!C)
 2D2H--2N--,3C,
 2D,2N,16-18 HCP with stoppers in both majors
@@ -73,6 +91,6 @@ Option,multidef
 2D,4D,5+!D-5+!H 15+HCP
 2D,4H,To Play
 2D,4S,To Play
-2D,Db,Take-out for !s 13+HCP
+2D,Db,T/O for !S; 13+HCP
 2DDb--,2N,Lebenshol (transfer to 3!C)
 Option
