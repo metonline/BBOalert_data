@@ -20,6 +20,7 @@ Alias,both majors,Majör renkler
 Alias,Automatic,Otomatik
 Alias,Transfer to 3!H,3!H'e transfer
 Alias,Transfer to 3NT,3NT'ye transfer
+Alias,with stoppers in both majors,Majör renklerde keser var
 Option
 
 multidef or 2Dwkdefans
