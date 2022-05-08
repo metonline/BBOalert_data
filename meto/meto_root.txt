@@ -83,6 +83,8 @@ Option,Overcall,meto+342257
 Option,namyats,meto+ratrut,meto+camomille,meto+342257
 Option,2Dwkdefans,meto+ratrut,meto+342257
 Option,2Dwkdefans no instead multidef,meto+ratrut,meto+342257
+Option,2Hdef,meto+ratrut,meto+342257
+Option,2Sdef,meto+ratrut,meto+342257
 Option
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_InterventionMajorFit.txt,meto+camomille
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_NFB.txt,meto+camomille,meto+gypsyqueen,meto+nilsun,meto+gurus,meto+ratrut,meto+ozbay
@@ -142,3 +144,5 @@ Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_root_overc
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/root_namyats,meto+ratrut,meto+camomille,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_multiye_defans.txt,meto+ratrut,meto+342257
 Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2Dwkdefans,meto+ratrut,meto+342257
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2Hdef,meto+ratrut,meto+342257
+Import,https://github.com/metonline/BBOalert_data/blob/main/meto/meto_2Sdef,meto+ratrut,meto+342257
