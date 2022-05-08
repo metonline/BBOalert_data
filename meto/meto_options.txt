@@ -62,3 +62,5 @@ Option,Overcall,meto+342257
 Option,namyats,meto+ratrut,meto+camomille
 Option,multidef,meto+342257,meto+ratrut
 Option,2Dwkdefans,meto+342257,meto+ratrut
+Option,2Sdef,meto+342257,meto+ratrut
+Option,2Hdef,meto+342257,meto+ratrut
