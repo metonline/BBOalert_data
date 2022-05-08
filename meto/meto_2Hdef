@@ -1,0 +1,20 @@
+bboalert,zayıf 2H'e Defans
+
+Option,Lang EN
+Option,Lang TR
+Alias,T/O for !H,!H'e T/O
+Alias,Both Minors,Minör renkler
+Alias,Natural,Natürel
+Option
+
+Option,2Hdef
+2H,Db,T/O for !H
++,2S,12-16; Natural
++,2N,16-18 HCP
++,3C,12-16; Natural
++,3D,12-16; Natural
++,3H,Both Minors
++,4C,5+!S-5+!C; 15+
++,4D,5+!S-5+!D; 15+
+Option
+
