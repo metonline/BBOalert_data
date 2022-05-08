@@ -1,0 +1,19 @@
+bboalert,zayıf 2S'e Defans
+
+Option,Lang EN
+Option,Lang TR
+Alias,T/O for !S,!S'e T/O
+Alias,Both Minors or asking for stopper with a long & solid suit,Minör renkler ya da uzun kapalı bir renk ile keser sorusu
+Alias,Natural,Natürel
+Option
+
+Option,2Sdef
+2S,Db,T/O for !S
++,2N,16-18 HCP
++,3C,12-16; Natural
++,3D,12-16; Natural
++,3H,12-16; Natural
++,3S,Both Minors or asking for stopper with a long & solid suit
++,4C,5+!H-5+!C; 15+
++,4D,5+!H-5+!D; 15+
+Option
